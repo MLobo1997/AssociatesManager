@@ -1,0 +1,456 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Bike.java" timestamp="1496506497579">
+        <mark key="'" line="12" column="5" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesWindows.java" timestamp="1507055346348">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/PlayList.java" timestamp="1498611610615">
+        <mark key="'" line="55" column="3" />
+        <mark key="[" line="76" column="34" />
+        <mark key="]" line="76" column="31" />
+        <mark key="^" line="76" column="31" />
+        <mark key="." line="76" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/IncorrectValueQuoteException.java" timestamp="1506678593229">
+        <mark key="[" line="3" column="61" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+      </file>
+      <file name="/a.dummy" timestamp="1506821061711">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Quote.java" timestamp="1506680795034">
+        <mark key="'" line="68" column="16" />
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="45" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Exceptions/AlreadyPaidException.java" timestamp="1506679488722">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/NoSuchAssociateException.java" timestamp="1506419089260">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/U Minho/2017-18/1o_semestre/DSS/project_1/src/project_1.java" timestamp="1506029763292">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/AgenciaViagens.java" timestamp="1498609772860">
+        <mark key="'" line="45" column="8" />
+        <mark key="k" line="35" column="0" />
+        <mark key="[" line="42" column="63" />
+        <mark key="]" line="42" column="63" />
+        <mark key="." line="42" column="63" />
+        <mark key="^" line="42" column="63" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/HotelStandard.java" timestamp="1498601813464">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/HotelPremium.java" timestamp="1498601943319">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Taxi.java" timestamp="1496505929413">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Car.java" timestamp="1496506487223">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="39" column="6" />
+        <mark key="^" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" timestamp="1507055398306">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="70" column="5" />
+        <mark key="." line="70" column="5" />
+        <mark key="^" line="70" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" timestamp="1496938623600">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/project.java" timestamp="1506679655938">
+        <mark key="[" line="11" column="113" />
+        <mark key="]" line="11" column="113" />
+        <mark key="^" line="11" column="98" />
+        <mark key="." line="11" column="113" />
+      </file>
+      <file name="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/KeyExistsException.java" timestamp="1496349166579">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506034045569">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/AutorInexistenteException.java" timestamp="1498590296360">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="55" />
+        <mark key="^" line="3" column="55" />
+        <mark key="." line="3" column="55" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" timestamp="1498602232541">
+        <mark key="'" line="8" column="18" />
+        <mark key="[" line="8" column="57" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Interface.java" timestamp="1496455144904">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/MainTest.java" timestamp="1496342922669">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/MusicaComVideo.java" timestamp="1498601377788">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/HotelDiscount.java" timestamp="1498601950001">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" timestamp="1506680733216">
+        <mark key="'" line="71" column="3" />
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="27" />
+        <mark key="^" line="54" column="28" />
+        <mark key="." line="51" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/NoSuchQuoteException.java" timestamp="1506678789906">
+        <mark key="[" line="3" column="53" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Playable.java" timestamp="1498600312142">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/APAGAR/src/Main.java" timestamp="1497144755096">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Associate.java" timestamp="1506680677298">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="51" column="73" />
+        <mark key="." line="51" column="73" />
+        <mark key="^" line="51" column="73" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AlreadyPaidException.java" timestamp="1506679038239">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="3" column="50" />
+        <mark key="^" line="3" column="50" />
+        <mark key="." line="3" column="50" />
+      </file>
+      <file name="$USER_HOME$/Development/grupo51/Ficha7/src/HotelsInc.java" timestamp="1496152081370">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/Development/grupo51/Ficha7/src/Hotel.java" timestamp="1496147095984">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="74" column="5" />
+        <mark key="]" line="75" column="3" />
+        <mark key="." line="75" column="3" />
+        <mark key="^" line="75" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Hotel.java" timestamp="1498603638663">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="6" column="69" />
+        <mark key="^" line="6" column="69" />
+        <mark key="." line="6" column="69" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Exceptions/IncorrectValueException.java" timestamp="1506679559091">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1506679302178">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="77" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="53" column="3" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="62" column="6" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="11" column="20" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="27" column="4" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Contributors.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/TripHistory.java" />
+      <jump line="66" column="6" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/TripHistory.java" />
+      <jump line="71" column="15" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/TripHistory.java" />
+      <jump line="88" column="5" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/TripHistory.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Trip.java" />
+      <jump line="223" column="8" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Trip.java" />
+      <jump line="205" column="6" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Trip.java" />
+      <jump line="12" column="5" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Bike.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Client.java" />
+      <jump line="208" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Trip.java" />
+      <jump line="153" column="5" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Parse.java" />
+      <jump line="65" column="26" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="165" column="22" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="197" column="26" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="200" column="22" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="162" column="27" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="8" column="13" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="37" column="24" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="122" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="3" column="17" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="81" column="4" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="34" column="17" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="22" column="57" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="38" column="8" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="45" column="26" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="136" column="41" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="103" column="27" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="24" column="29" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/HashTree.java" />
+      <jump line="26" column="52" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/HashTree.java" />
+      <jump line="157" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="30" column="28" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/HashTree.java" />
+      <jump line="71" column="33" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/HashTree.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="58" column="20" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="182" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="82" column="4" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="3" column="13" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="152" column="28" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="188" column="38" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="128" column="54" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="165" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="135" column="16" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="137" column="33" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="142" column="21" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="101" column="10" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="73" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="74" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="72" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
+      <jump line="12" column="16" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Parse.java" />
+      <jump line="188" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Parse.java" />
+      <jump line="189" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Parse.java" />
+      <jump line="121" column="6" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="96" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="37" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="24" column="8" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="32" column="15" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="42" column="11" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="43" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="62" column="11" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="63" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="93" column="12" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="102" column="15" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="112" column="28" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="9" column="48" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="23" column="22" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
+      <jump line="141" column="17" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="42" column="82" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="51" column="38" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
+      <jump line="144" column="9" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="138" column="34" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
+      <jump line="53" column="17" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" />
+      <jump line="17" column="25" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" />
+      <jump line="9" column="36" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" />
+      <jump line="12" column="22" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" />
+      <jump line="55" column="61" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" />
+      <jump line="33" column="25" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/PlayList.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" />
+      <jump line="58" column="3" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/PlayList.java" />
+      <jump line="8" column="18" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" />
+      <jump line="23" column="21" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Hotel.java" />
+      <jump line="45" column="8" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/AgenciaViagens.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Associate.java" />
+      <jump line="8" column="29" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" />
+      <jump line="30" column="36" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" />
+      <jump line="37" column="19" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Quote.java" />
+      <jump line="46" column="16" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Quote.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
+      <jump line="50" column="3" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="i" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text>SwingControlDemo</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRBc3NvY2lhdGVzXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIHByLnBheVF1b3RlKG5ldyBMb25nKDEpLCAxMi4wKTsKICAgICAgICB9Y2F0Y2ggKEFscmVhZHlQYWlkRXhjZXB0aW9uIGUpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkrDoSBlc3TDoSBwYWdhIik7CiAgICAgICAgfWNhdGNoIChJbmNvcnJlY3RWYWx1ZUV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJWYWxvciBpbmNvcnJldG8iKTsKICAgICAgICB9Y2F0Y2ggKE5vU3VjaFF1b3RlRXhjZXB0aW9uIGUpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIklEIGluZXhpc3RlbnRlIik7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBBc3NvY2lhdGVzV2luZG93cygpewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVwYXJlR1VJKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBndWkuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBMYXlvCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpLgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpLgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxnZXRBc3NvY2lhdGVzXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxnZXRBc3NvY2lhdGVzXD4=</last-pattern>
+      <last-replace>e</last-replace>
+      <last-substitute>e1</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>duration</entry>
+        <entry>Int</entry>
+        <entry>long</entry>
+        <entry>int</entry>
+        <entry>Integer</entry>
+        <entry>LinkedList</entry>
+        <entry>TreeMap</entry>
+        <entry>article_</entry>
+        <entry>init</entry>
+        <entry>stream</entry>
+        <entry>stream\c</entry>
+        <entry>clone</entry>
+        <entry>Anax</entry>
+        <entry encoding="base64">XDxMYXJnZXN0UmV2TGVuZ3RoXD4=</entry>
+        <entry>println</entry>
+        <entry encoding="base64">XDx0cmVlXD4=</entry>
+        <entry>get</entry>
+        <entry>rev.getContent().length()</entry>
+        <entry>e1</entry>
+        <entry encoding="base64">XDxnZXRBc3NvY2lhdGVzXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/int/long/gc</entry>
+        <entry>x</entry>
+        <entry>noh</entry>
+        <entry>%s/duration/Duration/gc</entry>
+        <entry>%s/long/Long/gc</entry>
+        <entry>%s/int/Int/g</entry>
+        <entry>%s/Int/Integer/g</entry>
+        <entry>%s/int/Integer/gc</entry>
+        <entry>%s/Integer/Long/g</entry>
+        <entry>%s/long/Long/g</entry>
+        <entry>%s/int/Integer/g</entry>
+        <entry>%s/Integer/Long/gc</entry>
+        <entry>%s/LinkedList/LinkedBlockingQueue/gc</entry>
+        <entry>%s/TreeMap/ConcurrentSkipListMap/gc</entry>
+        <entry>%s/e1/e/g</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
