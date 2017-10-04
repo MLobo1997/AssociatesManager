@@ -10,10 +10,10 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesWindows.java" timestamp="1507055346348">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesWindows.java" timestamp="1507159654858">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
         <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/PlayList.java" timestamp="1498611610615">
@@ -87,12 +87,12 @@
         <mark key="^" line="36" column="21" />
         <mark key="." line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" timestamp="1507055398306">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="69" column="5" />
-        <mark key="]" line="70" column="5" />
-        <mark key="." line="70" column="5" />
-        <mark key="^" line="70" column="5" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" timestamp="1507160066181">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="58" column="62" />
+        <mark key="." line="58" column="62" />
+        <mark key="^" line="58" column="62" />
       </file>
       <file name="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" timestamp="1496938623600">
         <mark key="[" line="35" column="0" />
@@ -213,12 +213,11 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507155345541">
+      <file name="/fragment.java" timestamp="1507159833877">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
       <jump line="53" column="3" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
       <jump line="62" column="6" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
       <jump line="11" column="20" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
@@ -318,6 +317,7 @@
       <jump line="46" column="16" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Quote.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="50" column="3" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -331,13 +331,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SwingControlDemo</text>
+        <text>static void main</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBc3NvY2lhdGVzXD4=</text>
@@ -346,31 +346,31 @@
         <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIHByLnBheVF1b3RlKG5ldyBMb25nKDEpLCAxMi4wKTsKICAgICAgICB9Y2F0Y2ggKEFscmVhZHlQYWlkRXhjZXB0aW9uIGUpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkrDoSBlc3TDoSBwYWdhIik7CiAgICAgICAgfWNhdGNoIChJbmNvcnJlY3RWYWx1ZUV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJWYWxvciBpbmNvcnJldG8iKTsKICAgICAgICB9Y2F0Y2ggKE5vU3VjaFF1b3RlRXhjZXB0aW9uIGUpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIklEIGluZXhpc3RlbnRlIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBc3NvY2lhdGVzV2luZG93cygpewo=</text>
+        <text encoding="base64">aW1wb3J0IEFzc29jaWF0ZXNNYW5hZ2VyZGQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwYXJlR1VJKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NvY2lhdGVzV2luZG93cyBndWkgPSBuZXcgQXNzb2NpYXRlc1dpbmRvd3MoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NvY2lhdGVzV2luZG93cyBndWkgPSBuZXcgQXNzb2NpYXRlc1dpbmRvd3MoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NvY2lhdGVzTWFuYWdlciBwciA9IG5ldyBBc3NvY2lhdGVzTWFuYWdlcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBndWkuCg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMYXlvCg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpLgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpLgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBc3NvY2lhdGVzV2luZG93cygpewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
