@@ -10,7 +10,7 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesWindows.java" timestamp="1507204868571">
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesWindows.java" timestamp="1507210356802">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -86,12 +86,12 @@
         <mark key="^" line="36" column="21" />
         <mark key="." line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" timestamp="1507205386130">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="19" />
-        <mark key="." line="59" column="19" />
-        <mark key="^" line="59" column="19" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" timestamp="1507210242492">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="67" column="8" />
+        <mark key="." line="67" column="8" />
+        <mark key="^" line="64" column="49" />
       </file>
       <file name="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" timestamp="1496938623600">
         <mark key="[" line="35" column="0" />
@@ -217,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="5" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/TripHistory.java" />
       <jump line="99" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Trip.java" />
       <jump line="223" column="8" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Trip.java" />
       <jump line="205" column="6" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Trip.java" />
@@ -317,6 +316,7 @@
       <jump line="53" column="35" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="14" column="7" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
+      <jump line="65" column="12" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -329,14 +329,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NvY2lhdGVzLgo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBc3NvY2lhdGVzXD4=</text>
@@ -345,31 +345,31 @@
         <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIHByLnBheVF1b3RlKG5ldyBMb25nKDEpLCAxMi4wKTsKICAgICAgICB9Y2F0Y2ggKEFscmVhZHlQYWlkRXhjZXB0aW9uIGUpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkrDoSBlc3TDoSBwYWdhIik7CiAgICAgICAgfWNhdGNoIChJbmNvcnJlY3RWYWx1ZUV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJWYWxvciBpbmNvcnJldG8iKTsKICAgICAgICB9Y2F0Y2ggKE5vU3VjaFF1b3RlRXhjZXB0aW9uIGUpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIklEIGluZXhpc3RlbnRlIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLkFzc29jaWF0ZXMuIAo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NvY2lhdGVzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NvY2lhdGVzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHIuZ2V0QXNzb2NpYXRlcygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHIuZ2V0UXVvdGVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLkFzc29jaWF0ZXMuIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NvY2lhdGVzV2luZG93cyBtYWluV2luZG93ID0gbmV3IEFzc29jaWF0ZXNXaW5kb3dzKCk7CgogICAgICAgIC8qCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBc3NvY2lhdGVzV2luZG93cygpIHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHIuZ2V0QXNzb2NpYXRlcygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHIuZ2V0UXVvdGVzKCkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NvY2lhdGVzV2luZG93cyBtYWluV2luZG93ID0gbmV3IEFzc29jaWF0ZXNXaW5kb3dzKCk7CgogICAgICAgIC8qCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBc3NvY2lhdGVzV2luZG93cygpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki8KICAgICAgICBBc3NvY2lhdGVzV2luZG93cyBtYWluV2luZG93ID0gbmV3IEFzc29jaWF0ZXNXaW5kb3dzKCk7CgogICAgICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
