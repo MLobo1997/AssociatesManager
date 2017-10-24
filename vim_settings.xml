@@ -220,12 +220,12 @@
       <file name="/fragment.java" timestamp="1507227858007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/BoundedBuffer.java" timestamp="1508853404377">
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/BoundedBuffer.java" timestamp="1508854363853">
         <mark key="'" line="8" column="14" />
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="20" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -342,13 +342,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>System.err.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>System.err.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBc3NvY2lhdGVzXD4=</text>
