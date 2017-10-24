@@ -28,7 +28,7 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1506821061711">
+      <file name="/a.dummy" timestamp="1508859967414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Quote.java" timestamp="1506680795034">
@@ -49,11 +49,17 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Consumer.java" timestamp="1508855630425">
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="11" column="39" />
-        <mark key="^" line="11" column="39" />
-        <mark key="." line="11" column="39" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Consumer.java" timestamp="1508865205872">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Checker.java" timestamp="1508860133103">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/U Minho/2017-18/1o_semestre/DSS/project_1/src/project_1.java" timestamp="1506029763292">
         <mark key="[" line="4" column="30" />
@@ -107,6 +113,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Main.java" timestamp="1508865397779">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+      </file>
       <file name="/Dummy.txt" timestamp="1507056904415">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,11 +141,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Inserter.java" timestamp="1508856035693">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Inserter.java" timestamp="1508865146449">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="30" />
       </file>
       <file name="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/MainTest.java" timestamp="1496342922669">
         <mark key="[" line="7" column="43" />
@@ -203,10 +216,11 @@
         <mark key="." line="75" column="3" />
         <mark key="^" line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/BoundedBuffer.java" timestamp="1508855037138">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/BoundedBuffer.java" timestamp="1508865030603">
+        <mark key="'" line="4" column="20" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Hotel.java" timestamp="1498603638663">
         <mark key="'" line="24" column="21" />
@@ -226,7 +240,7 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507227858007">
+      <file name="/fragment.java" timestamp="1508859690137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/BoundedBuffer.java" timestamp="1508854363853">
@@ -238,10 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="8" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Trip.java" />
-      <jump line="205" column="6" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Trip.java" />
-      <jump line="12" column="5" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Bike.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Client.java" />
       <jump line="208" column="0" filename="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Trip.java" />
       <jump line="153" column="5" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Parse.java" />
       <jump line="65" column="26" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
@@ -338,6 +348,10 @@
       <jump line="15" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="65" column="12" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="8" column="14" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/BoundedBuffer.java" />
+      <jump line="42" column="15" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/BoundedBuffer.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Main.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Main.java" />
+      <jump line="4" column="20" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/BoundedBuffer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -350,47 +364,47 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>100</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBc3NvY2lhdGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIHByLnBheVF1b3RlKG5ldyBMb25nKDEpLCAxMi4wKTsKICAgICAgICB9Y2F0Y2ggKEFscmVhZHlQYWlkRXhjZXB0aW9uIGUpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkrDoSBlc3TDoSBwYWdhIik7CiAgICAgICAgfWNhdGNoIChJbmNvcnJlY3RWYWx1ZUV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJWYWxvciBpbmNvcnJldG8iKTsKICAgICAgICB9Y2F0Y2ggKE5vU3VjaFF1b3RlRXhjZXB0aW9uIGUpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIklEIGluZXhpc3RlbnRlIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGVzdDogYyA9ICIgKyBjTnIgKyAiICBwID0gIiArIHBOcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkFRVUkiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQVFVSSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQVFVSSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1Ygo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQVFVSSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQVFVSSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3luY2hyb25pemVkIHZvaWQgcmVzZXQoKXsKICAgICAgICBlbGVtZW50c05yID0gMDsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0ID0gSW5zdGFudC5ub3coKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
