@@ -256,12 +256,12 @@
         <mark key="." line="51" column="73" />
         <mark key="^" line="51" column="73" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/BoundedBuffer5.java" timestamp="1510178617550">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="57" column="26" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/BoundedBuffer5.java" timestamp="1510181028067">
+        <mark key="'" line="44" column="16" />
+        <mark key="[" line="50" column="37" />
+        <mark key="]" line="50" column="37" />
+        <mark key="^" line="50" column="37" />
+        <mark key="." line="50" column="37" />
       </file>
       <file name="$USER_HOME$/Development/grupo51/Ficha7/src/HotelsInc.java" timestamp="1496152081370">
         <mark key="[" line="18" column="31" />
@@ -269,12 +269,12 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Main5.java" timestamp="1510178996590">
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Main5.java" timestamp="1510180902221">
         <mark key="'" line="39" column="16" />
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="28" />
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
         <mark key="^" line="8" column="18" />
-        <mark key="." line="10" column="28" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Hotel.java" timestamp="1498603638663">
         <mark key="'" line="24" column="21" />
@@ -293,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="24" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
       <jump line="48" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
       <jump line="122" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
       <jump line="3" column="17" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
@@ -393,6 +392,7 @@
       <jump line="3" column="4" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Inserter5.java" />
       <jump line="41" column="24" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Main5.java" />
       <jump line="42" column="16" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Main5.java" />
+      <jump line="43" column="16" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/BoundedBuffer5.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -406,64 +406,62 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>Inserter</text>
+        <text>full</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQm91bmRlZEJ1ZmZlciBiOwogICAgcHJpdmF0ZSBmaW5hbCBpbnQgdDsKCiAgICBwdWJsaWMgSW5zZXJ0ZXIoQm91bmRlZEJ1ZmZlciBidWYsIGludCB0KXsKICAgICAgICBiID0gYnVmOwogICAgICAgIHRoaXMudCA9IHQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgIFJhbmRvbSByID0gbmV3IFJhbmRvbSgpOwogICAgICAgIGludCBwOwoKICAgICAgICBmb3IoaW50IGkgPSAwIDsgaSA8IHQgOyBpKyspewogICAgICAgICAgICBwID0gci5uZXh0SW50KDEwMCk7CiAgICAgICAgICAgIGIucHV0KHApOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NrLmxvY2soKTsKICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEd1aWFvNC5JbnNlcnRlcjU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy99Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEd1aWFvNC5Db25zdW1lcjU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NrLmxvY2soKTsKICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICBsb2NrLmxvY2soKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jay5sb2NrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihlbGVtZW50c05yID49IHNpemUpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NrLnVubG9jaygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IEd1aWFvNC5JbnNlcnRlcjU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IEd1aWFvNC5Db25zdW1lcjU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/full/notEmpty/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>Inserter</last-search>
+      <last-search>full</last-search>
       <last-offset />
-      <last-pattern>Inserter</last-pattern>
-      <last-replace>Inserter5</last-replace>
-      <last-substitute>Inserter</last-substitute>
+      <last-pattern>full</last-pattern>
+      <last-replace>notEmpty</last-replace>
+      <last-substitute>full</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>int</entry>
-        <entry>Integer</entry>
         <entry>LinkedList</entry>
         <entry>TreeMap</entry>
         <entry>article_</entry>
@@ -482,9 +480,10 @@
         <entry>BoundedBuffer</entry>
         <entry>Consumer</entry>
         <entry>Inserter</entry>
+        <entry>empty</entry>
+        <entry>full</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/int/long/gc</entry>
         <entry>x</entry>
         <entry>%s/duration/Duration/gc</entry>
         <entry>%s/long/Long/gc</entry>
@@ -503,6 +502,8 @@
         <entry>%s/Consumer/Consumer5/g</entry>
         <entry>%s/Inserter/Inserter5/g</entry>
         <entry>w</entry>
+        <entry>%s/empty/notFull/gc</entry>
+        <entry>%s/full/notEmpty/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
