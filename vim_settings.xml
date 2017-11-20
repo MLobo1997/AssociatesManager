@@ -171,10 +171,10 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/LoopEcho.java" timestamp="1511189967362">
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/LoopEcho.java" timestamp="1511190579633">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="62" />
         <mark key="^" line="22" column="18" />
         <mark key="." line="10" column="0" />
       </file>
@@ -255,6 +255,12 @@
         <mark key="]" line="26" column="3" />
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1511191672446">
+        <mark key="[" line="10" column="62" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" timestamp="1506680733216">
         <mark key="'" line="71" column="3" />
@@ -426,46 +432,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZQo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>InputStream</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>full</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHRocm93cyBJbnRlcnJ1cHRlZEV4Y2VwdGlvbg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZyBhcmdzW10pIHRocm93cyBJT0V4Y2VwdGlvbnsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQcmludFdyaXRlciBvdXQgPSBuZXcgUHJpbnRXcml0ZXIoY3MuZ2V0T3V0cHV0U3RyZWFtKCksIHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuV3JpdGUK</text>
+        <text encoding="base64">ICAgICAgICBQcmludFdyaXRlciBvdXQgPSBuZXcgUHJpbnRXcml0ZXIoY3MuZ2V0T3V0cHV0U3RyZWFtKCksIHRydWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAobldyaXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICBuV3JpdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5Xcml0ZQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAobldyaXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoblJlYWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBjYW5Xcml0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoblJlYWQpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZShuV3JpdGUgPiAwKQogICAgICAgICAgICBjYW5Xcml0ZS5hd2FpdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
