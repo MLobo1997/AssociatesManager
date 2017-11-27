@@ -10,10 +10,11 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4Server.java" timestamp="1511793925475">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4Server.java" timestamp="1511794884848">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="56" />
+        <mark key="^" line="11" column="56" />
       </file>
       <file name="/a.dummy" timestamp="1511793105487">
         <mark key="[" line="0" column="0" />
@@ -200,7 +201,7 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex3Server.java" timestamp="1511793610895">
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex3Server.java" timestamp="1511794688383">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="30" column="18" />
         <mark key="." line="14" column="89" />
@@ -302,10 +303,11 @@
         <mark key="^" line="6" column="69" />
         <mark key="." line="6" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4SumThread.java" timestamp="1511793729012">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4SumThread.java" timestamp="1511795051541">
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="27" column="52" />
+        <mark key="." line="27" column="52" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1510178970456">
         <mark key="[" line="0" column="0" />
@@ -424,14 +426,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICBkCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>full</text>
