@@ -10,13 +10,13 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4Server.java" timestamp="1511794884848">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="11" column="56" />
-        <mark key="." line="11" column="56" />
-        <mark key="^" line="11" column="56" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4Server.java" timestamp="1511795588820">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511793105487">
+      <file name="/a.dummy" timestamp="1511797253620">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/NoSuchAssociateException.java" timestamp="1506419089260">
@@ -30,6 +30,12 @@
         <mark key="]" line="14" column="4" />
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Message.java" timestamp="1511797481759">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="7" column="65" />
+        <mark key="^" line="7" column="65" />
+        <mark key="." line="7" column="65" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Taxi.java" timestamp="1496505929413">
         <mark key="[" line="18" column="0" />
@@ -131,12 +137,6 @@
         <mark key="." line="75" column="3" />
         <mark key="^" line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/BoundedBuffer.java" timestamp="1510176453571">
-        <mark key="'" line="4" column="20" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="11" column="5" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Exceptions/IncorrectValueException.java" timestamp="1506679559091">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -149,6 +149,12 @@
         <mark key="]" line="28" column="17" />
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="17" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ChatThread.java" timestamp="1511798751323">
+        <mark key="[" line="33" column="65" />
+        <mark key="]" line="34" column="37" />
+        <mark key="^" line="34" column="37" />
+        <mark key="." line="34" column="37" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/PlayList.java" timestamp="1498611610615">
         <mark key="'" line="55" column="3" />
@@ -250,6 +256,13 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1511797793556">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1511191672446">
         <mark key="[" line="10" column="62" />
         <mark key="]" line="10" column="67" />
@@ -314,8 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="17" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
-      <jump line="22" column="57" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
       <jump line="38" column="8" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
       <jump line="45" column="26" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
       <jump line="136" column="41" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
@@ -414,6 +425,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/JustHello.java" />
       <jump line="23" column="4" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/LoopEcho.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/LoopEcho.java" />
+      <jump line="8" column="6" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -427,46 +440,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Tell me your name:</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Tell me your name:</text>
       </register>
       <register name="/" type="4">
         <text>full</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcmludFdyaXRlciBvdXQgPSBuZXcgUHJpbnRXcml0ZXIoY3MuZ2V0T3V0cHV0U3RyZWFtKCksIHRydWUpOwogICAgICAgIEJ1ZmZlcmVkUmVhZGVyIGluID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihjcy5nZXRJbnB1dFN0cmVhbSgpKSk7CgogICAgICAgIEludGVnZXIgc3VtID0gMDsKICAgICAgICBTdHJpbmcgbjsKICAgICAgICB3aGlsZSAoKG4gPSBpbi5yZWFkTGluZSgpKSAhPSBudWxsKXsKICAgICAgICAgICAgdHJ5ewogICAgICAgICAgICAgICAgc3VtICs9IEludGVnZXIucGFyc2VJbnQobik7CiAgICAgICAgICAgICAgICBvdXQucHJpbnRsbigiU3VtOiAiICsgc3VtKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGUpewogICAgICAgICAgICAgICAgb3V0LnByaW50bG4oIk5vdCBhIG51bWJlciEhISIpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBpbi5jbG9zZSgpOwogICAgICAgIG91dC5jbG9zZSgpOwogICAgICAgIGNzLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LnByaW50bG4oIlRlbGwgbWUgeW91ciBuYW1lOiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFeDRTdW1UaHJlYWQgdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDaGF0VGhyZWFkKExpbmtlZExpc3Q8TWVzc2FnZT4gY29udmVyc2F0aW9uKSB7CiAgICAgICAgdGhpcy5jb252ZXJzYXRpb24gPSBjb252ZXJzYXRpb247CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY2F0Y2goSU9FeGNlcHRpb24gZSl7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmVyU29ja2V0IHNzOwo=</text>
+        <text encoding="base64">ICAgICAgICB3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNlciAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZyBbXSBhcmdzKXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
