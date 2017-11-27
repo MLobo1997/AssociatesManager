@@ -31,11 +31,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Message.java" timestamp="1511797481759">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="7" column="65" />
-        <mark key="^" line="7" column="65" />
-        <mark key="." line="7" column="65" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Message.java" timestamp="1511805783651">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Taxi.java" timestamp="1496505929413">
         <mark key="[" line="18" column="0" />
@@ -150,11 +150,11 @@
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ChatThread.java" timestamp="1511798751323">
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="34" column="37" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="34" column="37" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ChatThread.java" timestamp="1511806775076">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/PlayList.java" timestamp="1498611610615">
         <mark key="'" line="55" column="3" />
@@ -439,8 +439,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Tell me your name:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -455,7 +455,7 @@
         <text encoding="base64">ICAgICAgICAgICAgb3V0LnByaW50bG4oIlRlbGwgbWUgeW91ciBuYW1lOiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -464,22 +464,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDaGF0VGhyZWFkKExpbmtlZExpc3Q8TWVzc2FnZT4gY29udmVyc2F0aW9uKSB7CiAgICAgICAgdGhpcy5jb252ZXJzYXRpb24gPSBjb252ZXJzYXRpb247CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDaGF0VGhyZWFkKExpbmtlZExpc3Q8TWVzc2FnZT4gY29udmVyc2F0aW9uKSB7CiAgICAgICAgdGhpcy5jb252ZXJzYXRpb24gPSBjb252ZXJzYXRpb247CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZyBbXSBhcmdzKXsK</text>
+        <text encoding="base64">ICAgICAgICB3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZyBbXSBhcmdzKXsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
