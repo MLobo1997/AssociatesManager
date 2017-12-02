@@ -173,12 +173,12 @@
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ChatThread.java" timestamp="1512223488650">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="35" />
-        <mark key="m" line="21" column="24" />
-        <mark key="." line="21" column="35" />
-        <mark key="^" line="21" column="35" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ChatThread.java" timestamp="1512245351600">
+        <mark key="[" line="35" column="29" />
+        <mark key="m" line="24" column="24" />
+        <mark key="]" line="35" column="31" />
+        <mark key="^" line="35" column="31" />
+        <mark key="." line="35" column="31" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/PlayList.java" timestamp="1498611610615">
         <mark key="'" line="55" column="3" />
@@ -286,12 +286,12 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1511797793556">
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1512245292201">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
+        <mark key="[" line="13" column="76" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1511191672446">
         <mark key="[" line="10" column="62" />
@@ -469,14 +469,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>format</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnl7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>format</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>full</text>
@@ -485,31 +485,31 @@
         <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCJdOiAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICovMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnl7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCdcbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5ewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeXsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2suCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJibGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzb2Npb3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgpIC0+IGxvY2sK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5vbWUxID0gbm9tZTE7Cg==</text>
+        <text encoding="base64">ICAgICovMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5vbWUyID0gbm9tZTI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCdcbicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTb2NpbyhTdHJpbmcgbm9tZTEsIFN0cmluZyBub21lMiwgU3RyaW5nIG1vZGFsaWRlKSB7CiAgICAgICAgdGhpcy5ub21lMSA9IG5vbWUxOwogICAgICAgIHRoaXMubm9tZTIgPSBub21lMjsKICAgICAgICB0aGlzLm1vZGFsaWRlID0gbW9kYWxpZGU7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
