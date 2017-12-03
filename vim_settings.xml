@@ -173,19 +173,18 @@
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Client.java" timestamp="1512264416837">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="18" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Client.java" timestamp="1512267809447">
+        <mark key="[" line="10" column="62" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ChatThread.java" timestamp="1512264721817">
-        <mark key="'" line="44" column="27" />
-        <mark key="[" line="47" column="44" />
-        <mark key="m" line="24" column="24" />
-        <mark key="]" line="48" column="32" />
-        <mark key="^" line="48" column="32" />
-        <mark key="." line="48" column="32" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ChatThread.java" timestamp="1512269102037">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="70" column="0" />
+        <mark key="m" line="26" column="24" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/PlayList.java" timestamp="1498611610615">
         <mark key="'" line="55" column="3" />
@@ -276,12 +275,12 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ClientReader.java" timestamp="1512265499709">
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ClientReader.java" timestamp="1512267871699">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-        <mark key="^" line="12" column="9" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1507056904415">
         <mark key="[" line="0" column="0" />
@@ -300,12 +299,12 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1512261126048">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="16" column="43" />
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1512268138671">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="18" column="64" />
+        <mark key="]" line="18" column="72" />
+        <mark key="." line="18" column="72" />
+        <mark key="^" line="18" column="72" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
         <mark key="[" line="11" column="9" />
@@ -371,10 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="29" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/HashTree.java" />
-      <jump line="26" column="52" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/HashTree.java" />
-      <jump line="157" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
-      <jump line="30" column="28" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/HashTree.java" />
       <jump line="71" column="33" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/HashTree.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
       <jump line="34" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
@@ -471,6 +466,10 @@
       <jump line="1" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ClientReader.java" />
       <jump line="22" column="4" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ClientReader.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ClientReader.java" />
+      <jump line="1" column="26" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" />
+      <jump line="50" column="21" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ChatThread.java" />
+      <jump line="69" column="12" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ChatThread.java" />
+      <jump line="18" column="4" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ChatThread.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -484,46 +483,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJc3RvIGFjb250ZWNldSBtZXNtbyEhISIpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>full</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCJdOiAiKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJc3RvIGFjb250ZWNldSBtZXNtbyEhISIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJc3RvIGFjb250ZWNldSBtZXNtbyEhISIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKFNvY2tldCBzIDogc29ja2V0cyl7CiAgICAgICAgICAgICAgICBvdXQgPSBuZXcgUHJpbnRXcml0ZXIocy5nZXRPdXRwdXRTdHJlYW0oKSwgdHJ1ZSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsKICAgICAgICAgICAgbG9jay51bmxvY2soKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NrLmxvY2soKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKHMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9vdXQucHJpbnRsbihtKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -607,6 +606,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
