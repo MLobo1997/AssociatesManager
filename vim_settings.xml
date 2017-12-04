@@ -21,7 +21,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1512400036970">
+      <file name="/a.dummy" timestamp="1512415404789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/NoSuchAssociateException.java" timestamp="1506419089260">
@@ -243,6 +243,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/MatchMaker.java" timestamp="1512415469639">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex3Server.java" timestamp="1511794688383">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="30" column="18" />
@@ -299,11 +305,12 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512413725087">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="51" column="58" />
-        <mark key="]" line="51" column="58" />
-        <mark key="." line="51" column="58" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512415119911">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="7" />
+        <mark key="]" line="67" column="3" />
+        <mark key="." line="67" column="3" />
+        <mark key="^" line="67" column="3" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1512268138671">
         <mark key="'" line="1" column="26" />
@@ -382,7 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="0" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
       <jump line="135" column="16" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
       <jump line="137" column="33" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
       <jump line="142" column="21" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Article.java" />
@@ -478,10 +484,11 @@
       <jump line="68" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="71" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="65" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="72" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -494,8 +501,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">biAtPiBu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIlBsYXllcnsiICsKICAgICAgICAgICAgICAgICJuYW1lPSciICsgbmFtZSArICdcJycgKwogICAgICAgICAgICAgICAgIiwgcGFzc3dvcmQ9JyIgKyBwYXNzd29yZCArICdcJycgKwogICAgICAgICAgICAgICAgIiwgcHJldmlvdXNSYW5raW5ncz0iICsgcHJldmlvdXNSYW5raW5ncyArCiAgICAgICAgICAgICAgICAiLCByYW5raW5nPSIgKyByYW5raW5nICsKICAgICAgICAgICAgICAgICd9JzsKICAgIH0K</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -510,31 +517,31 @@
         <text encoding="base64">ICAgICAgICBwLmFkZEdhbWUoMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIlBsYXllcnsiICsKICAgICAgICAgICAgICAgICJuYW1lPSciICsgbmFtZSArICdcJycgKwogICAgICAgICAgICAgICAgIiwgcGFzc3dvcmQ9JyIgKyBwYXNzd29yZCArICdcJycgKwogICAgICAgICAgICAgICAgIiwgcHJldmlvdXNSYW5raW5ncz0iICsgcHJldmlvdXNSYW5raW5ncyArCiAgICAgICAgICAgICAgICAiLCByYW5raW5nPSIgKyByYW5raW5nICsKICAgICAgICAgICAgICAgICd9JzsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqICovCg==</text>
+        <text encoding="base64">ICAgIC8qKiBNw6l0b2RvIGRlIGNvbnRydcOnw6NvIGRvIG9iamV0byBQbGF5ZXIsIHV0aWxpemFuZG8gcXVhbmRvIHVtIHV0aWxpemFkb3Igw6kgaW5zZXJpZG8gcGVsYSBwcmltZWlyYSB2ZXogbm8gc2lzdGVtYS4KICAgICAqCiAgICAgKiBAcGFyYW0gbmFtZSBOb21lIGRvIHV0aWxpemFkb3IuCiAgICAgKiBAcGFyYW0gcGFzc3dvcmQgUGFzc2UgZGUgYWNlc3NvLgogICAgICovCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQbGF5ZXIoU3RyaW5nIG5hbWUsIFN0cmluZyBwYXNzd29yZCkgewogICAgICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwogICAgICAgIHByZXZpb3VzUmFua2luZ3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICByYW5raW5nID0gMC4wOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQbGF5ZXIoU3RyaW5nIG5hbWUsIFN0cmluZyBwYXNzd29yZCkgewogICAgICAgIE5hbWUgPSBuYW1lOwogICAgICAgIFBhc3N3b3JkID0gcGFzc3dvcmQ7CiAgICAgICAgUmFua2luZyA9IDA7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQSBjbGFzc2UgcGxheWVyIHJlcHJlc2VudGEgY2FkYSB1bSBkb3MgdXRpbGl6YWRvcmVzIGV4aXN0ZW50ZXMgZSBndWFyZGEgdG9kYSBhIGluZm9ybWHDp8OjbyBuZWNlc3PDoXJpYSBkb3MgbWVzbW8uCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtrawo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQbGF5ZXIoU3RyaW5nIG5hbWUsIFN0cmluZyBwYXNzd29yZCkgewogICAgICAgIE5hbWUgPSBuYW1lOwogICAgICAgIFBhc3N3b3JkID0gcGFzc3dvcmQ7CiAgICAgICAgUmFua2luZyA9IDA7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJc3RvIGFjb250ZWNldSBtZXNtbyEhISIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
