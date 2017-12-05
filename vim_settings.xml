@@ -76,11 +76,11 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/OnlinePlayers.java" timestamp="1512419545040">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/OnlinePlayers.java" timestamp="1512498107927">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/AutorInexistenteException.java" timestamp="1498590296360">
         <mark key="[" line="3" column="39" />
@@ -519,14 +519,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>currentLobbies</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>currentLobbies</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>p1</text>
@@ -535,34 +535,34 @@
         <text encoding="base64">ICAgIC8qKiBNw6l0b2RvIGRlIGRlYnVnLgogICAgICoKICAgICAqIEByZXR1cm4gTGVpdHVyYSBkbyBvYmpldG8gZW0gU3RyaW5nLgogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKiBBZGljaW9uYQogICAgICogCiAgICAgKiBAcGFyYW0gcAogICAgICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwKTsK</text>
+        <text encoding="base64">ICAgIC8qKiBBZGljaW9uYQogICAgICogCiAgICAgKiBAcGFyYW0gcAogICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwKTsK</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwMik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoaSA9IDAgOyBpIDwgcGxheWVycy5zaXplKCkgJiYgcC5nZXRSYW5raW5nKCkgPj0gcGxheWVycy5nZXQoaSkuZ2V0UmFua2luZygpIDsgaSsrKTsK</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaSA9IDAgOyBpIDwgcGxheWVycy5zaXplKCkgJiYgcC5nZXRSYW5raW5nKCkgPj0gcGxheWVycy5nZXQoaSkuZ2V0UmFua2luZygpIDsgaSsrKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/p1/p2/gc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -616,8 +616,8 @@
         <entry>%s/empty/notFull/gc</entry>
         <entry>%s/full/notEmpty/gc</entry>
         <entry>%s/p/p1/gc</entry>
-        <entry>w</entry>
         <entry>%s/p1/p2/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
