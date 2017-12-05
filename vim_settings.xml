@@ -10,8 +10,12 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/MatchingPlayers.java" timestamp="1512421215345">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/MatchingPlayers.java" timestamp="1512517367666">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="41" column="4" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/CSVParser.java" timestamp="1511831613781">
         <mark key="[" line="0" column="12" />
@@ -529,13 +533,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>this.</text>
+        <text>-</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>this.</text>
