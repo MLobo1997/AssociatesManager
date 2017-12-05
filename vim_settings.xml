@@ -76,11 +76,10 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/OnlinePlayers.java" timestamp="1512498107927">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="6" column="27" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/OnlinePlayers.java" timestamp="1512498526418">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/AutorInexistenteException.java" timestamp="1498590296360">
         <mark key="[" line="3" column="39" />
@@ -264,11 +263,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/MatchMaker.java" timestamp="1512421387934">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="44" />
-        <mark key="^" line="11" column="44" />
-        <mark key="." line="11" column="44" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/MatchMaker.java" timestamp="1512500298475">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex3Server.java" timestamp="1511794688383">
         <mark key="[" line="13" column="0" />
@@ -326,9 +325,12 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512421149076">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="82" column="6" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512499749587">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1512268138671">
         <mark key="'" line="1" column="26" />
@@ -407,12 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
-      <jump line="74" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
-      <jump line="72" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Main.java" />
-      <jump line="12" column="16" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Parse.java" />
-      <jump line="188" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Parse.java" />
-      <jump line="189" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/Parse.java" />
       <jump line="121" column="6" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
       <jump line="96" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
       <jump line="37" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
@@ -502,11 +498,17 @@
       <jump line="65" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="72" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="62" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="32" column="10" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="32" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/MatchingPlayers.java" />
       <jump line="50" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/MatchingPlayers.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/MatchingPlayers.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
+      <jump line="69" column="5" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
+      <jump line="77" column="4" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -520,13 +522,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgLypmaW5hbCovIExvYmJpZXMgY3VycmVudExvYmJpZXM7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>p1</text>
@@ -535,34 +537,34 @@
         <text encoding="base64">ICAgIC8qKiBNw6l0b2RvIGRlIGRlYnVnLgogICAgICoKICAgICAqIEByZXR1cm4gTGVpdHVyYSBkbyBvYmpldG8gZW0gU3RyaW5nLgogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgLypmaW5hbCovIExvYmJpZXMgY3VycmVudExvYmJpZXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKiBBZGljaW9uYQogICAgICogCiAgICAgKiBAcGFyYW0gcAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwKTsK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwMik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwMik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJzLmFkZFBsYXllcihwKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoaSA9IDAgOyBpIDwgcGxheWVycy5zaXplKCkgJiYgcC5nZXRSYW5raW5nKCkgPj0gcGxheWVycy5nZXQoaSkuZ2V0UmFua2luZygpIDsgaSsrKTsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIlBsYXllcnsiICsKICAgICAgICAgICAgICAgICJJRD0iICsgSUQgKwogICAgICAgICAgICAgICAgIiwgbmFtZT0nIiArIG5hbWUgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIHBhc3N3b3JkPSciICsgcGFzc3dvcmQgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIHByZXZpb3VzUmFua2luZ3M9IiArIHByZXZpb3VzUmFua2luZ3MgKwogICAgICAgICAgICAgICAgIiwgcmFua2luZz0iICsgcmFua2luZyArCiAgICAgICAgICAgICAgICAnfSc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnJPZkdhbWVzKys7ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -598,8 +600,6 @@
         <entry>p1</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/long/Long/gc</entry>
-        <entry>%s/int/Int/g</entry>
         <entry>%s/Int/Integer/g</entry>
         <entry>%s/int/Integer/gc</entry>
         <entry>%s/Integer/Long/g</entry>
@@ -618,6 +618,8 @@
         <entry>%s/p/p1/gc</entry>
         <entry>%s/p1/p2/gc</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
