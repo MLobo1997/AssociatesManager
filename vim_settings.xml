@@ -24,7 +24,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1512417474821">
+      <file name="/a.dummy" timestamp="1512504099522">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/NoSuchAssociateException.java" timestamp="1506419089260">
@@ -263,10 +263,10 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/MatchMaker.java" timestamp="1512503593696">
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="35" column="34" />
-        <mark key="." line="35" column="34" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/MatchMaker.java" timestamp="1512503944718">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
         <mark key="^" line="35" column="34" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex3Server.java" timestamp="1511794688383">
@@ -339,6 +339,13 @@
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
       </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512505535368">
+        <mark key="'" line="32" column="12" />
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
         <mark key="[" line="11" column="9" />
         <mark key="]" line="10" column="67" />
@@ -409,10 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="6" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
-      <jump line="96" column="19" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
-      <jump line="37" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/engine/QueryEngineImpl.java" />
-      <jump line="24" column="8" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
       <jump line="32" column="15" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
       <jump line="42" column="11" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
       <jump line="43" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
@@ -509,6 +512,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="66" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="72" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
+      <jump line="20" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="5" column="27" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="32" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -522,64 +529,62 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text>p1</text>
+        <text>this.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBNw6l0b2RvIGRlIGRlYnVnLgogICAgICoKICAgICAqIEByZXR1cm4gTGVpdHVyYSBkbyBvYmpldG8gZW0gU3RyaW5nLgogICAgICovCg==</text>
+      <register name="0" type="4">
+        <text>(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9naW5Vc2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXRjaE1ha2VyKFBsYXllcnNSZWdpc3RlciBhbGwsIE9ubGluZVBsYXllcnMgb25saW5lLCBNYXRjaE1hKQogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>%s/this.//g</text>
       </register>
     </registers>
     <search>
-      <last-search>p1</last-search>
+      <last-search>this.</last-search>
       <last-offset />
-      <last-pattern>p1</last-pattern>
-      <last-replace>p2</last-replace>
-      <last-substitute>p1</last-substitute>
+      <last-pattern>this.</last-pattern>
+      <last-replace />
+      <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>article_</entry>
-        <entry>init</entry>
         <entry>stream</entry>
         <entry>stream\c</entry>
         <entry>clone</entry>
@@ -598,10 +603,10 @@
         <entry>full</entry>
         <entry>p</entry>
         <entry>p1</entry>
+        <entry>this</entry>
+        <entry>this.</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Int/Integer/g</entry>
-        <entry>%s/int/Integer/gc</entry>
         <entry>%s/Integer/Long/g</entry>
         <entry>%s/long/Long/g</entry>
         <entry>%s/int/Integer/g</entry>
@@ -620,6 +625,8 @@
         <entry>w</entry>
         <entry>vs</entry>
         <entry>q</entry>
+        <entry>%s/this//g</entry>
+        <entry>%s/this.//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
