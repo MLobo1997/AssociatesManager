@@ -129,12 +129,6 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" timestamp="1512418187574">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-      </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/MusicaComVideo.java" timestamp="1498601377788">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="15" column="34" />
@@ -330,11 +324,11 @@
         <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512502654788">
-        <mark key="'" line="71" column="12" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="7" />
+        <mark key="'" line="76" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1512268138671">
         <mark key="'" line="1" column="26" />
@@ -344,11 +338,7 @@
         <mark key="^" line="18" column="72" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512505535368">
-        <mark key="'" line="35" column="12" />
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="45" />
+        <mark key="'" line="125" column="12" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
         <mark key="[" line="11" column="9" />
@@ -417,6 +407,12 @@
       </file>
       <file name="/fragment.java" timestamp="1510178970456">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ClientDaemon.java" timestamp="1512578093840">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="34" column="30" />
+        <mark key="^" line="34" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -533,13 +529,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>(NullPointerException e2</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>(NullPointerException e2</text>
       </register>
       <register name="/" type="4">
         <text>this.</text>
@@ -548,31 +544,31 @@
         <text>(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRjaCAoTnVsbFBvaW50ZXJFeGNlcHRpb24gZTIpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/this.//g</text>
