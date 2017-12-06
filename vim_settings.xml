@@ -337,8 +337,11 @@
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512505535368">
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512593456932">
         <mark key="'" line="125" column="12" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="17" />
+        <mark key="." line="53" column="17" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
         <mark key="[" line="11" column="9" />
@@ -529,13 +532,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ID</text>
+        <text>D</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ID</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>this.</text>
