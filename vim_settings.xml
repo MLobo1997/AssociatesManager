@@ -30,11 +30,11 @@
       <file name="/a.dummy" timestamp="1512504099522">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Barrier.java" timestamp="1512665586840">
-        <mark key="[" line="36" column="55" />
-        <mark key="]" line="36" column="56" />
-        <mark key="^" line="36" column="56" />
-        <mark key="." line="36" column="56" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Barrier.java" timestamp="1512673682803">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/NoSuchAssociateException.java" timestamp="1506419089260">
         <mark key="[" line="3" column="57" />
@@ -133,6 +133,12 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" timestamp="1512672505562">
+        <mark key="[" line="9" column="53" />
+        <mark key="]" line="9" column="53" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="9" column="53" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/MusicaComVideo.java" timestamp="1498601377788">
         <mark key="[" line="14" column="23" />
@@ -311,7 +317,7 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512511551580">
+      <file name="/Dummy.txt" timestamp="1512673703022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/JustHello.java" timestamp="1511188318455">
@@ -328,6 +334,12 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Server.java" timestamp="1512673064116">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1512268138671">
         <mark key="'" line="1" column="26" />
         <mark key="[" line="18" column="64" />
@@ -335,8 +347,12 @@
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512593456932">
-        <mark key="'" line="155" column="12" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512673038438">
+        <mark key="'" line="90" column="12" />
+        <mark key="[" line="144" column="26" />
+        <mark key="]" line="144" column="76" />
+        <mark key="^" line="144" column="76" />
+        <mark key="." line="144" column="76" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
         <mark key="[" line="11" column="9" />
@@ -414,8 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="15" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
-      <jump line="42" column="11" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
       <jump line="43" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
       <jump line="62" column="11" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
       <jump line="63" column="25" filename="$USER_HOME$/Development/grupo51/java_project/src/main/java/li3/ArtTree.java" />
@@ -514,6 +528,8 @@
       <jump line="5" column="27" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
       <jump line="32" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="74" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="72" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -527,49 +543,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTWFudGVyIHRocmVhZCBkZSBqb2dhZG9yIGEgZG9ybWlyIGF0w6kgYXMgY29uZGnDp8O1ZXMgbmVjZXNzw6FyaWFzIG9jb3JyZXJlbSBwYXJhIGVzdGEgcG9kZXIgY29tZcOnYXIgYSBqb2dhcgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>que as linhas representam o intervalo de valores de ranking em que</text>
       </register>
       <register name="/" type="4">
         <text>this.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBHZXR0ZXIgZG8gSUQgZG8gam9nYWRvci4KICAgICAqCiAgICAgKiBAcmV0dXJuIElELgogICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8qKiBSZWdpc3RvIGRlIHRvZGFzIGFzIGNvbnRhcy4gKi8KICAgIHByaXZhdGUgZmluYWwgUGxheWVyc1JlZ2lzdGVyIGFsbFBsYXllcnM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTWFudGVyIHRocmVhZCBkZSBqb2dhZG9yIGEgZG9ybWlyIGF0w6kgYXMgY29uZGnDp8O1ZXMgbmVjZXNzw6FyaWFzIG9jb3JyZXJlbSBwYXJhIGVzdGEgcG9kZXIgY29tZcOnYXIgYSBqb2dhcgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKiBAcGFyYW0gc3QgdGhyZWFkIHF1ZSBwcmVzdGEgc2VydmnDp29zIGFvIGNsaWVudGUK</text>
+        <text encoding="base64">ICAgICAqICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUGxheWVyc1JlZ2lzdGVyIGFsbFBsYXllcnM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRjaCAoTnVsbFBvaW50ZXJFeGNlcHRpb24gZTIpIHsK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBoYmhiaCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBjYW5QbGF5ID0gZmFsc2U7CiAgICAgICAgICAgIFN0cmluZyBzdHI7CgogICAgICAgICAgICB3aGlsZSAoIWNhblBsYXkpIHsKICAgICAgICAgICAgICAgIG91dC5wcmludGxuKCJSZWdpc3RlciBbMF0gb3IgbG9naW4gWzFdPyIpOwogICAgICAgICAgICAgICAgc3RyID0gaW4ucmVhZExpbmUoKTsKCiAgICAgICAgICAgICAgICBzd2l0Y2ggKHN0cikgewogICAgICAgICAgICAgICAgICAgIGNhc2UgIjAiOgogICAgICAgICAgICAgICAgICAgICAgICByZWdpc3RlclBsYXllcigpOwogICAgICAgICAgICAgICAgICAgICAgICBsb2dpblBsYXllcigpOwogICAgICAgICAgICAgICAgICAgICAgICBjYW5QbGF5ID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSAiMSI6CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2luUGxheWVyKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNhblBsYXkgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKCJSZWdpc3RlciB3b3JrZWQ/ICIgKyBpc1JlZ2lzdGVyZWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/this.//g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -620,11 +636,11 @@
         <entry>%s/full/notEmpty/gc</entry>
         <entry>%s/p/p1/gc</entry>
         <entry>%s/p1/p2/gc</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>%s/this//g</entry>
         <entry>%s/this.//g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
