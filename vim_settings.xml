@@ -17,13 +17,6 @@
         <mark key="." line="51" column="29" />
         <mark key="^" line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1512782616691">
-        <mark key="'" line="40" column="17" />
-        <mark key="[" line="85" column="9" />
-        <mark key="]" line="86" column="49" />
-        <mark key="." line="86" column="49" />
-        <mark key="^" line="86" column="49" />
-      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/CSVParser.java" timestamp="1511831613781">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -37,12 +30,6 @@
       </file>
       <file name="/a.dummy" timestamp="1512504099522">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Barrier.java" timestamp="1512777885648">
-        <mark key="[" line="53" column="60" />
-        <mark key="]" line="37" column="33" />
-        <mark key="." line="37" column="33" />
-        <mark key="^" line="37" column="33" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/NoSuchAssociateException.java" timestamp="1506419089260">
         <mark key="[" line="3" column="57" />
@@ -148,10 +135,6 @@
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" timestamp="1512776944018">
         <mark key="'" line="78" column="0" />
-        <mark key="[" line="59" column="47" />
-        <mark key="]" line="59" column="47" />
-        <mark key="." line="59" column="47" />
-        <mark key="^" line="60" column="44" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/MusicaComVideo.java" timestamp="1498601377788">
         <mark key="[" line="14" column="23" />
@@ -330,7 +313,6 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512782750105" />
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/JustHello.java" timestamp="1511188318455">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="16" column="20" />
@@ -345,32 +327,12 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Server.java" timestamp="1512673064116">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="23" column="30" />
-        <mark key="^" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-      </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512776226742">
-        <mark key="'" line="100" column="6" />
-        <mark key="[" line="101" column="32" />
-        <mark key="]" line="100" column="6" />
-        <mark key="." line="100" column="6" />
-        <mark key="^" line="100" column="6" />
-      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1512268138671">
         <mark key="'" line="1" column="26" />
         <mark key="[" line="18" column="64" />
         <mark key="]" line="18" column="72" />
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
-      </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512782596783">
-        <mark key="'" line="197" column="6" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-        <mark key="^" line="180" column="19" />
       </file>
       <file name="/Barrier.java" timestamp="1512769647307">
         <mark key="[" line="21" column="0" />
@@ -443,12 +405,6 @@
       </file>
       <file name="/fragment.java" timestamp="1510178970456">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ClientDaemon.java" timestamp="1512780329622">
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="37" column="31" />
-        <mark key="." line="37" column="31" />
-        <mark key="^" line="37" column="31" />
       </file>
     </filemarks>
     <jumps>
