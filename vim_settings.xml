@@ -17,12 +17,11 @@
         <mark key="." line="24" column="31" />
         <mark key="^" line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1512837236225">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="96" column="42" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="98" column="87" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1512840913595">
+        <mark key="'" line="93" column="47" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/CSVParser.java" timestamp="1511831613781">
         <mark key="[" line="0" column="12" />
@@ -147,8 +146,12 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" timestamp="1512776944018">
-        <mark key="'" line="78" column="0" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" timestamp="1512840289827">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="44" />
+        <mark key="." line="66" column="44" />
+        <mark key="^" line="66" column="44" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/MusicaComVideo.java" timestamp="1498601377788">
         <mark key="[" line="14" column="23" />
@@ -192,6 +195,11 @@
         <mark key="]" line="75" column="3" />
         <mark key="." line="75" column="3" />
         <mark key="^" line="75" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Exceptions/UserAlreadyOnlineException.java" timestamp="1512839438997">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Exceptions/IncorrectValueException.java" timestamp="1506679559091">
         <mark key="[" line="7" column="0" />
@@ -342,10 +350,11 @@
         <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Server.java" timestamp="1512835962205" />
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512826786577">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512839861008">
+        <mark key="[" line="96" column="14" />
+        <mark key="]" line="96" column="14" />
+        <mark key="." line="96" column="14" />
+        <mark key="^" line="100" column="36" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1512268138671">
         <mark key="'" line="1" column="26" />
@@ -354,12 +363,12 @@
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512837268412">
-        <mark key="'" line="102" column="19" />
-        <mark key="[" line="216" column="37" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="108" column="19" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512840975636">
+        <mark key="'" line="41" column="45" />
+        <mark key="[" line="154" column="24" />
+        <mark key="]" line="154" column="24" />
+        <mark key="." line="154" column="24" />
+        <mark key="^" line="154" column="24" />
       </file>
       <file name="/Barrier.java" timestamp="1512769647307">
         <mark key="[" line="21" column="0" />
@@ -435,9 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="29" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" />
-      <jump line="30" column="36" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" />
       <jump line="37" column="19" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Quote.java" />
       <jump line="46" column="16" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Quote.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
@@ -526,7 +532,6 @@
       <jump line="32" column="24" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="29" column="22" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="40" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
-      <jump line="267" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
       <jump line="13" column="29" filename="$USER_HOME$/Development/SD_Projeto/src/Barrier.java" />
       <jump line="92" column="34" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="50" column="23" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
@@ -535,6 +540,10 @@
       <jump line="85" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="63" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="102" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="216" column="36" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="95" column="47" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
+      <jump line="267" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="41" column="45" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -548,55 +557,55 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1JlZ2lzdGVyZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>username != null</text>
+        <text>isOnline</text>
       </register>
       <register name="/" type="4">
-        <text>isRegistered</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSBudWxsICwgcGFzc3dvcmQgPSBudWxsLCB0bXAgPSBudWxsOwogICAgICAgIEJvb2xlYW4gY2hlY2sgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2luUGxheWVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1JlZ2lzdGVyZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAuCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcCA9IG5ldyBQbGF5ZXIodXNlcm5hbWUsIHBhc3N3b3JkKS5nb09ubGluZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocmVwZWF0KSB7CiAgICAgICAgICAgICAgICBhbGxQbGF5ZXJzLmFkZFBsYXllcihuZXcgUGxheWVyKHVzZXJuYW1lLCBwYXNzd29yZCkpOwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJVdGlsaXphZG9yIHJlZ2lzdGFkbyIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwID0gbmV3IFBsYXllcih1c2VybmFtZSwgcGFzc3dvcmQpLmdvT25saW5lKCk7CgogICAgICAgIHJldHVybiBwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETzpsb2dpbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKCIxIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcGVhdCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETzpsb2dpbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/isRegistered/repeat/gc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isRegistered</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>isRegistered</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>repeat</last-replace>
       <last-substitute>isRegistered</last-substitute>
       <last-dir>1</last-dir>
@@ -604,7 +613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>println</entry>
         <entry encoding="base64">XDx0cmVlXD4=</entry>
         <entry>get</entry>
         <entry>rev.getContent().length()</entry>
@@ -622,8 +630,9 @@
         <entry>argument</entry>
         <entry>regis</entry>
         <entry>inform</entry>
-        <entry>login</entry>
         <entry>isRegistered</entry>
+        <entry encoding="base64">XDx0cmFuc21pdGVcPg==</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>%s/long/Long/g</entry>
@@ -644,8 +653,8 @@
         <entry>q</entry>
         <entry>%s/this//g</entry>
         <entry>%s/this.//g</entry>
-        <entry>w</entry>
         <entry>%s/isRegistered/repeat/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
