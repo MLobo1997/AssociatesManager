@@ -17,12 +17,12 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1512934137403">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="207" column="60" />
-        <mark key="]" line="207" column="52" />
-        <mark key="." line="207" column="52" />
-        <mark key="^" line="207" column="52" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1512935817617">
+        <mark key="'" line="153" column="7" />
+        <mark key="[" line="240" column="18" />
+        <mark key="]" line="240" column="24" />
+        <mark key="^" line="240" column="24" />
+        <mark key="." line="240" column="24" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/CSVParser.java" timestamp="1511831613781">
         <mark key="[" line="0" column="12" />
@@ -365,7 +365,12 @@
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512931800212" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1512936576105">
+        <mark key="[" line="66" column="77" />
+        <mark key="]" line="66" column="76" />
+        <mark key="." line="66" column="76" />
+        <mark key="^" line="66" column="76" />
+      </file>
       <file name="/Barrier.java" timestamp="1512769647307">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="6" />
@@ -440,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="3" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" />
       <jump line="62" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="57" column="1" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
@@ -540,6 +544,7 @@
       <jump line="30" column="28" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="132" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
       <jump line="25" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
+      <jump line="153" column="7" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -553,46 +558,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5wcmludGxuKCIxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>clone</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5wcmludGxuKCIxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlzLmNsb3NlKCk7CiAgICAgICAgICAgICAgICBvcy5jbG9zZSgpOwogICAgICAgICAgICAgICAgc29ja2V0LnNodXRkb3duT3V0cHV0KCk7CiAgICAgICAgICAgICAgICBzb2NrZXQuc2h1dGRvd25JbnB1dCgpOwogICAgICAgICAgICAgICAgc29ja2V0LmNsb3NlKCk7CiAgICAgICAgICAgIH1jYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRXJyb3IgY2xvc2luZyBjb25uZWN0aW9ucyIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk8gcXVlIHZvc3NlIG1lY8OqIGRlc2VqYSBmYXplcj8iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkpvZ2FyIFtwXSwgc2FpciBbcV0/OiIpOwoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoY21kLmVxdWFscygpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
