@@ -24,12 +24,12 @@
         <mark key="." line="64" column="8" />
         <mark key="^" line="64" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1513258368685">
-        <mark key="'" line="153" column="7" />
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="28" />
-        <mark key="." line="39" column="28" />
-        <mark key="^" line="39" column="28" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1513264480149">
+        <mark key="'" line="99" column="31" />
+        <mark key="[" line="81" column="29" />
+        <mark key="]" line="81" column="15" />
+        <mark key="." line="81" column="15" />
+        <mark key="^" line="81" column="15" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/CSVParser.java" timestamp="1511831613781">
         <mark key="[" line="0" column="12" />
@@ -464,9 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="7" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
-      <jump line="65" column="12" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="8" column="14" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/BoundedBuffer.java" />
       <jump line="42" column="15" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/BoundedBuffer.java" />
       <jump line="19" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Main.java" />
@@ -537,7 +534,6 @@
       <jump line="45" column="4" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="48" column="36" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="49" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="52" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="32" column="24" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="29" column="22" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
@@ -564,6 +560,10 @@
       <jump line="23" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" />
       <jump line="25" column="13" filename="$USER_HOME$/Development/SD_Projeto/src/AutomatedClient.java" />
       <jump line="21" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" />
+      <jump line="81" column="29" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
+      <jump line="88" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
+      <jump line="79" column="32" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
+      <jump line="99" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -586,7 +586,7 @@
         <text>add</text>
       </register>
       <register name="/" type="4">
-        <text>clone</text>
+        <text>is</text>
       </register>
       <register name="0" type="4">
         <text>Username do jogador.</text>
@@ -623,9 +623,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clone</last-search>
+      <last-search>is</last-search>
       <last-offset />
-      <last-pattern>clone</last-pattern>
+      <last-pattern>is</last-pattern>
       <last-replace>repeat</last-replace>
       <last-substitute>isRegistered</last-substitute>
       <last-dir>1</last-dir>
@@ -633,7 +633,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>rev.getContent().length()</entry>
         <entry>e1</entry>
         <entry encoding="base64">XDxnZXRBc3NvY2lhdGVzXD4=</entry>
@@ -653,6 +652,7 @@
         <entry encoding="base64">XDx0cmFuc21pdGVcPg==</entry>
         <entry>login</entry>
         <entry>clone</entry>
+        <entry>is</entry>
       </history-search>
       <history-cmd>
         <entry>%s/long/Long/g</entry>
