@@ -17,11 +17,12 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1513207559605">
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1513220176492">
         <mark key="'" line="153" column="7" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="74" />
-        <mark key="." line="254" column="0" />
+        <mark key="[" line="66" column="70" />
+        <mark key="]" line="66" column="86" />
+        <mark key="." line="66" column="86" />
+        <mark key="^" line="66" column="86" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/CSVParser.java" timestamp="1511831613781">
         <mark key="[" line="0" column="12" />
@@ -567,14 +568,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>hv</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>FileNotFoundException</text>
+        <text>hv</text>
       </register>
       <register name="/" type="4">
         <text>clone</text>
