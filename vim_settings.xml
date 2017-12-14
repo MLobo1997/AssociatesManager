@@ -322,11 +322,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513216458320">
-        <mark key="'" line="22" column="6" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513219498545">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Main.java" timestamp="1510178715440">
         <mark key="'" line="6" column="0" />
@@ -454,9 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="1" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
-      <jump line="13" column="9" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="59" column="34" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="53" column="35" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
       <jump line="14" column="7" filename="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" />
@@ -554,6 +552,9 @@
       <jump line="25" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="153" column="7" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="14" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" />
+      <jump line="49" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" />
+      <jump line="46" column="15" filename="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" />
+      <jump line="23" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -566,47 +567,47 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.CSVReader</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.CSVReader</text>
+        <text>FileNotFoundException</text>
       </register>
       <register name="/" type="4">
         <text>clone</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxpbmVbMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChGaWxlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm9sYSIpOwo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm9sYSIpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHJlcGVhdCA9IGZhbGRkc2U7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBjZy5sb2FkUGxheWVyc0luZm8oKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGRkZS5jb21tb25zLmxhbmczLk9iamVjdFV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChGaWxlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKFN0cmluZyBzdHIgOiApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKGkgPCBOKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDU1ZSZWFkZXIgcmVhZGVyID0gbmV3IENTVlJlYWRlcihuZXcgRmlsZVJlYWRlcigicmFuZG9tVXNlcnMuY3N2IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkbyB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlF1YW50b3MgYm90cyBxdWVyIGdlcmFyPyIpOwogICAgICAgICAgICAgICAgTiA9IEludGVnZXIucGFyc2VJbnQoc2Nhbm5lci5yZWFkTGluZSgpKTsKICAgICAgICAgICAgICAgIHJlcGVhdCA9IGZhbHNlOwoKICAgICAgICAgICAgfSBjYXRjaCAoTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGUxKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk8gaW5wdXQgbsOjbyDDqSB1bSBpbnRlZ2VyIHbDoWxpZG8hIik7CiAgICAgICAgICAgICAgICByZXBlYXQgPSB0cnVlOwoKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZTIpIHsKICAgICAgICAgICAgICAgIGUyLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfSB3aGlsZSAocmVwZWF0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
