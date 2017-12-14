@@ -317,9 +317,12 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513211921553">
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513212773443">
         <mark key="'" line="17" column="6" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="51" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Main.java" timestamp="1510178715440">
         <mark key="'" line="6" column="0" />
@@ -559,14 +562,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>au.com.bytecode.opencsv.CSVReader</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Scanner</text>
+        <text>au.com.bytecode.opencsv.CSVReader</text>
       </register>
       <register name="/" type="4">
         <text>clone</text>
