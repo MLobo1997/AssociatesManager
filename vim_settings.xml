@@ -24,12 +24,12 @@
         <mark key="." line="107" column="22" />
         <mark key="^" line="107" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1513380626692">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="132" column="40" />
-        <mark key="]" line="132" column="39" />
-        <mark key="." line="132" column="39" />
-        <mark key="^" line="132" column="39" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1513381386458">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="68" column="63" />
+        <mark key="]" line="68" column="63" />
+        <mark key="." line="68" column="63" />
+        <mark key="^" line="68" column="63" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/CSVParser.java" timestamp="1511831613781">
         <mark key="[" line="0" column="12" />
@@ -576,13 +576,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkbyB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRtcCA9IHNjYW5uZXIucmVhZExpbmUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRtcC5lcXVhbHMoInkiKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2tpcCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcy5wcmludGxuKCItMSIpOyAvL2NvbXVuaWNhIGFvIHNlcnZpZG9yIHF1ZSDDqSBwYXJhIHNhbHRhci4KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gd2hpbGUgKCF0bXAuZXF1YWxzKCJ5IikgJiYgIXRtcC5lcXVhbHMoIm4iKSk7IC8vcmVwZXRlIG8gY29uZmlybWEgbm8gY2FzbyBkZSBuw6NvIHRlciByZWNlYmlkbyAneScgbmVtICduJw==</text>
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Username</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
