@@ -384,11 +384,11 @@
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1513274461033">
-        <mark key="[" line="134" column="53" />
-        <mark key="]" line="134" column="50" />
-        <mark key="." line="134" column="50" />
-        <mark key="^" line="134" column="50" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1513377388978">
+        <mark key="[" line="161" column="46" />
+        <mark key="]" line="161" column="47" />
+        <mark key="." line="161" column="47" />
+        <mark key="^" line="161" column="47" />
       </file>
       <file name="/Barrier.java" timestamp="1512769647307">
         <mark key="[" line="21" column="0" />
@@ -576,14 +576,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBza2lwID0gaW4ucmVhZExpbmUoKS5lcXVhbHMoIi0xIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>não</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>não</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
