@@ -154,8 +154,12 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" timestamp="1512840289827">
-        <mark key="'" line="79" column="0" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" timestamp="1513431411907">
+        <mark key="'" line="19" column="22" />
+        <mark key="[" line="20" column="87" />
+        <mark key="]" line="20" column="77" />
+        <mark key="^" line="20" column="77" />
+        <mark key="." line="20" column="77" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/MusicaComVideo.java" timestamp="1498601377788">
         <mark key="[" line="14" column="23" />
@@ -384,8 +388,8 @@
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1513430587406">
-        <mark key="'" line="306" column="12" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1513431209225">
+        <mark key="'" line="130" column="31" />
         <mark key="k" line="196" column="7" />
         <mark key="[" line="255" column="16" />
         <mark key="m" line="196" column="7" />
@@ -467,8 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="65" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="62" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
@@ -567,6 +569,8 @@
       <jump line="292" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
       <jump line="237" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
       <jump line="306" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="130" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="19" column="22" filename="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -580,16 +584,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>canPlay</text>
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>canPlay</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGVhbnVwXD4=</text>
+        <text encoding="base64">XDxhZGRQbGF5ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTWFzIGFxdWkgY2hlZ2E/Iik7Cg==</text>
@@ -626,9 +630,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGVhbnVwXD4=</last-search>
+      <last-search encoding="base64">XDxhZGRQbGF5ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGVhbnVwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRQbGF5ZXJcPg==</last-pattern>
       <last-replace>repeat</last-replace>
       <last-substitute>isRegistered</last-substitute>
       <last-dir>1</last-dir>
@@ -636,7 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>p</entry>
         <entry>p1</entry>
         <entry>this</entry>
         <entry>this.</entry>
@@ -656,6 +659,7 @@
         <entry>is.readLine</entry>
         <entry encoding="base64">XDxpbml0R2FtZVw+</entry>
         <entry encoding="base64">XDxjbGVhbnVwXD4=</entry>
+        <entry encoding="base64">XDxhZGRQbGF5ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/long/Long/g</entry>
