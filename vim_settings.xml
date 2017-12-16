@@ -17,12 +17,12 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/AutomatedClient.java" timestamp="1513428017168">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="117" column="9" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/AutomatedClient.java" timestamp="1513432484529">
+        <mark key="'" line="68" column="28" />
+        <mark key="[" line="65" column="7" />
+        <mark key="]" line="65" column="28" />
+        <mark key="^" line="65" column="28" />
+        <mark key="." line="65" column="28" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Client.java" timestamp="1513429345598">
         <mark key="'" line="116" column="26" />
@@ -388,14 +388,14 @@
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1513431209225">
-        <mark key="'" line="130" column="31" />
-        <mark key="k" line="196" column="7" />
-        <mark key="[" line="255" column="16" />
-        <mark key="m" line="196" column="7" />
-        <mark key="]" line="255" column="23" />
-        <mark key="." line="255" column="23" />
-        <mark key="^" line="255" column="23" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1513432159449">
+        <mark key="'" line="264" column="0" />
+        <mark key="k" line="190" column="7" />
+        <mark key="[" line="126" column="0" />
+        <mark key="m" line="190" column="7" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="249" column="23" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="/Barrier.java" timestamp="1512769647307">
         <mark key="[" line="21" column="0" />
@@ -471,10 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
-      <jump line="32" column="10" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="32" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/MatchingPlayers.java" />
       <jump line="50" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/MatchingPlayers.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/MatchingPlayers.java" />
@@ -571,6 +567,10 @@
       <jump line="306" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
       <jump line="130" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
       <jump line="19" column="22" filename="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" />
+      <jump line="136" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="174" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="265" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
+      <jump line="65" column="28" filename="$USER_HOME$/Development/SD_Projeto/src/AutomatedClient.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -583,56 +583,56 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZheiBsb2dvdXQ/Pz8iKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRQbGF5ZXJcPg==</text>
+        <text>Faz</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTWFzIGFxdWkgY2hlZ2E/Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImxvZ2luOiAiICsgbG9nZ2VkSW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZheiBsb2dvdXQ/Pz8iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKCIxIik7IC8vYXZpc2EgbyBqb2dhZG9yIHF1ZSBzYWl1IGRvIGNpY2xvCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkFxdWkgZXN0YW1vcyIpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInZhaSBkYXIgc2tpcGRkPyAiICsgc2tpcCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW1WCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk1hcyBhcXVpIGNoZWdhPyIpOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTWFzIGFxdWkgY2hlZ2E/Iik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicGFzczogIiArIHBhc3N3b3JkKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidXNlcjogIiArIHVzZXJuYW1lKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXBlYXQgPSBmYWxzZTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbmRkdGxuKCJUYW1vcyBudW0gbG9naW4gY29tIHVtIGNoZWNrICIgKyBjaGVjayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImxvZ2luOiAiICsgbG9nZ2VkSW4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRQbGF5ZXJcPg==</last-search>
+      <last-search>Faz</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRQbGF5ZXJcPg==</last-pattern>
+      <last-pattern>Faz</last-pattern>
       <last-replace>repeat</last-replace>
       <last-substitute>isRegistered</last-substitute>
       <last-dir>1</last-dir>
@@ -640,11 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>p1</entry>
-        <entry>this</entry>
-        <entry>this.</entry>
-        <entry>argument</entry>
-        <entry>regis</entry>
         <entry>inform</entry>
         <entry>isRegistered</entry>
         <entry encoding="base64">XDx0cmFuc21pdGVcPg==</entry>
@@ -660,6 +655,11 @@
         <entry encoding="base64">XDxpbml0R2FtZVw+</entry>
         <entry encoding="base64">XDxjbGVhbnVwXD4=</entry>
         <entry encoding="base64">XDxhZGRQbGF5ZXJcPg==</entry>
+        <entry>&quot;user</entry>
+        <entry>mas</entry>
+        <entry>Mas</entry>
+        <entry>Aqui</entry>
+        <entry>Faz</entry>
       </history-search>
       <history-cmd>
         <entry>%s/long/Long/g</entry>
