@@ -331,13 +331,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513875736043">
-        <mark key="'" line="116" column="44" />
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="100" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513878266396">
+        <mark key="'" line="132" column="6" />
+        <mark key="[" line="86" column="71" />
+        <mark key="]" line="86" column="71" />
         <mark key="n" line="116" column="44" />
-        <mark key="." line="196" column="48" />
-        <mark key="^" line="196" column="48" />
+        <mark key="." line="86" column="71" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
         <mark key="'" line="23" column="6" />
@@ -406,12 +405,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1513870314039">
-        <mark key="'" line="364" column="12" />
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="6" />
-        <mark key="." line="21" column="6" />
-        <mark key="^" line="256" column="74" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1513878258828">
+        <mark key="'" line="363" column="12" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
+        <mark key="^" line="255" column="74" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
         <mark key="[" line="11" column="9" />
@@ -488,7 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="45" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
       <jump line="30" column="28" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
       <jump line="132" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" />
       <jump line="25" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
@@ -588,6 +586,7 @@
       <jump line="281" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="285" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="364" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="132" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -601,13 +600,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>permite saber quantos jogadores se encontram em cada entrada de playersWaiting.</text>
+        <text>:</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>clean</text>
@@ -616,31 +615,31 @@
         <text>permite saber quantos jogadores se encontram em cada entrada de playersWaiting.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGxheWVyLmdldFVzZXJuYW1lKCkgKyAiIHdhbnRzIHRvIHBsYXkgYSBnYW1lIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxheWVyc1dhaXRpbmcuZ2V0KGxvYmJ5SW5kZXgpLmFkZChzdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJzV2FpdGluZy5nZXQobG9iYnlJbmRleCkuYWRkKHN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG1wID0gZ2V0TlBsYXllcnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXllcnNXYWl0aW5nLmdlZGR0KGxvYmJ5SW5kZXgpLmFkZChzdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUcmVlU2V0PFNlcnZlclRocmVhZD4gdG1wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG1wID0gZ2V0TlBsYXllcnMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0IFRyZWVTZXQuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
