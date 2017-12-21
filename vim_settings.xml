@@ -331,13 +331,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513874810210">
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513875736043">
         <mark key="'" line="116" column="44" />
-        <mark key="[" line="154" column="101" />
-        <mark key="]" line="154" column="127" />
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="100" />
         <mark key="n" line="116" column="44" />
-        <mark key="." line="154" column="127" />
-        <mark key="^" line="154" column="127" />
+        <mark key="." line="196" column="48" />
+        <mark key="^" line="196" column="48" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
         <mark key="'" line="23" column="6" />
@@ -601,19 +601,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>permite saber quantos jogadores se encontram em cada entrada de playersWaiting.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>clean</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5zaXplID09IDApIHsKICAgICAgICAgICAgICAgIHIuYWRkQWxsKHRtcCk7CiAgICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>permite saber quantos jogadores se encontram em cada entrada de playersWaiting.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
