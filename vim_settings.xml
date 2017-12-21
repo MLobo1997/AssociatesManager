@@ -87,10 +87,10 @@
         <mark key="^" line="11" column="98" />
         <mark key="." line="11" column="113" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" timestamp="1513855837518">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" timestamp="1513880367192">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Consumer5.java" timestamp="1510178905698">
         <mark key="'" line="3" column="12" />
@@ -331,12 +331,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513878266396">
-        <mark key="'" line="132" column="6" />
-        <mark key="[" line="86" column="71" />
-        <mark key="]" line="86" column="71" />
-        <mark key="n" line="116" column="44" />
-        <mark key="." line="86" column="71" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513881357007">
+        <mark key="[" line="203" column="35" />
+        <mark key="]" line="203" column="63" />
+        <mark key="." line="203" column="63" />
+        <mark key="^" line="203" column="63" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
         <mark key="'" line="23" column="6" />
@@ -404,13 +403,6 @@
       <file name="/Barrier.java" timestamp="1512769647307">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1513878258828">
-        <mark key="'" line="363" column="12" />
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="247" column="0" />
-        <mark key="." line="247" column="0" />
-        <mark key="^" line="255" column="74" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
         <mark key="[" line="11" column="9" />
@@ -600,46 +592,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>t</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>clean</text>
       </register>
-      <register name="0" type="4">
-        <text>permite saber quantos jogadores se encontram em cada entrada de playersWaiting.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvYmJ5SW5kZXggIT0gMCkgewogICAgICAgICAgICAgICAgbG9ja0xvYmJpZXNbbG9iYnlJbmRleCAtIDFdLmxvY2soKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGxheWVyLmdldFVzZXJuYW1lKCkgKyAiIHdhbnRzIHRvIHBsYXkgYSBnYW1lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxheWVyc1dhaXRpbmcuZ2V0KGxvYmJ5SW5kZXgpLmFkZChzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9ja0xvYmJpZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJzV2FpdGluZy5nZXQobG9iYnlJbmRleCkuYWRkKHN0KTsK</text>
+        <text encoding="base64">ICAgIC8qKiBSYW5rIGRvIGpvZ2Fkb3IsIHZhbG9yIGVudHJlIDAgZSA5LCBkZXJpdmFkbyBkYSBzb21hIGRhcyBjbGFzc2lmaWNhw6fDtWVzIGRlIHRvZG9zIG9zIHNldXMgam9nb3MgasOhIGZlaXRvcy4KICAgICAqIFJhbmsgPSAwIC0+IHhwID0gIFswICwgOVsKICAgICAqIFJhbmsgPSAxIC0+IHhwID0gIFs5ICwgMjdbCiAgICAgKiBSYW5rID0gMiAtPiB4cCA9ICBbMjcgLCA1NFsKICAgICAqIFJhbmsgPSAzIC0+IHhwID0gIFs1NCAsIDkwWwogICAgICogUmFuayA9IDQgLT4geHAgPSAgWzkwICwgMTM1WwogICAgICogUmFuayA9IDUgLT4geHAgPSAgWzEzNSAsIDE4OVsKICAgICAqIFJhbmsgPSA2IC0+IHhwID0gIFsxODkgLCAyNTJbCiAgICAgKiBSYW5rID0gNyAtPiB4cCA9ICBbMjUyICwgMzI0WwogICAgICogUmFuayA9IDggLT4geHAgPSAgWzMyNCAsIDQwNVsKICAgICAqIFJhbmsgPSA5IC0+IHhwID49IDQwNQogICAgICovCiAgICBwcml2YXRlIEludGVnZXIgcmFuazsKICAgIC8qKiBFeHBlcmllbmNlIHBvaW50cyBkbyBqb2dhZG9yLCB1dGlsaXphZG9zIHBhcmEgY29udGFiaWxpemFyIGEgc29tYSBkZSB0b2RhcyBhcyBjbGFzc2lmaWNhw6fDtWVzIG9idGlkYXMgcGVsbyBqb2dhZG9yLCBvIHF1ZSBkZXRlcm1pbmEgbyByYW5rLiAqLwogICAgcHJpdmF0ZSBJbnRlZ2VyIHhwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXllcnNXYWl0aW5nLmdlZGR0KGxvYmJ5SW5kZXgpLmFkZChzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGxheWVyLmdldFVzZXJuYW1lKCkgKyAiIHdhbnRzIHRvIHBsYXkgYSBnYW1lIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxheWVyc1dhaXRpbmcuZ2V0KGxvYmJ5SW5kZXgpLmFkZChzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJzV2FpdGluZy5nZXQobG9iYnlJbmRleCkuYWRkKHN0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXllcnNXYWl0aW5nLmdlZGR0KGxvYmJ5SW5kZXgpLmFkZChzdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG1wID0gZ2V0TlBsYXllcnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
