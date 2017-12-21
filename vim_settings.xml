@@ -331,11 +331,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513794279874">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="92" column="45" />
-        <mark key="]" line="92" column="45" />
-        <mark key="." line="92" column="51" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513858816297">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
         <mark key="'" line="23" column="6" />
@@ -486,15 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
-      <jump line="22" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
-      <jump line="68" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
-      <jump line="100" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/Player.java" />
-      <jump line="69" column="27" filename="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" />
-      <jump line="24" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="46" column="4" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="45" column="4" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
@@ -586,6 +577,15 @@
       <jump line="102" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" />
       <jump line="107" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" />
       <jump line="394" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="126" column="55" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="94" column="83" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="92" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="95" column="26" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="37" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="90" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -598,56 +598,56 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>size = 2;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVcPg==</text>
+        <text>rankCap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHAuYWRkR2FtZSg5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUXVhbmRvIGZvciBub3RpZmljYWRvLCBzYWJlIHF1ZSBow6EgbWVuc2FnZW5zIG5vdmFzIG5vIG1lc3NhZ2VCdWZmZXIgcGFyYSBlbnZpYXIgcGFyYSBvIGNsaWVudGUuCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJNYWlzIHVtIGpvZ28uIFhwID0gIiArIHhwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcgYXJnc1tdKXsKICAgICAgICBQbGF5ZXIgcCA9IG5ldyBQbGF5ZXIoIlNhcmEiLCJjb2lzbyIpOwoKICAgICAgICBmb3IoaW50IGkgPSAwIDsgaSA8IDEwIDsgaSsrKSB7CiAgICAgICAgICAgIGZvcihpbnQgaTIgPSAwIDsgaTIgPCAxMCA7IGkyKyspIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcC5hZGRHYW1lKDEpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoTGV2ZWxVcEV4Y2VwdGlvbiBsKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTdWJpdSBwYXJhIG8gbml2ZWw6ICIgKyBsLmdldE5ld1JhbmsoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gMjsgLy8gVE9ETzogVmFsb3IgdGVtcG9yw6FyaW8sIG11ZGFyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk1haXMgdW0gam9nby4gWHAgPSAiICsgcC54cCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByYW5rTnVtID0gMTA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUXVhbmRvIGZvciBub3RpZmljYWRvLCBzYWJlIHF1ZSBow6EgbWVuc2FnZW5zIG5vdmFzIG5vIG1lc3NhZ2VCdWZmZXIgcGFyYSBlbnZpYXIgcGFyYSBvIGNsaWVudGUuCiAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk1haXMgdW0gam9nbyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJNYWlzIHVtIGpvZ28uIFhwID0gIiArIHhwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJc3RvIHDDoXJhPyIpOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcgYXJnc1tdKXsKICAgICAgICBQbGF5ZXIgcCA9IG5ldyBQbGF5ZXIoIlNhcmEiLCJjb2lzbyIpOwoKICAgICAgICBmb3IoaW50IGkgPSAwIDsgaSA8IDEwIDsgaSsrKSB7CiAgICAgICAgICAgIGZvcihpbnQgaTIgPSAwIDsgaTIgPCAxMCA7IGkyKyspIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcC5hZGRHYW1lKDEpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoTGV2ZWxVcEV4Y2VwdGlvbiBsKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTdWJpdSBwYXJhIG8gbml2ZWw6ICIgKyBsLmdldE5ld1JhbmsoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAuYWRkR2FtZSg5KTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTWFpcyB1bSBqb2dvIik7CiAgICAgICAgICAgICAgICBwLmFkZEdhbWUoOSk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk1haXMgdW0gam9nbyIpOwogICAgICAgICAgICAgICAgcC5hZGRHYW1lKDkpOwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJNYWlzIHVtIGpvZ28iKTsKICAgICAgICAgICAgICAgIHAuYWRkR2FtZSg5KTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTWFpcyB1bSBqb2dvIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk1haXMgdW0gam9nby4gWHAgPSAiICsgcC54cCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAuYWRkR2FtZSg4KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVcPg==</last-search>
+      <last-search>rankCap</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVcPg==</last-pattern>
+      <last-pattern>rankCap</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -655,10 +655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clone</entry>
-        <entry>is</entry>
-        <entry>os</entry>
-        <entry>read</entry>
         <entry>readline</entry>
         <entry>readln</entry>
         <entry>readLine</entry>
@@ -675,6 +671,10 @@
         <entry>getRank</entry>
         <entry encoding="base64">XDxuck9mR2FtZXNcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
+        <entry>await</entry>
+        <entry>wait</entry>
+        <entry encoding="base64">XDxyYW5rQ2FwXD4=</entry>
+        <entry>rankCap</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
