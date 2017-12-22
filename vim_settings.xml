@@ -334,12 +334,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513917788404">
-        <mark key="'" line="113" column="59" />
-        <mark key="[" line="245" column="78" />
-        <mark key="]" line="245" column="78" />
-        <mark key="^" line="245" column="79" />
-        <mark key="." line="245" column="78" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513972953138">
+        <mark key="'" line="145" column="12" />
+        <mark key="[" line="123" column="38" />
+        <mark key="]" line="123" column="52" />
+        <mark key="." line="123" column="52" />
+        <mark key="^" line="123" column="52" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
         <mark key="'" line="23" column="6" />
@@ -450,11 +450,12 @@
         <mark key="." line="51" column="73" />
         <mark key="^" line="51" column="73" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" timestamp="1513912723912">
-        <mark key="[" line="242" column="43" />
-        <mark key="]" line="242" column="43" />
-        <mark key="^" line="242" column="43" />
-        <mark key="." line="242" column="43" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" timestamp="1513968746707">
+        <mark key="'" line="300" column="16" />
+        <mark key="[" line="237" column="69" />
+        <mark key="]" line="237" column="129" />
+        <mark key="^" line="237" column="129" />
+        <mark key="." line="237" column="129" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/BoundedBuffer5.java" timestamp="1510184401209">
         <mark key="'" line="44" column="16" />
@@ -494,13 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="35" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" />
-      <jump line="82" column="26" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="383" column="29" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="379" column="39" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="16" column="13" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="129" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" />
-      <jump line="55" column="27" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" />
       <jump line="109" column="59" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" />
       <jump line="110" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" />
       <jump line="142" column="33" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" />
@@ -544,11 +538,9 @@
       <jump line="60" column="4" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="109" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="100" column="29" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="139" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="167" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="99" column="29" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="95" column="39" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="136" column="44" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="147" column="96" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="157" column="25" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="160" column="122" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
@@ -594,6 +586,15 @@
       <jump line="143" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="244" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="113" column="59" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="245" column="77" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="299" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
+      <jump line="192" column="29" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="191" column="74" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="136" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="71" column="15" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="108" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="139" column="9" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="145" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -606,56 +607,56 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4XS51bmxvY2soKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2JiaWVzQXZhaWxhYmxlQXdhaXRcPg==</text>
+        <text encoding="base64">XDxzdGFydE1hdGNoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImNoZWdhIGFxdWkgMiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4XS51bmxvY2soKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3QgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBnYW1lRXBvY2ggPSBuZXcgaW50W3JhbmtOdW1dOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCb29sZWFuIGxhc3QgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAvL3BsYXllcnNXYWl0aW5nLmdldChsb2JieUluZGV4KS5jbGVhcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEVtIHF1ZSBpbnN0w6JuY2lhIGRlIHVtIGNlcnRvIGxvYmJ5IHZvdSBlc3Rhcj8KICAgICAgICAgICAgICAgIGludCBteUVwb2NoID0gZ2FtZUVwb2NoW2xvYmJ5SW5kZXhdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxheWVyc0VudGVyaW5nW2xvYmJ5SW5kZXhdID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJzRW50ZXJpbmdbbG9iYnlJbmRleF0gPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25Mb2JiaWVzQXZhaWxhYmxlW2xvYmJ5SW5kZXhdLnNpZ25hbEFsbCgpOyAvL1RPRE8gc2Vyw6EgbmVjZXNzw6FyaW8gbm90aWZpY2FyIG9zIGRvcyBvdXRyb3MgcmFua3MuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNoZWdhIGFxdWkiKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbXlFcG9jaCA9IGdhbWVFcG9jaFtsb2JieUluZGV4XTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0cHJpbnRsbigiUGFzc2EiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0LmNsZWFudXAoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2JiaWVzQXZhaWxhYmxlQXdhaXRcPg==</last-search>
+      <last-search encoding="base64">XDxzdGFydE1hdGNoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2JiaWVzQXZhaWxhYmxlQXdhaXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydE1hdGNoXD4=</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -663,12 +664,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
-        <entry>await</entry>
-        <entry>wait</entry>
-        <entry encoding="base64">XDxyYW5rQ2FwXD4=</entry>
-        <entry>rankCap</entry>
-        <entry encoding="base64">XDxnYW1lRXBvY2hcPg==</entry>
         <entry>clean</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
         <entry>myEpoch</entry>
@@ -683,6 +678,12 @@
         <entry>asso</entry>
         <entry encoding="base64">XDxjb25kaXRpb25Mb2JiaWVzQXZhaWxhYmxlXD4=</entry>
         <entry encoding="base64">XDxsb2JiaWVzQXZhaWxhYmxlQXdhaXRcPg==</entry>
+        <entry>System.out.println</entry>
+        <entry encoding="base64">XDxmaW5kTWF0Y2hcPg==</entry>
+        <entry encoding="base64">XDxsb2JieUluZGV4XD4=</entry>
+        <entry encoding="base64">XDxpbmZvcm1UaHJlYWRzT2ZBZGRlZE1hdGNoXD4=</entry>
+        <entry encoding="base64">XDxhc3NvY2lhdGVNYXRjaFw+</entry>
+        <entry encoding="base64">XDxzdGFydE1hdGNoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
