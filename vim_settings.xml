@@ -331,12 +331,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513907499082">
-        <mark key="'" line="210" column="0" />
-        <mark key="[" line="120" column="26" />
-        <mark key="]" line="120" column="35" />
-        <mark key="." line="120" column="35" />
-        <mark key="^" line="120" column="35" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513909184717">
+        <mark key="'" line="196" column="27" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="81" />
+        <mark key="." line="246" column="0" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
         <mark key="'" line="23" column="6" />
@@ -358,6 +357,9 @@
         <mark key="]" line="14" column="33" />
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1513908968597">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/JustHello.java" timestamp="1511188318455">
         <mark key="'" line="1" column="0" />
@@ -480,8 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
-      <jump line="191" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="161" column="24" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="107" column="28" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
       <jump line="87" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Client.java" />
@@ -580,6 +580,8 @@
       <jump line="77" column="23" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="94" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="218" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="216" column="26" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="196" column="27" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -593,55 +595,55 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvYmJ5SW5kZXggPiAwKSB7CiAgICAgICAgICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4IC0gMV0udW5sb2NrKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXhdLnVubG9jaygpOwoKICAgICAgICAgICAgaWYgKGxvYmJ5SW5kZXggPCByYW5rTnVtIC0gMSkgewogICAgICAgICAgICAgICAgbG9ja0xvYmJpZXNbbG9iYnlJbmRleCArIDFdLnVubG9jaygpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9iYnlJbmRleCA8IHJhbmtOdW0gLSAxKSB7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>trancado</text>
+        <text encoding="base64">ICYmIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXggKyAxXS5pc0xvY2tlZCgp</text>
       </register>
       <register name="/" type="4">
-        <text>println(</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvYmJ5SW5kZXggPiAwKSB7CiAgICAgICAgICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4IC0gMV0udW5sb2NrKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXhdLnVubG9jaygpOwoKICAgICAgICAgICAgaWYgKGxvYmJ5SW5kZXggPCByYW5rTnVtIC0gMSkgewogICAgICAgICAgICAgICAgbG9ja0xvYmJpZXNbbG9iYnlJbmRleCArIDFdLnVubG9jaygpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9iYnlJbmRleCA8IHJhbmtOdW0gLSAxICYmIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXggKyAxXS5pc0xvY2tlZCgpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvYmJ5SW5kZXggPiAwKSB7CiAgICAgICAgICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4IC0gMV0udW5sb2NrKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXhdLnVubG9jaygpOwoKICAgICAgICAgICAgaWYgKGxvYmJ5SW5kZXggPCByYW5rTnVtIC0gMSkgewogICAgICAgICAgICAgICAgbG9ja0xvYmJpZXNbbG9iYnlJbmRleCArIDFdLnVubG9jaygpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9iYnlJbmRleCA8IHJhbmtOdW0gLSAxKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG9iYnlJbmRleCA+IDApIHsgLy/DqSBuZWNlc3PDoXJpbyBibG9xdWVhciBwYXJhIG8gY2FzbyBkZSB0ZXJtb3MgZGUgaXIgYnVzY2FyIGpvZ2Fkb3JlcyBkbyByYW5rIGltZWRpYXRhbWVudGUgaW5mZXJpb3IKICAgICAgICAgICAgbG9ja0xvYmJpZXNbbG9iYnlJbmRleCAtIDFdLmxvY2soKTsKICAgICAgICB9CgogICAgICAgIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXhdLmxvY2soKTsKCiAgICAgICAgaWYgKGxvYmJ5SW5kZXggPCByYW5rTnVtIC0gMSkgeyAvL8OpIG5lY2Vzc8OhcmlvIGJsb3F1ZWFyIHBhcmEgbyBjYXNvIGRlIHRlcm1vcyBkZSBpciBidXNjYXIgam9nYWRvcmVzIGRvIHJhbmsgaW1lZGlhdGFtZW50ZSBzdXBlcmlvcgogICAgICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4ICsgMV0ubG9jaygpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9iYnlJbmRleCA+IDApIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBcXVpIDIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBQbGF5ZXIgcGxheWVyID0gc3QuZ2V0UGxheWVyKCk7CgogICAgICAgIGludCBsb2JieUluZGV4ID0gcGxheWVyLmdldFJhbmsoKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkFxdWkgMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25kaXRpb25Mb2JiaWVzQXZhaWxhYmxlW2xvYmJ5SW5kZXhdLmF3YWl0KCk7IC8vVE9ETzogVEEgQVFVSSBPIEJVRwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvYmJ5SW5kZXggPiAwKSB7IC8vw6kgbmVjZXNzw6FyaW8gYmxvcXVlYXIgcGFyYSBvIGNhc28gZGUgdGVybW9zIGRlIGlyIGJ1c2NhciBqb2dhZG9yZXMgZG8gcmFuayBpbWVkaWF0YW1lbnRlIGluZmVyaW9yCiAgICAgICAgICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4IC0gMV0ubG9jaygpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQXF1aSAxIik7CiAgICAgICAgICAgIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXhdLmxvY2soKTsKCiAgICAgICAgICAgIGlmIChsb2JieUluZGV4IDwgcmFua051bSAtIDEpIHsgLy/DqSBuZWNlc3PDoXJpbyBibG9xdWVhciBwYXJhIG8gY2FzbyBkZSB0ZXJtb3MgZGUgaXIgYnVzY2FyIGpvZ2Fkb3JlcyBkbyByYW5rIGltZWRpYXRhbWVudGUgc3VwZXJpb3IKICAgICAgICAgICAgICAgIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXggKyAxXS5sb2NrKCk7CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBcXVpIDIiKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobG9iYnlJbmRleCA+IDApCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvYmJ5SW5kZXggPiAwKSB7CiAgICAgICAgICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4IC0gMV0udW5sb2NrKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXhdLnVubG9jaygpOwoKICAgICAgICAgICAgaWYgKGxvYmJ5SW5kZXggPCByYW5rTnVtIC0gMSkgewogICAgICAgICAgICAgICAgbG9ja0xvYmJpZXNbbG9iYnlJbmRleCArIDFdLnVubG9jaygpOwogICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAvLyBFbSBxdWUgaW5zdMOibmNpYSBkZSB1bSBjZXJ0byBsb2JieSB2b3UgZXN0YXI/CiAgICAgICAgICAgIGludCBteUVwb2NoID0gZ2FtZUVwb2NoW2xvYmJ5SW5kZXhdOwoKICAgICAgICAgICAgd2hpbGUgKG15RXBvY2ggPT0gZ2FtZUVwb2NoW2xvYmJ5SW5kZXhdKSB7IC8vVE9ETyA6IFF1ZSDDqSBxdWUgaXN0byBmYXogZXhhdGFtZW50ZSAoY29tZW50ZW0gcXVlIGV1IG7Do28gdGVuaG8gYSBjZXJ0ZXphIHBscykKICAgICAgICAgICAgICAgIGNvbmRpdGlvbkxvYmJpZXNBdmFpbGFibGVbbG9iYnlJbmRleF0uYXdhaXQoKTsgLy9UT0RPOiBUQSBBUVVJIE8gQlVHCiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHN0LmNsZWFudXAoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9iYnlJbmRleCA+IDApIHsgLy/DqSBuZWNlc3PDoXJpbyBibG9xdWVhciBwYXJhIG8gY2FzbyBkZSB0ZXJtb3MgZGUgaXIgYnVzY2FyIGpvZ2Fkb3JlcyBkbyByYW5rIGltZWRpYXRhbWVudGUgaW5mZXJpb3IKICAgICAgICAgICAgbG9ja0xvYmJpZXNbbG9iYnlJbmRleCAtIDFdLmxvY2soKTsKICAgICAgICB9CgogICAgICAgIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXhdLmxvY2soKTsKCiAgICAgICAgaWYgKGxvYmJ5SW5kZXggPCByYW5rTnVtIC0gMSkgeyAvL8OpIG5lY2Vzc8OhcmlvIGJsb3F1ZWFyIHBhcmEgbyBjYXNvIGRlIHRlcm1vcyBkZSBpciBidXNjYXIgam9nYWRvcmVzIGRvIHJhbmsgaW1lZGlhdGFtZW50ZSBzdXBlcmlvcgogICAgICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4ICsgMV0ubG9jaygpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>println(</last-search>
+      <last-search encoding="base64">JiY=</last-search>
       <last-offset />
-      <last-pattern>println(</last-pattern>
+      <last-pattern encoding="base64">JiY=</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -649,7 +651,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRQbGF5ZXJcPg==</entry>
         <entry>&quot;user</entry>
         <entry>mas</entry>
         <entry>Mas</entry>
@@ -669,6 +670,7 @@
         <entry>myEpoch</entry>
         <entry>9</entry>
         <entry>println(</entry>
+        <entry encoding="base64">JiY=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
