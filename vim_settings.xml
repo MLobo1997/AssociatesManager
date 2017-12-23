@@ -334,11 +334,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514046298301">
-        <mark key="'" line="100" column="14" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="46" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514056628666">
+        <mark key="'" line="102" column="23" />
+        <mark key="[" line="210" column="108" />
+        <mark key="]" line="210" column="108" />
+        <mark key="." line="210" column="108" />
+        <mark key="^" line="201" column="77" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
         <mark key="'" line="23" column="6" />
@@ -410,11 +411,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514046125539">
-        <mark key="'" line="184" column="16" />
-        <mark key="[" line="215" column="44" />
-        <mark key="]" line="215" column="46" />
-        <mark key="." line="215" column="46" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514055422377">
+        <mark key="'" line="329" column="31" />
+        <mark key="[" line="218" column="31" />
+        <mark key="]" line="218" column="32" />
+        <mark key="." line="218" column="32" />
         <mark key="^" line="215" column="46" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
@@ -494,22 +495,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="137" column="123" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="97" column="26" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="142" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="22" column="18" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="48" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="116" column="44" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="101" column="30" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="163" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="205" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="257" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="260" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="281" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="285" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="364" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="132" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="39" column="34" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="210" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="52" column="34" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
@@ -529,7 +515,6 @@
       <jump line="105" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="104" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="133" column="114" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="107" column="23" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="86" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="146" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="77" column="23" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
@@ -546,7 +531,6 @@
       <jump line="244" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="345" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="253" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="347" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="325" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="349" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="247" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
@@ -565,14 +549,11 @@
       <jump line="136" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="71" column="15" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="108" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="139" column="9" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="145" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="85" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="144" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="162" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="114" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="138" column="14" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="113" column="27" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="92" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="55" column="18" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
@@ -582,7 +563,6 @@
       <jump line="262" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="265" column="192" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="102" column="83" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="143" column="10" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="267" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="19" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
@@ -594,6 +574,27 @@
       <jump line="185" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="216" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="184" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="107" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="134" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="340" column="24" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="342" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="344" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="346" column="13" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="347" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="350" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="371" column="34" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="39" column="18" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="116" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="329" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="229" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="138" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="139" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="142" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="132" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="74" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="76" column="23" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="85" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="102" column="23" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -606,56 +607,56 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50UGxheWVyc0luTG9iYnkobWF0Y2hUaHJlYWRzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>playersWaiting.get(lobbyIndex)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF5ZXJzRW50ZXJpbmdcPg==</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50UGxheWVyc0luTG9iYnkobWF0Y2hUaHJlYWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBIHRocmVhZCAiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKSArICIgb2J0ZXZlIG8gbG9jayAiICsgbG9ja0xvYmJpZXNbbG9iYnlJbmRleCAtIDFdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50UGxheWVyc0luTG9iYnkobWF0Y2hUaHJlYWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBIHRocmVhZCAiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKSArICIgdmFpIHRlbnRhciBsaWJlcnRhciBvIGxvY2sgZGEgdGhyZWFkICIgKyBsb2NrTG9iYmllc1tsb2JieUluZGV4IC0gMV0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocGxheWVyLmdldFVzZXJuYW1lKCkuZXF1YWxzKCJsb2JvIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkEgdGhyZWFkICIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpICsgIiB2YWkgdGVudGFyIGxpYmVydGFyIG8gbG9jayBkYSB0aHJlYWQgIiArIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXggLSAxXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkEgdGhyZWFkICIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpICsgIiB2YWkgdGVudGFyIGxpYmVydGFyIG8gbG9jayBkYSB0aHJlYWQiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk8gcXVlIHNvYnJhPyIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwbGF5ZXJzV2FpdGluZyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGxheWVyc1dhaXRpbmcpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXRjaFRocmVhZHMpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZXsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkpvZ2Fkb3JlcyBlbSBlc3BlcmE6Iik7CiAgICAgICAgZm9yKFRyZWVTZXQ8U2VydmVyVGhyZWFkPiB0cmVlIDogcGxheWVyc1dhaXRpbmcpCiAgICAgICAgICAgIHByaW50UGxheWVyc0luTG9iYnkodHJlZSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTWF0Y2ggYSBpbmljaWFyOiIpOwogICAgICAgIHByaW50UGxheWVyc0luTG9iYnkobWF0Y2hUaHJlYWRzKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmFsW2xvYmJ5SW5kZXhdID0gdHJ1ZTsvL25vdGlmaWNhIGFzIHRocmVhZHMgZG8gam9nbyBwYXJhIGF2YW7Dp2FyZW07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoaSA9IDAgOykK</text>
+        <text encoding="base64">ICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4XS51bmxvY2soKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHNpZ25hbCkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGF5ZXJzRW50ZXJpbmdcPg==</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF5ZXJzRW50ZXJpbmdcPg==</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -663,9 +664,6 @@
     </search>
     <history>
       <history-search>
-        <entry>9</entry>
-        <entry>println(</entry>
-        <entry encoding="base64">JiY=</entry>
         <entry encoding="base64">XDxhbGxQbGF5ZXJzUmVhZHlcPg==</entry>
         <entry>signal</entry>
         <entry encoding="base64">XDxzaWduYWxSZWFkeVw+</entry>
@@ -677,12 +675,15 @@
         <entry>System.out.println</entry>
         <entry encoding="base64">XDxmaW5kTWF0Y2hcPg==</entry>
         <entry encoding="base64">XDxsb2JieUluZGV4XD4=</entry>
-        <entry encoding="base64">XDxpbmZvcm1UaHJlYWRzT2ZBZGRlZE1hdGNoXD4=</entry>
         <entry encoding="base64">XDxhc3NvY2lhdGVNYXRjaFw+</entry>
-        <entry encoding="base64">XDxzdGFydE1hdGNoXD4=</entry>
         <entry>gameEpoch</entry>
         <entry>epoch\c</entry>
         <entry encoding="base64">XDxwbGF5ZXJzRW50ZXJpbmdcPg==</entry>
+        <entry encoding="base64">XDxzdGFydE1hdGNoXD4=</entry>
+        <entry encoding="base64">XDxpbmZvcm1UaHJlYWRzT2ZBZGRlZE1hdGNoXD4=</entry>
+        <entry encoding="base64">XDxjdXJyZW50TWF0Y2hcPg==</entry>
+        <entry>System.out</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
