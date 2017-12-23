@@ -334,11 +334,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1513972953138">
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514027727232">
         <mark key="'" line="145" column="12" />
-        <mark key="[" line="123" column="38" />
-        <mark key="]" line="123" column="52" />
-        <mark key="." line="123" column="52" />
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
         <mark key="^" line="123" column="52" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
@@ -607,14 +607,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NrTG9iYmllc1tsb2JieUluZGV4XS51bmxvY2soKTsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydE1hdGNoXD4=</text>
