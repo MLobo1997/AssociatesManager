@@ -334,12 +334,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514058285481">
-        <mark key="'" line="122" column="14" />
-        <mark key="[" line="220" column="105" />
-        <mark key="]" line="220" column="106" />
-        <mark key="." line="220" column="106" />
-        <mark key="^" line="241" column="34" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514292068195">
+        <mark key="'" line="189" column="32" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="62" />
+        <mark key="." line="25" column="9" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
         <mark key="'" line="23" column="6" />
@@ -411,8 +411,8 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514059027580">
-        <mark key="'" line="316" column="31" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514290974150">
+        <mark key="'" line="268" column="8" />
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
@@ -463,6 +463,13 @@
         <mark key="^" line="53" column="1" />
         <mark key="." line="53" column="1" />
       </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" timestamp="1514295390071">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="158" column="60" />
+        <mark key="]" line="158" column="198" />
+        <mark key="." line="158" column="60" />
+        <mark key="^" line="158" column="59" />
+      </file>
       <file name="$USER_HOME$/Development/grupo51/Ficha7/src/HotelsInc.java" timestamp="1496152081370">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="38" />
@@ -494,9 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="171" column="42" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="179" column="46" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="111" column="47" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="26" column="29" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="105" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
@@ -594,6 +598,9 @@
       <jump line="54" column="43" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="96" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="122" column="14" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="268" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="189" column="32" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -606,56 +613,62 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEUKCiAgICAgICAgICAgIGlmKHBsYXllci5nZXRVc2VybmFtZSgpLmVxdWFscygiMzQ1IikpCiAgICAgICAgICAgICAgICBwbGF5ZXIuc2V0UmFuaygzKTsKICAgICAgICAgICAgaWYocGxheWVyLmdldFVzZXJuYW1lKCkuZXF1YWxzKCI0NTYiKSkKICAgICAgICAgICAgICAgIHBsYXllci5zZXRSYW5rKDIpOwogICAgICAgICAgICBpZihwbGF5ZXIuZ2V0VXNlcm5hbWUoKS5lcXVhbHMoIjEyMyIpKQogICAgICAgICAgICAgICAgcGxheWVyLnNldFJhbmsoMyk7CiAgICAgICAgICAgIGlmKHBsYXllci5nZXRVc2VybmFtZSgpLmVxdWFscygiMjM0IikpCiAgICAgICAgICAgICAgICBwbGF5ZXIuc2V0UmFuaygyKTsKCgogICAgICAgICAgICAvL1RPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURQo=</text>
+      <register name="&quot;" type="4">
+        <text>//utilizado em vez de Random por recomendação na própria documentação em 'https://docs.oracle.com/javase/8/docs/api/java/util/Random.html'</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Avancei</text>
+        <text>//utilizado em vez de Random por recomendação na própria documentação em 'https://docs.oracle.com/javase/8/docs/api/java/util/Random.html'</text>
       </register>
       <register name="/" type="4">
-        <text>lock</text>
+        <text>Chegue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkF2YW5jZWkiKTsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBpbnQgc2l6ZSA9IDM7IC8vIFRPRE86IFZhbG9yIHRlbXBvcsOhcmlvLCBtdWRhcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEUKCiAgICAgICAgICAgIGlmKHBsYXllci5nZXRVc2VybmFtZSgpLmVxdWFscygiMzQ1IikpCiAgICAgICAgICAgICAgICBwbGF5ZXIuc2V0UmFuaygzKTsKICAgICAgICAgICAgaWYocGxheWVyLmdldFVzZXJuYW1lKCkuZXF1YWxzKCI0NTYiKSkKICAgICAgICAgICAgICAgIHBsYXllci5zZXRSYW5rKDIpOwogICAgICAgICAgICBpZihwbGF5ZXIuZ2V0VXNlcm5hbWUoKS5lcXVhbHMoIjEyMyIpKQogICAgICAgICAgICAgICAgcGxheWVyLnNldFJhbmsoMyk7CiAgICAgICAgICAgIGlmKHBsYXllci5nZXRVc2VybmFtZSgpLmVxdWFscygiMjM0IikpCiAgICAgICAgICAgICAgICBwbGF5ZXIuc2V0UmFuaygyKTsKCgogICAgICAgICAgICAvL1RPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkEgdGhyZWFkICIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpICsgIiBvYnRldmUgbyBsb2NrICIgKyBsb2NrTG9iYmllc1tsb2JieUluZGV4XSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcG9zaXRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBIHRocmVhZCAiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKSArICIgb2J0ZXZlIG8gbG9jayAiICsgbG9ja0xvYmJpZXNbbG9iYnlJbmRleCArIDFdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBIHRocmVhZCAiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKSArICIgb2J0ZXZlIG8gbG9jayAiICsgbG9ja0xvYmJpZXNbbG9iYnlJbmRleCAtIDFdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBIHRocmVhZCAiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKSArICIgdmFpIHRlbnRhciBsaWJlcnRhciBvIGxvY2sgIiArIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXggKyAxXSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+      </register>
+      <register name="u" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBIHRocmVhZCAiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKSArICIgdmFpIHRlbnRhciBsaWJlcnRhciBvIGxvY2sgIiArIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXggLSAxXSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkEgdGhyZWFkICIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpICsgIiB2YWkgdGVudGFyIGxpYmVydGFyIG8gbG9jayAiICsgbG9ja0xvYmJpZXNbbG9iYnlJbmRleF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkF2YW5jZWkiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBIHRocmVhZCAiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKSArICIgdmFpIHRlbnRhciBsaWJlcnRhciBvIGxvY2sgIiArIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXggKyAxXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNoZWd1ZWkiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBIHRocmVhZCAiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKSArICIgdmFpIHRlbnRhciBsaWJlcnRhciBvIGxvY2sgIiArIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXggLSAxXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEVUT0RPOiBBUEFHQVIgQVBFTkFTIFBBUkEgVEVTVEUKCiAgICAgICAgICAgIGlmKHBsYXllci5nZXRVc2VybmFtZSgpLmVxdWFscygiMzQ1IikpCiAgICAgICAgICAgICAgICBwbGF5ZXIuc2V0UmFuaygzKTsKICAgICAgICAgICAgaWYocGxheWVyLmdldFVzZXJuYW1lKCkuZXF1YWxzKCI0NTYiKSkKICAgICAgICAgICAgICAgIHBsYXllci5zZXRSYW5rKDIpOwogICAgICAgICAgICBpZihwbGF5ZXIuZ2V0VXNlcm5hbWUoKS5lcXVhbHMoIjEyMyIpKQogICAgICAgICAgICAgICAgcGxheWVyLnNldFJhbmsoMyk7CiAgICAgICAgICAgIGlmKHBsYXllci5nZXRVc2VybmFtZSgpLmVxdWFscygiMjM0IikpCiAgICAgICAgICAgICAgICBwbGF5ZXIuc2V0UmFuaygyKTsKCgogICAgICAgICAgICAvL1RPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURVRPRE86IEFQQUdBUiBBUEVOQVMgUEFSQSBURVNURQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lock</last-search>
+      <last-search>Chegue</last-search>
       <last-offset />
-      <last-pattern>lock</last-pattern>
+      <last-pattern>Chegue</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -663,7 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry>signal</entry>
         <entry encoding="base64">XDxzaWduYWxSZWFkeVw+</entry>
         <entry encoding="base64">XDxpbml0R2FtZVw+</entry>
         <entry encoding="base64">XDx3YWl0R2FtZVw+</entry>
@@ -683,6 +695,7 @@
         <entry>System.out</entry>
         <entry>print</entry>
         <entry>lock</entry>
+        <entry>Chegue</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
