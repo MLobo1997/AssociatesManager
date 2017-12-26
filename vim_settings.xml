@@ -411,8 +411,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514306290994">
-        <mark key="'" line="357" column="50" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514308334265">
+        <mark key="'" line="265" column="21" />
+        <mark key="[" line="358" column="68" />
+        <mark key="]" line="358" column="68" />
+        <mark key="." line="358" column="68" />
+        <mark key="^" line="358" column="68" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
         <mark key="[" line="11" column="9" />
@@ -497,7 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="15" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
       <jump line="46" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
       <jump line="34" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
       <jump line="244" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
@@ -551,7 +554,6 @@
       <jump line="340" column="24" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="342" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="344" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="346" column="13" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="347" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="350" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="371" column="34" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
@@ -597,6 +599,8 @@
       <jump line="298" column="11" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="269" column="28" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="357" column="50" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="346" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="265" column="21" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -610,34 +614,34 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24gTm8gY2FzbyBkZSBuw6NvIGNvbnNlZ3VpciBsZXIgZG8gYnVmZmVyIGRvIGNsaWVudGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>YESORNO</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>GAME</text>
+        <text encoding="base64">XDxzaWduYWxSZWFkeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBpbnQgc2l6ZSA9IDM7IC8vIFRPRE86IFZhbG9yIHRlbXBvcsOhcmlvLCBtdWRhcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24gTm8gY2FzbyBkZSBuw6NvIGNvbnNlZ3VpciBsZXIgZG8gYnVmZmVyIGRvIGNsaWVudGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50TWF0Y2guZ2V0TWF0Y2hMb2NrKCkudW5sb2NrKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gSW5mb3JtYcOnw6NvIGRvIGpvZ2Fkb3IuCg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24gTm8gY2FzbyBkZSBuw6NvIGNvbnNlZ3VpciBsZXIgZG8gYnVmZmVyIGRvIGNsaWVudGUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ29udGludWFtb3MgYXF1aSIpOwo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtOwo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gSW5mb3JtYcOnw6NvIGRvIGpvZ2Fkb3IuCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -646,25 +650,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ29udGludWFtb3MgYXF1aSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRGlzdHJpYnVpIGFsZWF0w7NyaWFtZW50ZSBvcyBqb2dhZG9yZXMgZGUgdW0gbWF0Y2ggcG9yIHVtIGFycmF5LCByZXByZXNlbnRhbmRvIG9zIHNldXMgcmFua2luZ3Mgbm8gam9nby4KICAgICAqIEByZXR1cm4gQXJyYXkgZGUgcmFua2luZ3MuCiAgICAgKi8KICAgIHByaXZhdGUgQXJyYXlMaXN0PFNlcnZlclRocmVhZD4gZGVmaW5lUmFua2luZygpIHsKCiAgICAgICAgTGlua2VkTGlzdDxTZXJ2ZXJUaHJlYWQ+IHBsYXllcnMgPSBuZXcgTGlua2VkTGlzdDw+KG1hdGNoSW5mby5nZXRQbGF5ZXJzKCkpOwogICAgICAgIEFycmF5TGlzdDxTZXJ2ZXJUaHJlYWQ+IHIgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBpbnQgcGxheWVyUG9zLCBpbml0U2l6ZSA9IHBsYXllcnMuc2l6ZSgpOwoKICAgICAgICBmb3IgKGludCBpID0gMCA7IGkgPCBpbml0U2l6ZTsgaSsrKSB7CiAgICAgICAgICAgIHBsYXllclBvcyA9IFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0SW50KGluaXRTaXplIC0gaSk7IC8vVGhyZWFkTG9jYWxSYW5kb20gdXRpbGl6YWRvIGVtIHZleiBkZSBSYW5kb20gcG9yIHJlY29tZW5kYcOnw6NvIG5hIHByw7NwcmlhIGRvY3VtZW50YcOnw6NvIGVtICdodHRwczovL2RvY3Mub3JhY2xlLmNvbS9qYXZhc2UvOC9kb2NzL2FwaS9qYXZhL3V0aWwvUmFuZG9tLmh0bWwnCiAgICAgICAgICAgIHIuYWRkKGksIHBsYXllcnMuZ2V0KHBsYXllclBvcykpOwogICAgICAgICAgICBwbGF5ZXJzLnJlbW92ZShwbGF5ZXJQb3MpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHI7CiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluIChTdHJpbmcgW10gYXJncyl7CiAgICAgICAgTWF0Y2ggbSA9IG5ldyBNYXRjaCgpOwoKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRGlzdHJpYnVpIGFsZWF0w7NyaWFtZW50ZSBvcyBqb2dhZG9yZXMgZGUgdW0gbWF0Y2ggcG9yIHVtIGFycmF5LCByZXByZXNlbnRhbmRvIG9zIHNldXMgcmFua2luZ3Mgbm8gam9nby4KICAgICAqIEByZXR1cm4gQXJyYXkgZGUgcmFua2luZ3MuCiAgICAgKi8KICAgIHByaXZhdGUgQXJyYXlMaXN0PFNlcnZlclRocmVhZD4gZGVmaW5lUmFua2luZygpIHsKCiAgICAgICAgTGlua2VkTGlzdDxTZXJ2ZXJUaHJlYWQ+IHBsYXllcnMgPSBuZXcgTGlua2VkTGlzdDw+KG1hdGNoSW5mby5nZXRQbGF5ZXJzKCkpOwogICAgICAgIEFycmF5TGlzdDxTZXJ2ZXJUaHJlYWQ+IHIgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBpbnQgcGxheWVyUG9zLCBpbml0U2l6ZSA9IHBsYXllcnMuc2l6ZSgpOwoKICAgICAgICBmb3IgKGludCBpID0gMCA7IGkgPCBpbml0U2l6ZTsgaSsrKSB7CiAgICAgICAgICAgIHBsYXllclBvcyA9IFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0SW50KGluaXRTaXplIC0gaSk7IC8vVGhyZWFkTG9jYWxSYW5kb20gdXRpbGl6YWRvIGVtIHZleiBkZSBSYW5kb20gcG9yIHJlY29tZW5kYcOnw6NvIG5hIHByw7NwcmlhIGRvY3VtZW50YcOnw6NvIGVtICdodHRwczovL2RvY3Mub3JhY2xlLmNvbS9qYXZhc2UvOC9kb2NzL2FwaS9qYXZhL3V0aWwvUmFuZG9tLmh0bWwnCiAgICAgICAgICAgIHIuYWRkKGksIHBsYXllcnMuZ2V0KHBsYXllclBvcykpOwogICAgICAgICAgICBwbGF5ZXJzLnJlbW92ZShwbGF5ZXJQb3MpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHI7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>GAME</last-search>
+      <last-search encoding="base64">XDxzaWduYWxSZWFkeVw+</last-search>
       <last-offset />
-      <last-pattern>GAME</last-pattern>
+      <last-pattern encoding="base64">XDxzaWduYWxSZWFkeVw+</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -672,7 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2JiaWVzQXZhaWxhYmxlQXdhaXRcPg==</entry>
         <entry>System.out.println</entry>
         <entry encoding="base64">XDxsb2JieUluZGV4XD4=</entry>
         <entry encoding="base64">XDxhc3NvY2lhdGVNYXRjaFw+</entry>
@@ -692,6 +695,7 @@
         <entry encoding="base64">XDxkYWVtb25cPg==</entry>
         <entry>signal</entry>
         <entry>GAME</entry>
+        <entry encoding="base64">XDxzaWduYWxSZWFkeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
