@@ -342,8 +342,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514464768017">
-        <mark key="'" line="248" column="17" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514485996645">
+        <mark key="'" line="244" column="36" />
         <mark key="[" line="25" column="35" />
         <mark key="]" line="25" column="36" />
         <mark key="." line="25" column="36" />
@@ -415,8 +415,8 @@
         <mark key="^" line="249" column="23" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514482193792">
-        <mark key="'" line="101" column="31" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514485985082">
+        <mark key="'" line="248" column="31" />
         <mark key="[" line="101" column="38" />
         <mark key="]" line="101" column="57" />
         <mark key="^" line="101" column="57" />
@@ -501,8 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="145" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="144" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="162" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
@@ -576,7 +574,6 @@
       <jump line="247" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="41" column="25" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="55" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="138" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="248" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="143" column="89" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="292" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
@@ -601,6 +598,9 @@
       <jump line="38" column="11" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
       <jump line="71" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
       <jump line="101" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="248" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="138" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="244" column="36" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -623,7 +623,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>match</text>
+        <text>waitGa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3MuY2xvc2UoKTsK</text>
@@ -666,9 +666,9 @@
       </register>
     </registers>
     <search>
-      <last-search>match</last-search>
+      <last-search>waitGa</last-search>
       <last-offset />
-      <last-pattern>match</last-pattern>
+      <last-pattern>waitGa</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -676,8 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50TWF0Y2hcPg==</entry>
-        <entry>System.out</entry>
         <entry>print</entry>
         <entry>lock</entry>
         <entry>Chegue</entry>
@@ -696,6 +694,8 @@
         <entry encoding="base64">XDxzdG9wXD4=</entry>
         <entry>find</entry>
         <entry>match</entry>
+        <entry encoding="base64">XDx3YWl0R2FtZVw+</entry>
+        <entry>waitGa</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
