@@ -92,12 +92,10 @@
         <mark key="." line="165" column="3" />
         <mark key="^" line="165" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" timestamp="1514505894920">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="41" column="25" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" timestamp="1514508071510">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Consumer5.java" timestamp="1510178905698">
         <mark key="'" line="3" column="12" />
@@ -343,8 +341,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514485996645">
-        <mark key="'" line="244" column="36" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514507711300">
+        <mark key="'" line="25" column="35" />
         <mark key="[" line="25" column="35" />
         <mark key="]" line="25" column="36" />
         <mark key="." line="25" column="36" />
@@ -416,12 +414,8 @@
         <mark key="^" line="249" column="23" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514505555008">
-        <mark key="'" line="227" column="49" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="^" line="245" column="3" />
-        <mark key="." line="255" column="0" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514509920880">
+        <mark key="'" line="327" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
         <mark key="[" line="11" column="9" />
@@ -455,13 +449,6 @@
         <mark key="." line="51" column="73" />
         <mark key="^" line="51" column="73" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" timestamp="1514505695637">
-        <mark key="'" line="300" column="27" />
-        <mark key="[" line="298" column="35" />
-        <mark key="]" line="298" column="45" />
-        <mark key="^" line="298" column="45" />
-        <mark key="." line="298" column="45" />
-      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/BoundedBuffer5.java" timestamp="1510184401209">
         <mark key="'" line="44" column="16" />
         <mark key="[" line="53" column="0" />
@@ -469,11 +456,11 @@
         <mark key="^" line="53" column="1" />
         <mark key="." line="53" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" timestamp="1514505411962">
-        <mark key="'" line="111" column="16" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" timestamp="1514509917105">
+        <mark key="'" line="193" column="22" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="/RegExp Fragment (ClientDaemon.java:1926).regexp" timestamp="1514465732643">
         <mark key="[" line="0" column="0" />
@@ -509,20 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="107" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="134" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="340" column="24" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="342" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="344" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="347" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="350" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="371" column="34" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="39" column="18" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="116" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="329" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="229" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
-      <jump line="139" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="142" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="132" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="74" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
@@ -572,18 +545,15 @@
       <jump line="119" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/PlayerAggregator.java" />
       <jump line="22" column="23" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/PlayerAggregator.java" />
       <jump line="126" column="47" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/PlayerAggregator.java" />
-      <jump line="302" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="20" column="25" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="296" column="25" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="61" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
       <jump line="38" column="11" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
       <jump line="71" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
       <jump line="101" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="248" column="31" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="138" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="244" column="36" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
       <jump line="238" column="10" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="253" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="356" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="138" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="154" column="44" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
@@ -609,6 +579,23 @@
       <jump line="297" column="25" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="298" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="299" column="27" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
+      <jump line="302" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
+      <jump line="365" column="49" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="153" column="22" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
+      <jump line="260" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="278" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="87" column="44" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="85" column="66" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="82" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="163" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="205" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="257" column="42" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="253" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="358" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="25" column="35" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="248" column="28" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="193" column="22" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
+      <jump line="327" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -622,34 +609,34 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGluZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vosse mecê deseja</text>
       </register>
       <register name="/" type="4">
-        <text>daemon</text>
+        <text>GAME</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGluZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGluZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdXQucHJpbnRsbigiJlFVSVQmIik7IC8vY29tdW5pY2EgYW8gY2xpZW50ZSBxdWUgbyBqb2dvIGFjYWJvdQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNpZ25hbGluZyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgaWYgKGxpbmUuZXF1YWxzKCImUVVJVCYiKSkgewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNsaWVudC5ub3RJbk1hdGNoKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUEFTU0EgQVFVSSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5wcmludGxuKGxpbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRBRU1PTiBERUFEIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">CiAgICAgICAgLy9GZWNoYSBvIGRhZW1vbgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGlzLmNsb3NlKCk7CiAgICAgICAgICAgIG9zLmNsb3NlKCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -658,25 +645,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvTWVzc2FnZSgiSm9nbyBhY2Fib3UsIGVzY3JldmEgXCJxdWl0XCIgcGFyYSB2b2x0YXIgYW8gbWVudSBwcmluY2lwYWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHQuc3RhcnQoKTsK</text>
+        <text encoding="base64">CiAgICAgICAgLy9GZWNoYSBvIGRhZW1vbgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGlzLmNsb3NlKCk7CiAgICAgICAgICAgIG9zLmNsb3NlKCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHQuc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJPY29ycmV1ICIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhZW1vbiA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>daemon</last-search>
+      <last-search>GAME</last-search>
       <last-offset />
-      <last-pattern>daemon</last-pattern>
+      <last-pattern>GAME</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -684,19 +671,10 @@
     </search>
     <history>
       <history-search>
-        <entry>GAME</entry>
-        <entry encoding="base64">XDxzaWduYWxSZWFkeVw+</entry>
-        <entry encoding="base64">XDxtYXRjaG1ha2VyXD4=</entry>
-        <entry encoding="base64">XDxlbmRNYXRjaGluZ1w+</entry>
-        <entry encoding="base64">XDxzdGFydE1lbnVcPg==</entry>
-        <entry encoding="base64">XDxmaW5kTWF0Y2hcPg==</entry>
-        <entry encoding="base64">XDxkaXNjb25uZWN0VXNlclw+</entry>
         <entry encoding="base64">XDxkYWVtb25cPg==</entry>
         <entry encoding="base64">XDxzdG9wXD4=</entry>
-        <entry encoding="base64">XDx3YWl0R2FtZVw+</entry>
         <entry>waitGa</entry>
         <entry>match</entry>
-        <entry encoding="base64">XDxpbml0R2FtZVw+</entry>
         <entry>find</entry>
         <entry>GAMEOVE</entry>
         <entry encoding="base64">XDx3YWl0Rm9yR2FtZVRvU3RhcnRcPg==</entry>
@@ -704,6 +682,15 @@
         <entry>escreva</entry>
         <entry>quit\c</entry>
         <entry>daemon</entry>
+        <entry encoding="base64">XDxmaW5kTWF0Y2hcPg==</entry>
+        <entry>desconec</entry>
+        <entry encoding="base64">XDxjbGVhbnVwXD4=</entry>
+        <entry>cmd</entry>
+        <entry encoding="base64">XDxpbml0R2FtZVw+</entry>
+        <entry encoding="base64">XDx3YWl0R2FtZVw+</entry>
+        <entry>wait</entry>
+        <entry>Signaling</entry>
+        <entry>GAME</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
