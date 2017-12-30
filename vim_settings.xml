@@ -493,8 +493,8 @@
         <mark key="^" line="53" column="1" />
         <mark key="." line="53" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" timestamp="1514595759482">
-        <mark key="'" line="110" column="0" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" timestamp="1514598572739">
+        <mark key="'" line="224" column="14" />
         <mark key="[" line="205" column="76" />
         <mark key="]" line="205" column="93" />
         <mark key="." line="205" column="93" />
@@ -534,7 +534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="380" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="356" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="164" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
@@ -634,6 +633,7 @@
       <jump line="138" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" />
       <jump line="166" column="28" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" />
       <jump line="253" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
+      <jump line="224" column="14" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -678,7 +678,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0R2FtZVw+</text>
+        <text>Waiting for</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKiBNb2RpZmljYSBvIGNsaWVudGUgcGFyYSB1bSBlc3RhZG8gZGUgZm9yYSBkZSBtYXRjaGluZy4KICAgICAqCiAgICAgKiBAdGhyb3dzIEV4Y2VwdGlvbiBObyBjYXNvIGRlIHNlIHRlbnRhciB1c2FyIG8gbcOpdG9kbyBxdWFuZG8gbsOjbyBzZSBlbmNvbnRyYSBlbSBtYXRjaGluZy4KICAgICAqLwogICAgcHVibGljIHZvaWQgbm90SW5NYXRjaCgpIHRocm93cyBFeGNlcHRpb257CiAgICAgICAgaWYgKGluTWF0Y2gpIHsKICAgICAgICAgICAgaW5NYXRjaCA9IGZhbHNlOwogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiRm9pIGludm9jYWRvIG8gbcOpdG9kbyBub3RJbk1hdGNoIHF1YW5kbyBvIGNsaWVudGUgbsOjbyBlc3RhdmEgZW0gbWF0Y2giKTsKICAgICAgICB9CiAgICB9Cg==</text>
@@ -721,9 +721,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0R2FtZVw+</last-search>
+      <last-search>Waiting for</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0R2FtZVw+</last-pattern>
+      <last-pattern>Waiting for</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -731,7 +731,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5DbGllbnRzXD4=</entry>
         <entry>log.append</entry>
         <entry>append</entry>
         <entry>\\n</entry>
@@ -751,6 +750,7 @@
         <entry encoding="base64">XDxObm93XD4=</entry>
         <entry encoding="base64">XDxhZGRDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxpbml0R2FtZVw+</entry>
+        <entry>Waiting for</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
