@@ -24,11 +24,6 @@
         <mark key="^" line="65" column="28" />
         <mark key="." line="65" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/CSVParser.java" timestamp="1511831613781">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4Server.java" timestamp="1511795588820">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="0" />
@@ -63,6 +58,12 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
       </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/matches.txt" timestamp="1514641781234">
+        <mark key="'" line="5" column="40" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Message.java" timestamp="1512229816527">
         <mark key="[" line="33" column="24" />
         <mark key="]" line="33" column="33" />
@@ -81,12 +82,12 @@
         <mark key="^" line="36" column="21" />
         <mark key="." line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" timestamp="1514598476726">
-        <mark key="'" line="61" column="44" />
-        <mark key="[" line="208" column="22" />
-        <mark key="]" line="208" column="23" />
-        <mark key="." line="208" column="23" />
-        <mark key="^" line="208" column="23" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" timestamp="1514640843674">
+        <mark key="'" line="228" column="27" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+        <mark key="^" line="235" column="126" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" timestamp="1514598250383">
         <mark key="a" line="167" column="27" />
@@ -129,11 +130,6 @@
         <mark key="]" line="2" column="41" />
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/OnlinePlayers.java" timestamp="1512498526418">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/AutorInexistenteException.java" timestamp="1498590296360">
         <mark key="[" line="3" column="39" />
@@ -235,11 +231,6 @@
         <mark key="." line="75" column="3" />
         <mark key="^" line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Exceptions/UserAlreadyOnlineException.java" timestamp="1512839438997">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Exceptions/IncorrectValueException.java" timestamp="1506679559091">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -251,6 +242,9 @@
         <mark key="]" line="8" column="20" />
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/botLogs/mdiggar0.log" timestamp="1514641130678">
+        <mark key="'" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/BoundedBuffer.java" timestamp="1508854363853">
         <mark key="'" line="8" column="14" />
@@ -362,17 +356,12 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/main/java/ClientGenerator.java" timestamp="1513213659357">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514507711300">
-        <mark key="'" line="25" column="35" />
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="36" />
-        <mark key="." line="25" column="36" />
-        <mark key="^" line="25" column="34" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514640572425">
+        <mark key="'" line="105" column="27" />
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="36" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
         <mark key="'" line="23" column="6" />
@@ -398,6 +387,7 @@
       <file name="/Dummy.txt" timestamp="1513908968597">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/botLogs/ashapera4.log" timestamp="1514640791196" />
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/JustHello.java" timestamp="1511188318455">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="16" column="20" />
@@ -430,15 +420,6 @@
         <mark key="]" line="18" column="72" />
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
-      </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/ServerThread.java" timestamp="1513432159449">
-        <mark key="'" line="264" column="0" />
-        <mark key="k" line="190" column="7" />
-        <mark key="[" line="126" column="0" />
-        <mark key="m" line="190" column="7" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="249" column="23" />
-        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514598504457">
         <mark key="'" line="253" column="20" />
@@ -479,12 +460,11 @@
         <mark key="." line="51" column="73" />
         <mark key="^" line="51" column="73" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" timestamp="1514597573901">
-        <mark key="'" line="240" column="19" />
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="320" column="4" />
-        <mark key="^" line="256" column="20" />
-        <mark key="." line="294" column="0" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" timestamp="1514639489638">
+        <mark key="'" line="236" column="17" />
+        <mark key="[" line="304" column="28" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/BoundedBuffer5.java" timestamp="1510184401209">
         <mark key="'" line="44" column="16" />
@@ -493,12 +473,12 @@
         <mark key="^" line="53" column="1" />
         <mark key="." line="53" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" timestamp="1514598572739">
-        <mark key="'" line="224" column="14" />
-        <mark key="[" line="205" column="76" />
-        <mark key="]" line="205" column="93" />
-        <mark key="." line="205" column="93" />
-        <mark key="^" line="205" column="93" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" timestamp="1514641800136">
+        <mark key="'" line="158" column="17" />
+        <mark key="[" line="218" column="28" />
+        <mark key="]" line="158" column="25" />
+        <mark key="." line="158" column="25" />
+        <mark key="^" line="158" column="25" />
       </file>
       <file name="/RegExp Fragment (ClientDaemon.java:1926).regexp" timestamp="1514465732643">
         <mark key="[" line="0" column="0" />
@@ -534,23 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="356" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="164" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="398" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="100" column="19" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="394" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="205" column="93" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
-      <jump line="228" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
-      <jump line="158" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
-      <jump line="226" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
-      <jump line="61" column="36" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" />
-      <jump line="39" column="30" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" />
-      <jump line="181" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
-      <jump line="68" column="4" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
-      <jump line="75" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
-      <jump line="84" column="24" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="87" column="24" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="95" column="24" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="30" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" />
@@ -601,7 +564,6 @@
       <jump line="89" column="46" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
       <jump line="93" column="46" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
       <jump line="98" column="25" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
-      <jump line="236" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="11" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
       <jump line="51" column="21" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
       <jump line="88" column="36" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
@@ -615,7 +577,6 @@
       <jump line="202" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" />
       <jump line="328" column="15" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="110" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
-      <jump line="302" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="57" column="9" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="59" column="44" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="20" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
@@ -634,6 +595,25 @@
       <jump line="166" column="28" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" />
       <jump line="253" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
       <jump line="224" column="14" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
+      <jump line="84" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="150" column="34" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="105" column="27" filename="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" />
+      <jump line="302" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
+      <jump line="236" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
+      <jump line="233" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
+      <jump line="229" column="27" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/SD_Projeto/botLogs/mdiggar0.log" />
+      <jump line="10" column="16" filename="$USER_HOME$/Development/SD_Projeto/botLogs/mdiggar0.log" />
+      <jump line="47" column="16" filename="$USER_HOME$/Development/SD_Projeto/botLogs/mdiggar0.log" />
+      <jump line="114" column="16" filename="$USER_HOME$/Development/SD_Projeto/botLogs/mdiggar0.log" />
+      <jump line="183" column="16" filename="$USER_HOME$/Development/SD_Projeto/botLogs/mdiggar0.log" />
+      <jump line="20" column="16" filename="$USER_HOME$/Development/SD_Projeto/botLogs/mdiggar0.log" />
+      <jump line="49" column="7" filename="$USER_HOME$/Development/SD_Projeto/matches.txt" />
+      <jump line="0" column="7" filename="$USER_HOME$/Development/SD_Projeto/matches.txt" />
+      <jump line="1" column="140" filename="$USER_HOME$/Development/SD_Projeto/matches.txt" />
+      <jump line="2" column="130" filename="$USER_HOME$/Development/SD_Projeto/matches.txt" />
+      <jump line="5" column="40" filename="$USER_HOME$/Development/SD_Projeto/matches.txt" />
+      <jump line="158" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -668,35 +648,35 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MTM6Mzk6NTIKfCBuYW1lOmtsYXZhcmFja3IscmFuazowLGhlcm86bi9hIHwgbmFtZTpoaGluY2tzcCxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmFzaGFwZXJhNCxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmRsaWdodHdpbmcyLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6bWRpZ2dhcjAscmFuazoyLGhlcm86bi9hIHwgCnwgbmFtZTppYmxhZGVyYixyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmFhdWNrbGFuZHQscmFuazowLGhlcm86bi9hIHwgbmFtZTprZ3JlZ3NvbmcscmFuazowLGhlcm86bi9hIHwgbmFtZTphYmVuZGxleWMscmFuazowLGhlcm86bi9hIHwgbmFtZTpiY29tZXRzb245LHJhbms6MSxoZXJvOm4vYSB8IAotLS0tCjEzOjM5OjUyCnwgbmFtZTpjcmVuZGJhZWtsLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6Y2RpcGlldHJvcyxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOnpub3dsYW5kZixyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmVwZXRvd28scmFuazowLGhlcm86bi9hIHwgbmFtZTpja2lyd29vZDcscmFuazoxLGhlcm86bi9hIHwgCnwgbmFtZTpobWNjcmF3ZCxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmJrZWFzeWUscmFuazowLGhlcm86bi9hIHwgbmFtZTpkY3JvbmtuLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6aHN0b2x3b3J0aHlqLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6bGFuZHJhc2NoMSxyYW5rOjEsaGVybzpuL2EgfCAKLS0tLQoxMzozOTo1OAp8IG5hbWU6Z3RvbWN6YWtoLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6cmpvcmdlc2VuYSxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmxyZXViYmVuc2sscmFuazowLGhlcm86bi9hIHwgbmFtZTppbGVlbDYscmFuazoyLGhlcm86bi9hIHwgbmFtZTpmc3RvY2t5OCxyYW5rOjEsaGVybzpuL2EgfCAKfCBuYW1lOmRzcGVha21hbnEscmFuazowLGhlcm86bi9hIHwgbmFtZTp6aGVkZGl0ZWhpLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6YnllZ29ya2lubSxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmFhdWNrbGFuZHQscmFuazoxLGhlcm86bi9hIHwgbmFtZTppbWFya2UzLHJhbms6MSxoZXJvOm4vYSB8IAotLS0tCjEzOjQwOjAwCnwgbmFtZTplcGV0b3dvLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6YmtlYXN5ZSxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmhtY2NyYXdkLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6aGhpbmNrc3AscmFuazoxLGhlcm86bi9hIHwgbmFtZTpkbGlnaHR3aW5nMixyYW5rOjIsaGVybzpuL2EgfCAKfCBuYW1lOmNyZW5kYmFla2wscmFuazowLGhlcm86bi9hIHwgbmFtZTprbGF2YXJhY2tyLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6YWJlbmRsZXljLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6aWJsYWRlcmIscmFuazowLGhlcm86bi9hIHwgbmFtZTp6bm93bGFuZGYscmFuazoxLGhlcm86bi9hIHwgCi0tLS0KMTM6NDA6MDUKfCBuYW1lOmNkaXBpZXRyb3MscmFuazoxLGhlcm86bi9hIHwgbmFtZTprZ3JlZ3NvbmcscmFuazoxLGhlcm86bi9hIHwgbmFtZTp6aGVkZGl0ZWhpLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6Y2tpcndvb2Q3LHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6bGFuZHJhc2NoMSxyYW5rOjEsaGVybzpuL2EgfCAKfCBuYW1lOmhzdG9sd29ydGh5aixyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmRjcm9ua24scmFuazoxLGhlcm86bi9hIHwgbmFtZTpieWVnb3JraW5tLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6YmNvbWV0c29uOSxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOmFzaGFwZXJhNCxyYW5rOjEsaGVybzpuL2EgfCAKLS0tLQoxMzo0MDowOAp8IG5hbWU6aWJsYWRlcmIscmFuazoxLGhlcm86bi9hIHwgbmFtZTpjcmVuZGJhZWtsLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6bHJldWJiZW5zayxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmtsYXZhcmFja3IscmFuazowLGhlcm86bi9hIHwgbmFtZTp6bm93bGFuZGYscmFuazoxLGhlcm86bi9hIHwgCnwgbmFtZTpkc3BlYWttYW5xLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6cmpvcmdlc2VuYSxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmJrZWFzeWUscmFuazoxLGhlcm86bi9hIHwgbmFtZTpndG9tY3pha2gscmFuazowLGhlcm86bi9hIHwgbmFtZTpmc3RvY2t5OCxyYW5rOjIsaGVybzpuL2EgfCAKLS0tLQoxMzo0MDoxMAp8IG5hbWU6aW1hcmtlMyxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOmFhdWNrbGFuZHQscmFuazoxLGhlcm86bi9hIHwgbmFtZTphc2hhcGVyYTQscmFuazoxLGhlcm86bi9hIHwgbmFtZTptZGlnZ2FyMCxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOmlsZWVsNixyYW5rOjIsaGVybzpuL2EgfCAKfCBuYW1lOmhtY2NyYXdkLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6aGhpbmNrc3AscmFuazoxLGhlcm86bi9hIHwgbmFtZTprZ3JlZ3NvbmcscmFuazoxLGhlcm86bi9hIHwgbmFtZTpjZGVsbGU1LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6ZGxpZ2h0d2luZzIscmFuazoyLGhlcm86bi9hIHwgCi0tLS0KMTM6NDA6MTYKfCBuYW1lOmFiZW5kbGV5YyxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmJ5ZWdvcmtpbm0scmFuazoxLGhlcm86bi9hIHwgbmFtZTp6bm93bGFuZGYscmFuazoxLGhlcm86bi9hIHwgbmFtZTppYmxhZGVyYixyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmFzaGFwZXJhNCxyYW5rOjEsaGVybzpuL2EgfCAKfCBuYW1lOmVwZXRvd28scmFuazowLGhlcm86bi9hIHwgbmFtZTp6aGVkZGl0ZWhpLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6Y3JlbmRiYWVrbCxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmNraXJ3b29kNyxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmNkaXBpZXRyb3MscmFuazoxLGhlcm86bi9hIHwgCi0tLS0KMTM6NDA6MTkKfCBuYW1lOmxyZXViYmVuc2sscmFuazoxLGhlcm86bi9hIHwgbmFtZTpndG9tY3pha2gscmFuazowLGhlcm86bi9hIHwgbmFtZTpoaGluY2tzcCxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOnJqb3JnZXNlbmEscmFuazoxLGhlcm86bi9hIHwgbmFtZTpsYW5kcmFzY2gxLHJhbms6MSxoZXJvOm4vYSB8IAp8IG5hbWU6a2xhdmFyYWNrcixyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmhzdG9sd29ydGh5aixyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmRzcGVha21hbnEscmFuazoxLGhlcm86bi9hIHwgbmFtZTphYXVja2xhbmR0LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6a2dyZWdzb25nLHJhbms6MixoZXJvOm4vYSB8IAotLS0tCjEzOjQwOjIxCnwgbmFtZTpia2Vhc3llLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6aWxlZWw2LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6bWRpZ2dhcjAscmFuazoyLGhlcm86bi9hIHwgbmFtZTpmc3RvY2t5OCxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOmRsaWdodHdpbmcyLHJhbms6MixoZXJvOm4vYSB8IAp8IG5hbWU6ZGNyb25rbixyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmhtY2NyYXdkLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6YmNvbWV0c29uOSxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOmltYXJrZTMscmFuazoyLGhlcm86bi9hIHwgbmFtZTpjZGVsbGU1LHJhbms6MixoZXJvOm4vYSB8IAotLS0tCjEzOjQwOjU1CnwgbmFtZTphc2hhcGVyYTQscmFuazoxLGhlcm86bi9hIHwgbmFtZTp6aGVkZGl0ZWhpLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6YnllZ29ya2lubSxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOjEscmFuazoxLGhlcm86bi9hIHwgbmFtZTphYXVja2xhbmR0LHJhbms6MixoZXJvOm4vYSB8IAp8IG5hbWU6Y3JlbmRiYWVrbCxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmlibGFkZXJiLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6Y2tpcndvb2Q3LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6ZHNwZWFrbWFucSxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmhoaW5ja3NwLHJhbms6MixoZXJvOm4vYSB8IAotLS0tCjEzOjQyOjQ5CnwgbmFtZTpsYW5kcmFzY2gxLHJhbms6MixoZXJvOm4vYSB8IG5hbWU6ZGxpZ2h0d2luZzIscmFuazoyLGhlcm86bi9hIHwgbmFtZTppbWFya2UzLHJhbms6MixoZXJvOm4vYSB8IG5hbWU6aWxlZWw2LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6ZnN0b2NreTgscmFuazoyLGhlcm86bi9hIHwgCnwgbmFtZToxLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6YXNoYXBlcmE0LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6bWRpZ2dhcjAscmFuazoyLGhlcm86bi9hIHwgbmFtZTpjZGVsbGU1LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6Y2tpcndvb2Q3LHJhbms6MixoZXJvOm4vYSB8IAotLS0tCg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
-        <text>Waiting for</text>
+        <text encoding="base64">XDxzYXZlR2FtZUluZm9cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKiBNb2RpZmljYSBvIGNsaWVudGUgcGFyYSB1bSBlc3RhZG8gZGUgZm9yYSBkZSBtYXRjaGluZy4KICAgICAqCiAgICAgKiBAdGhyb3dzIEV4Y2VwdGlvbiBObyBjYXNvIGRlIHNlIHRlbnRhciB1c2FyIG8gbcOpdG9kbyBxdWFuZG8gbsOjbyBzZSBlbmNvbnRyYSBlbSBtYXRjaGluZy4KICAgICAqLwogICAgcHVibGljIHZvaWQgbm90SW5NYXRjaCgpIHRocm93cyBFeGNlcHRpb257CiAgICAgICAgaWYgKGluTWF0Y2gpIHsKICAgICAgICAgICAgaW5NYXRjaCA9IGZhbHNlOwogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiRm9pIGludm9jYWRvIG8gbcOpdG9kbyBub3RJbk1hdGNoIHF1YW5kbyBvIGNsaWVudGUgbsOjbyBlc3RhdmEgZW0gbWF0Y2giKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTM6Mzk6NTIKfCBuYW1lOmtsYXZhcmFja3IscmFuazowLGhlcm86bi9hIHwgbmFtZTpoaGluY2tzcCxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmFzaGFwZXJhNCxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmRsaWdodHdpbmcyLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6bWRpZ2dhcjAscmFuazoyLGhlcm86bi9hIHwgCnwgbmFtZTppYmxhZGVyYixyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmFhdWNrbGFuZHQscmFuazowLGhlcm86bi9hIHwgbmFtZTprZ3JlZ3NvbmcscmFuazowLGhlcm86bi9hIHwgbmFtZTphYmVuZGxleWMscmFuazowLGhlcm86bi9hIHwgbmFtZTpiY29tZXRzb245LHJhbms6MSxoZXJvOm4vYSB8IAotLS0tCjEzOjM5OjUyCnwgbmFtZTpjcmVuZGJhZWtsLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6Y2RpcGlldHJvcyxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOnpub3dsYW5kZixyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmVwZXRvd28scmFuazowLGhlcm86bi9hIHwgbmFtZTpja2lyd29vZDcscmFuazoxLGhlcm86bi9hIHwgCnwgbmFtZTpobWNjcmF3ZCxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmJrZWFzeWUscmFuazowLGhlcm86bi9hIHwgbmFtZTpkY3JvbmtuLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6aHN0b2x3b3J0aHlqLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6bGFuZHJhc2NoMSxyYW5rOjEsaGVybzpuL2EgfCAKLS0tLQoxMzozOTo1OAp8IG5hbWU6Z3RvbWN6YWtoLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6cmpvcmdlc2VuYSxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmxyZXViYmVuc2sscmFuazowLGhlcm86bi9hIHwgbmFtZTppbGVlbDYscmFuazoyLGhlcm86bi9hIHwgbmFtZTpmc3RvY2t5OCxyYW5rOjEsaGVybzpuL2EgfCAKfCBuYW1lOmRzcGVha21hbnEscmFuazowLGhlcm86bi9hIHwgbmFtZTp6aGVkZGl0ZWhpLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6YnllZ29ya2lubSxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmFhdWNrbGFuZHQscmFuazoxLGhlcm86bi9hIHwgbmFtZTppbWFya2UzLHJhbms6MSxoZXJvOm4vYSB8IAotLS0tCjEzOjQwOjAwCnwgbmFtZTplcGV0b3dvLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6YmtlYXN5ZSxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmhtY2NyYXdkLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6aGhpbmNrc3AscmFuazoxLGhlcm86bi9hIHwgbmFtZTpkbGlnaHR3aW5nMixyYW5rOjIsaGVybzpuL2EgfCAKfCBuYW1lOmNyZW5kYmFla2wscmFuazowLGhlcm86bi9hIHwgbmFtZTprbGF2YXJhY2tyLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6YWJlbmRsZXljLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6aWJsYWRlcmIscmFuazowLGhlcm86bi9hIHwgbmFtZTp6bm93bGFuZGYscmFuazoxLGhlcm86bi9hIHwgCi0tLS0KMTM6NDA6MDUKfCBuYW1lOmNkaXBpZXRyb3MscmFuazoxLGhlcm86bi9hIHwgbmFtZTprZ3JlZ3NvbmcscmFuazoxLGhlcm86bi9hIHwgbmFtZTp6aGVkZGl0ZWhpLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6Y2tpcndvb2Q3LHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6bGFuZHJhc2NoMSxyYW5rOjEsaGVybzpuL2EgfCAKfCBuYW1lOmhzdG9sd29ydGh5aixyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmRjcm9ua24scmFuazoxLGhlcm86bi9hIHwgbmFtZTpieWVnb3JraW5tLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6YmNvbWV0c29uOSxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOmFzaGFwZXJhNCxyYW5rOjEsaGVybzpuL2EgfCAKLS0tLQoxMzo0MDowOAp8IG5hbWU6aWJsYWRlcmIscmFuazoxLGhlcm86bi9hIHwgbmFtZTpjcmVuZGJhZWtsLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6bHJldWJiZW5zayxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmtsYXZhcmFja3IscmFuazowLGhlcm86bi9hIHwgbmFtZTp6bm93bGFuZGYscmFuazoxLGhlcm86bi9hIHwgCnwgbmFtZTpkc3BlYWttYW5xLHJhbms6MCxoZXJvOm4vYSB8IG5hbWU6cmpvcmdlc2VuYSxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmJrZWFzeWUscmFuazoxLGhlcm86bi9hIHwgbmFtZTpndG9tY3pha2gscmFuazowLGhlcm86bi9hIHwgbmFtZTpmc3RvY2t5OCxyYW5rOjIsaGVybzpuL2EgfCAKLS0tLQoxMzo0MDoxMAp8IG5hbWU6aW1hcmtlMyxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOmFhdWNrbGFuZHQscmFuazoxLGhlcm86bi9hIHwgbmFtZTphc2hhcGVyYTQscmFuazoxLGhlcm86bi9hIHwgbmFtZTptZGlnZ2FyMCxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOmlsZWVsNixyYW5rOjIsaGVybzpuL2EgfCAKfCBuYW1lOmhtY2NyYXdkLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6aGhpbmNrc3AscmFuazoxLGhlcm86bi9hIHwgbmFtZTprZ3JlZ3NvbmcscmFuazoxLGhlcm86bi9hIHwgbmFtZTpjZGVsbGU1LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6ZGxpZ2h0d2luZzIscmFuazoyLGhlcm86bi9hIHwgCi0tLS0KMTM6NDA6MTYKfCBuYW1lOmFiZW5kbGV5YyxyYW5rOjAsaGVybzpuL2EgfCBuYW1lOmJ5ZWdvcmtpbm0scmFuazoxLGhlcm86bi9hIHwgbmFtZTp6bm93bGFuZGYscmFuazoxLGhlcm86bi9hIHwgbmFtZTppYmxhZGVyYixyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmFzaGFwZXJhNCxyYW5rOjEsaGVybzpuL2EgfCAKfCBuYW1lOmVwZXRvd28scmFuazowLGhlcm86bi9hIHwgbmFtZTp6aGVkZGl0ZWhpLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6Y3JlbmRiYWVrbCxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmNraXJ3b29kNyxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmNkaXBpZXRyb3MscmFuazoxLGhlcm86bi9hIHwgCi0tLS0KMTM6NDA6MTkKfCBuYW1lOmxyZXViYmVuc2sscmFuazoxLGhlcm86bi9hIHwgbmFtZTpndG9tY3pha2gscmFuazowLGhlcm86bi9hIHwgbmFtZTpoaGluY2tzcCxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOnJqb3JnZXNlbmEscmFuazoxLGhlcm86bi9hIHwgbmFtZTpsYW5kcmFzY2gxLHJhbms6MSxoZXJvOm4vYSB8IAp8IG5hbWU6a2xhdmFyYWNrcixyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmhzdG9sd29ydGh5aixyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmRzcGVha21hbnEscmFuazoxLGhlcm86bi9hIHwgbmFtZTphYXVja2xhbmR0LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6a2dyZWdzb25nLHJhbms6MixoZXJvOm4vYSB8IAotLS0tCjEzOjQwOjIxCnwgbmFtZTpia2Vhc3llLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6aWxlZWw2LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6bWRpZ2dhcjAscmFuazoyLGhlcm86bi9hIHwgbmFtZTpmc3RvY2t5OCxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOmRsaWdodHdpbmcyLHJhbms6MixoZXJvOm4vYSB8IAp8IG5hbWU6ZGNyb25rbixyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmhtY2NyYXdkLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6YmNvbWV0c29uOSxyYW5rOjIsaGVybzpuL2EgfCBuYW1lOmltYXJrZTMscmFuazoyLGhlcm86bi9hIHwgbmFtZTpjZGVsbGU1LHJhbms6MixoZXJvOm4vYSB8IAotLS0tCjEzOjQwOjU1CnwgbmFtZTphc2hhcGVyYTQscmFuazoxLGhlcm86bi9hIHwgbmFtZTp6aGVkZGl0ZWhpLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6YnllZ29ya2lubSxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOjEscmFuazoxLGhlcm86bi9hIHwgbmFtZTphYXVja2xhbmR0LHJhbms6MixoZXJvOm4vYSB8IAp8IG5hbWU6Y3JlbmRiYWVrbCxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmlibGFkZXJiLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6Y2tpcndvb2Q3LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6ZHNwZWFrbWFucSxyYW5rOjEsaGVybzpuL2EgfCBuYW1lOmhoaW5ja3NwLHJhbms6MixoZXJvOm4vYSB8IAotLS0tCjEzOjQyOjQ5CnwgbmFtZTpsYW5kcmFzY2gxLHJhbms6MixoZXJvOm4vYSB8IG5hbWU6ZGxpZ2h0d2luZzIscmFuazoyLGhlcm86bi9hIHwgbmFtZTppbWFya2UzLHJhbms6MixoZXJvOm4vYSB8IG5hbWU6aWxlZWw2LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6ZnN0b2NreTgscmFuazoyLGhlcm86bi9hIHwgCnwgbmFtZToxLHJhbms6MSxoZXJvOm4vYSB8IG5hbWU6YXNoYXBlcmE0LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6bWRpZ2dhcjAscmFuazoyLGhlcm86bi9hIHwgbmFtZTpjZGVsbGU1LHJhbms6MixoZXJvOm4vYSB8IG5hbWU6Y2tpcndvb2Q3LHJhbms6MixoZXJvOm4vYSB8IAotLS0tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od2FpdFRpbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZExpbmVUb0xvZygiQSBwcm9jdXJhciB1bSBqb2dvLi4uIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiAoU3RyaW5nIFtdIGFyZ3MpIHsKICAgICAgICBBdXRvbWF0ZWRDbGllbnQud2FpdFVudGlsKDUpOwogICAgICAgIEF1dG9tYXRlZENsaWVudC53YWl0VW50aWwoMSk7CiAgICAgICAgQXV0b21hdGVkQ2xpZW50LndhaXRVbnRpbCgxMCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAobmV3IEF1dG9tYXRlZENsaWVudCgpKS53YWl0VW50aWwoMSk7CiAgICAgICAgKG5ldyBBdXRvbWF0ZWRDbGllbnQoKSkud2FpdFVudGlsKDEwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -705,25 +685,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB3YWl0VW50aWwgKGludCBzZWNvbmRzKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od2FpdFRpbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiAoU3RyaW5nIFtdIGFyZ3MpIHsKICAgICAgICBBdXRvbWF0ZWRDbGllbnQud2FpdFVudGlsKDUpOwogICAgICAgIEF1dG9tYXRlZENsaWVudC53YWl0VW50aWwoMSk7CiAgICAgICAgQXV0b21hdGVkQ2xpZW50LndhaXRVbnRpbCgxMCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Waiting for</last-search>
+      <last-search encoding="base64">XDxzYXZlR2FtZUluZm9cPg==</last-search>
       <last-offset />
-      <last-pattern>Waiting for</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlR2FtZUluZm9cPg==</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -731,26 +711,26 @@
     </search>
     <history>
       <history-search>
-        <entry>log.append</entry>
-        <entry>append</entry>
-        <entry>\\n</entry>
-        <entry encoding="base64">XDxyZW1vdmVDbGllbnRcPg==</entry>
-        <entry encoding="base64">XDxzdGFydE1lbnVcPg==</entry>
-        <entry>Syste</entry>
-        <entry>not</entry>
-        <entry>Match</entry>
-        <entry>match</entry>
-        <entry>match\c</entry>
-        <entry encoding="base64">XDxpbml0XD4=</entry>
-        <entry encoding="base64">XDxmaW5kTWF0Y2hcPg==</entry>
-        <entry>wait</entry>
-        <entry encoding="base64">XDxpbk1hdGNoXD4=</entry>
-        <entry>load</entry>
-        <entry encoding="base64">XDxsb2FkUGxheWVyc0luZm9cPg==</entry>
-        <entry encoding="base64">XDxObm93XD4=</entry>
-        <entry encoding="base64">XDxhZGRDbGllbnRcPg==</entry>
-        <entry encoding="base64">XDxpbml0R2FtZVw+</entry>
         <entry>Waiting for</entry>
+        <entry>find</entry>
+        <entry encoding="base64">XDxmaW5kTWF0Y2hcPg==</entry>
+        <entry>iniciou\c</entry>
+        <entry>O jogo</entry>
+        <entry>O jogo term</entry>
+        <entry>Hero</entry>
+        <entry encoding="base64">XDxmc3RvY2t5OFw+</entry>
+        <entry encoding="base64">XDxndG9tY3pha2hcPg==</entry>
+        <entry encoding="base64">XDxjZGlwaWV0cm9zXD4=</entry>
+        <entry encoding="base64">XDxieWVnb3JraW5tXD4=</entry>
+        <entry encoding="base64">XDxjcmVuZGJhZWtsXD4=</entry>
+        <entry encoding="base64">XDxlcGV0b3dvXD4=</entry>
+        <entry encoding="base64">XDxpbGVlbDZcPg==</entry>
+        <entry encoding="base64">XDxkY3JvbmtuXD4=</entry>
+        <entry encoding="base64">XDxia2Vhc3llXD4=</entry>
+        <entry encoding="base64">XDxtZGlnZ2FyMFw+</entry>
+        <entry encoding="base64">XDxhYmVuZGxleWNcPg==</entry>
+        <entry encoding="base64">XDxoc3RvbHdvcnRoeWpcPg==</entry>
+        <entry encoding="base64">XDxzYXZlR2FtZUluZm9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
