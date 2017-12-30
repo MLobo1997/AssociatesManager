@@ -88,12 +88,12 @@
         <mark key="." line="199" column="4" />
         <mark key="^" line="199" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" timestamp="1514573296768">
-        <mark key="'" line="93" column="30" />
-        <mark key="[" line="165" column="28" />
-        <mark key="]" line="165" column="28" />
-        <mark key="." line="165" column="28" />
-        <mark key="^" line="197" column="24" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" timestamp="1514594767563">
+        <mark key="a" line="165" column="27" />
+        <mark key="'" line="202" column="0" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/project.java" timestamp="1506679655938">
         <mark key="[" line="11" column="113" />
@@ -108,19 +108,19 @@
         <mark key="." line="146" column="23" />
         <mark key="^" line="146" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" timestamp="1514575181444">
-        <mark key="'" line="11" column="2" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="41" column="30" />
-        <mark key="^" line="41" column="30" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" timestamp="1514594563818">
+        <mark key="'" line="50" column="21" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="78" />
+        <mark key="^" line="78" column="39" />
+        <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" timestamp="1514575444285">
-        <mark key="'" line="98" column="25" />
-        <mark key="[" line="104" column="16" />
-        <mark key="]" line="104" column="16" />
-        <mark key="." line="104" column="23" />
-        <mark key="^" line="60" column="35" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" timestamp="1514594832912">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="86" column="24" />
+        <mark key="]" line="86" column="25" />
+        <mark key="." line="86" column="25" />
+        <mark key="^" line="86" column="25" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Consumer5.java" timestamp="1510178905698">
         <mark key="'" line="3" column="12" />
@@ -478,8 +478,8 @@
         <mark key="." line="51" column="73" />
         <mark key="^" line="51" column="73" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" timestamp="1514575114724">
-        <mark key="'" line="302" column="16" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" timestamp="1514593904096">
+        <mark key="'" line="236" column="17" />
         <mark key="[" line="294" column="0" />
         <mark key="]" line="294" column="0" />
         <mark key="^" line="256" column="20" />
@@ -533,16 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="54" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="69" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="251" column="43" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="269" column="72" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="316" column="8" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="415" column="14" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" />
-      <jump line="217" column="7" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
-      <jump line="103" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
-      <jump line="126" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
-      <jump line="132" column="37" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
       <jump line="24" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="167" column="6" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="65" column="36" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
@@ -618,9 +608,7 @@
       <jump line="93" column="30" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" />
       <jump line="294" column="18" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="256" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="236" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="302" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="11" column="2" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
       <jump line="19" column="42" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
       <jump line="104" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
       <jump line="48" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
@@ -633,6 +621,18 @@
       <jump line="89" column="46" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
       <jump line="93" column="46" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
       <jump line="98" column="25" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
+      <jump line="236" column="17" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
+      <jump line="51" column="21" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
+      <jump line="88" column="36" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
+      <jump line="50" column="21" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" />
+      <jump line="71" column="27" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
+      <jump line="108" column="4" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
+      <jump line="83" column="52" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
+      <jump line="18" column="4" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClientDaemon.java" />
+      <jump line="184" column="37" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" />
+      <jump line="202" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/ClientGenerator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -667,8 +667,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>System.out.println</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -677,25 +677,25 @@
         <text>System.out.println</text>
       </register>
       <register name="/" type="4">
-        <text>Syste</text>
+        <text>match\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIENsYXNzZSB1dGlsaXphZGEgcGFyYSBhIHRocmVhZCBkZSBDbGllbnRlIHF1ZSBmdW5jaW9uYSBjb21vIHVtIGxpc3RlbmVyIGRvcyBkYWRvcyBxdWUgbGhlIHPDo28gZW52aWFkb3MKICogZSByZS1kaXJlY2lvbmEgcGFyYSBvIHRlcm1pbmFsIGRvIHV0aWxpemFkb3IKICovCnB1YmxpYyBjbGFzcyBDbGllbnREYWVtb24gaW1wbGVtZW50cyBSdW5uYWJsZSB7CiAgICBwcml2YXRlIEJ1ZmZlcmVkUmVhZGVyIGlzID0gbnVsbDsKICAgIHByaXZhdGUgUHJpbnRXcml0ZXIgb3MgPSBudWxsOwogICAgcHJpdmF0ZSBTb2NrZXQgc29ja2V0ID0gbnVsbDsKICAgIC8qKlBhcmEgcG9kZXIgbWFuaXB1bGFyIG8gY2xpZW50ZSovCiAgICBwcml2YXRlIENsaWVudCBjbGllbnQgPSBudWxsOwoKICAgIC8qKgogICAgICogQ29uc3RydWN0b3IKICAgICAqIEBwYXJhbSBzIFNvY2tldCBxdWUgbyBjbGllbnRlIHV0aWxpemEgcGFyYSBjb211bmljYXIgY29tIG8gc2Vydmlkb3IKICAgICAqLwogICAgcHVibGljIENsaWVudERhZW1vbihTb2NrZXQgcywgQ2xpZW50IGMpIHsKICAgICAgICBzb2NrZXQgPSBzOwoKICAgICAgICB0cnkgewogICAgICAgICAgICBpcyA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoc29ja2V0LmdldElucHV0U3RyZWFtKCkpKTsKICAgICAgICAgICAgb3MgPSBuZXcgUHJpbnRXcml0ZXIoc29ja2V0LmdldE91dHB1dFN0cmVhbSgpLHRydWUpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CgogICAgICAgIGNsaWVudCA9IGM7CiAgICB9CgogICAgLyoqIFJlY2ViZSBlIHByb2Nlc3NhIGluZm9ybWHDp8O1ZXMgZGUgeHAgZG8gam9nbwogICAgICoKICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIFBhcmEgbyByZWFkbGluZQogICAgICovCiAgICBwcml2YXRlIHZvaWQgeHBIYW5kbGVyKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgU3RyaW5nIHhwU3RyaW5nOwogICAgICAgIEludGVnZXIgeHAsIHJhbms7CiAgICAgICAgQm9vbGVhbiB1cGdyYWRlZDsKCiAgICAgICAgLy9CRUdJTiByZWNlw6fDo28gZGUgeHAKICAgICAgICB4cFN0cmluZyA9IGlzLnJlYWRMaW5lKCk7CiAgICAgICAgaWYgKHhwU3RyaW5nLm1hdGNoZXMoIiZ4cDpcXGQmIikpewogICAgICAgICAgICB4cCA9IEludGVnZXIucGFyc2VJbnQoeHBTdHJpbmcuc3Vic3RyaW5nKDQsIDUpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGaWNhc3RlIGVtICIgKyAobG9iYnlCYXJyaWVyLnNpemUgLSB4cCkgKyAiwrogbHVnYXIuIFhQOiAiICsgeHApOwogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiTsOjbyBmb2kgcmVjZWJpZG8gbyBjw7NkaWdvIHJlZ2V4IHN1cG9zdG8gMSIpOwogICAgICAgIH0KCiAgICAgICAgdXBncmFkZWQgPSBpcy5yZWFkTGluZSgpLmVxdWFscygiMSIpOyAvL3ZlcmlmaWNhIHNlIGhvdXZlIHVtIHVwZ3JhZGUgZGUgcmFuawogICAgICAgIGlmKHVwZ3JhZGVkKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3ViaXN0ZSBkZSByYW5rISIpOwogICAgICAgIH0KCiAgICAgICAgcmFuayA9IEludGVnZXIucGFyc2VJbnQoaXMucmVhZExpbmUoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJSYW5rIGF0dWFsOiAiICsgcmFuayk7CiAgICAgICAgeHAgPSBJbnRlZ2VyLnBhcnNlSW50KGlzLnJlYWRMaW5lKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiWFAgYXR1YWw6ICIgKyB4cCk7CiAgICAgICAgLy9FTkQKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyAgdm9pZCBydW4oKSB7CiAgICAgICAgU3RyaW5nIGxpbmUgPSBudWxsOwoKICAgICAgICB0cnkgewogICAgICAgICAgICB3aGlsZSAodHJ1ZSl7CiAgICAgICAgICAgICAgICBsaW5lID0gaXMucmVhZExpbmUoKTsKICAgICAgICAgICAgICAgIGlmIChsaW5lID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkxpZ2HDp8OjbyBjb20gbyBzZXJ2aWRvciBwZXJkaWRhLiIpOwogICAgICAgICAgICAgICAgICAgIGlzLmNsb3NlKCk7CiAgICAgICAgICAgICAgICAgICAgc29ja2V0LmNsb3NlKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIGlmIChsaW5lLmVxdWFscygiJkdBTUVPVkVSJiIpKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgeHBIYW5kbGVyKCk7IC8vUmVjZWJlIGUgcHJvY2Vzc2EgaW5mb3JtYcOnw7VlcyBkZSB4cCBkbyBqb2dvCgogICAgICAgICAgICAgICAgICAgICAgICBvcy5wcmludGxuKGxpbmUpOwogICAgICAgICAgICAgICAgICAgICAgICBjbGllbnQubm90SW5NYXRjaCgpOwogICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk8gam9nbyB0ZXJtaW5vdS4gRXNjcmV2ZXIgXCJxdWl0XCIgcGFyYSB2b2x0YXIgYW8gbWVudS4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJOw6NvIGZvaSByZWNlYmlkbyB1bSBpbnRlZ2VyIGNvbW8gZXJhIHN1cG9zdG8iKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsaW5lKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBjYXRjaCAoSU9FeGNlcHRpb24gfCBOdWxsUG9pbnRlckV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTGlnYcOnw6NvIGNvbSBvIHNlcnZpZG9yIHBlcmRpZGEuIik7CiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBDbGllbnREYWVtb24gaW1wbGVtZW50cyBSdW5uYWJsZSB7Cg==</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkxpZ2HDp8OjbyBjb20gbyBzZXJ2aWRvciBwZXJkaWRhLiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb2NrZXQuY2xvc2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKCIxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpcy5jbG9zZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnQubm90Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -704,25 +704,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY21kID0gc3RhcnRNZW51KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpcy5jbG9zZSgpOwogICAgICAgICAgICAgICAgICAgIHNvY2tldC5jbG9zZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkTGluZVRvTG9nKCJVbSBsb29wIik7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMzAwMCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">fWRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvLmcK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuYWRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKiBOw7ptZXJvIGRlIGJvdHMgYSBjbGllbnRlcyBhIGNvcnJlci4gKi8K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBDbGllbnREYWVtb24gaW1wbGVtZW50cyBSdW5uYWJsZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Syste</last-search>
+      <last-search>match\c</last-search>
       <last-offset />
-      <last-pattern>Syste</last-pattern>
+      <last-pattern>match\c</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -730,10 +730,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
-        <entry encoding="base64">XDxzYXZlUGxheWVyc0luZm9cPg==</entry>
-        <entry>run</entry>
-        <entry encoding="base64">XDxjb21tYW5kTW9kZVw+</entry>
         <entry>xp</entry>
         <entry encoding="base64">XDxzYXZlR2FtZUluZm9cPg==</entry>
         <entry encoding="base64">XDx4cEF0dHJpYnVpdGlvblw+</entry>
@@ -750,6 +746,10 @@
         <entry encoding="base64">XDxzdGFydE1lbnVcPg==</entry>
         <entry encoding="base64">XDxmaW5kTWF0Y2hcPg==</entry>
         <entry>Syste</entry>
+        <entry>not</entry>
+        <entry>Match</entry>
+        <entry>match</entry>
+        <entry>match\c</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
