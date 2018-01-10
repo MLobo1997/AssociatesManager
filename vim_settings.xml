@@ -363,11 +363,11 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1514977499390">
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1515621117412">
         <mark key="'" line="79" column="114" />
-        <mark key="[" line="79" column="111" />
-        <mark key="]" line="124" column="29" />
-        <mark key="." line="124" column="29" />
+        <mark key="[" line="216" column="78" />
+        <mark key="]" line="216" column="78" />
+        <mark key="." line="216" column="78" />
         <mark key="^" line="124" column="29" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
@@ -660,13 +660,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>30</text>
+        <text encoding="base64">ICYmIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXggKyAxXS5pc0hlbGRCeUN1cnJlbnRUaHJlYWQoKQ==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text encoding="base64">ICYmIGxvY2tMb2JiaWVzW2xvYmJ5SW5kZXggKyAxXS5pc0hlbGRCeUN1cnJlbnRUaHJlYWQoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -708,7 +708,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJURU0gSEVSw5NJIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -744,7 +744,6 @@
         <entry>TODO</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/int/Integer/g</entry>
         <entry>%s/Integer/Long/gc</entry>
         <entry>%s/LinkedList/LinkedBlockingQueue/gc</entry>
         <entry>%s/TreeMap/ConcurrentSkipListMap/gc</entry>
@@ -764,6 +763,7 @@
         <entry>%s/isRegistered/repeat/gc</entry>
         <entry>%s/ranking\c/rank/gc</entry>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
