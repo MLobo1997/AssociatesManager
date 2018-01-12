@@ -147,10 +147,10 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Collections/Funcionario.java" timestamp="1515763454511">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Collections/Funcionario.java" timestamp="1515785030813">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/PlayerAggregator.java" timestamp="1514977567770">
         <mark key="[" line="64" column="60" />
@@ -158,12 +158,12 @@
         <mark key="." line="64" column="114" />
         <mark key="^" line="64" column="114" />
       </file>
-      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/Funcionarios_CorporativosDAO.java" timestamp="1515763631752">
-        <mark key="'" line="51" column="12" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="48" column="43" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="41" column="19" />
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/Funcionarios_CorporativosDAO.java" timestamp="1515785181961">
+        <mark key="'" line="55" column="12" />
+        <mark key="[" line="40" column="62" />
+        <mark key="]" line="40" column="63" />
+        <mark key="." line="40" column="63" />
+        <mark key="^" line="42" column="64" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Inserter.java" timestamp="1510178865462">
         <mark key="'" line="5" column="27" />
@@ -684,35 +684,35 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBbXSBjID0gbmV3IFN0cmluZyBbY29udGFjdG9zLnNpemUoKV07CiAgICAgICAgICAgICAgICBjb250YWN0b3MudG9BcnJheShjKTsKICAgICAgICAgICAgICAgIGYuZ2V0KGkpLmNvbnRhY3RvcyA9IGM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>contactos.toArray()</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnMuZ2V0U3RyaW5nKCJQcmltTm9tZSIpKTsK</text>
+      <register name="0" type="4">
+        <text>f.get(i).</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBbXSBjID0gbmV3IFN0cmluZyBbY29udGFjdG9zLnNpemUoKV07CiAgICAgICAgICAgICAgICBjb250YWN0b3MudG9BcnJheShjKTsKICAgICAgICAgICAgICAgIGYuZ2V0KGkpLmNvbnRhY3RvcyA9IGM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmLmdldChpKS5OSUYgPSBycy5nZXRJbnQoIk5JRiIpOwogICAgICAgICAgICAgICAgICAgIGYuZ2V0KGkpLk5JRiA9IHJzLmdldEludCgiTklGIik7CiAgICAgICAgICAgICAgICAgICAgZi5nZXQoaSkuTklGID0gcnMuZ2V0SW50KCJOSUYiKTsKICAgICAgICAgICAgICAgICAgICBmLmdldChpKS5OSUYgPSBycy5nZXRJbnQoIk5JRiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGMgPSBjb250YWN0b3MudG9BcnJheSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENvbnRhY3RvcyhTdHJpbmdbXSBjb250YWN0b3MpIHtWagogICAgICAgIHRoaXMuY29udGFjdG9zID0gY29udGFjdG9zOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgW10gYyA9IG5ldyBTdHJpbmcgW2NvbnRhY3Rvcy5zaXplKCldOwogICAgICAgICAgICAgICAgICAgIGNvbnRhY3Rvcy50b0FycmF5KGMpOwogICAgICAgICAgICAgICAgICAgIGYuZ2V0KGkpLmNvbnRhY3RvcyA9IGM7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICB2b2lkIGFkZENvbnRhY3RvIChTdHJpbmcgYykgewogICAgICAgIGNvbnRhY3Rvcy5hZGQoYyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -721,16 +721,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0b3MuYWRkKGNvbnRhY3RvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHcuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZvaWQgYWRkQ29udGFjdG8gKFN0cmluZyBjKSB7CiAgICAgICAgY29udGFjdG9zLmFkZChjKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
