@@ -24,10 +24,10 @@
         <mark key="^" line="65" column="28" />
         <mark key="." line="65" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Funcionario.java" timestamp="1515877630670">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="40" />
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Funcionario.java" timestamp="1515879612113">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
         <mark key="^" line="6" column="40" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4Server.java" timestamp="1511795588820">
@@ -39,11 +39,12 @@
       <file name="/a.dummy" timestamp="1515876531661">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Produto.java" timestamp="1515874275419">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Produto.java" timestamp="1515879707306">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Barrier.java" timestamp="1512822281522">
         <mark key="'" line="13" column="29" />
@@ -145,11 +146,12 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Main.java" timestamp="1515877072750">
-        <mark key="[" line="57" column="60" />
-        <mark key="]" line="57" column="60" />
-        <mark key="^" line="57" column="82" />
-        <mark key="." line="57" column="60" />
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Main.java" timestamp="1515880982952">
+        <mark key="'" line="59" column="27" />
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="8" />
+        <mark key="." line="84" column="10" />
+        <mark key="^" line="83" column="17" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/AutorInexistenteException.java" timestamp="1498590296360">
         <mark key="[" line="3" column="39" />
@@ -301,12 +303,12 @@
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/ProdutosDAO.java" timestamp="1515874447614">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="34" />
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/ProdutosDAO.java" timestamp="1515879691016">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Client.java" timestamp="1512267809447">
         <mark key="[" line="10" column="62" />
@@ -414,6 +416,7 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/produtos.json" timestamp="1515881056785" />
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4.java" timestamp="1511793096306">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="3" column="10" />
@@ -605,9 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="3" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="91" column="3" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="128" column="10" filename="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" />
       <jump line="191" column="5" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="93" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
@@ -705,6 +705,9 @@
       <jump line="32" column="9" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Document.java" />
       <jump line="23" column="51" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Document.java" />
       <jump line="17" column="38" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/FuncionariosCorporativosDAO.java" />
+      <jump line="7" column="15" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Produto.java" />
+      <jump line="67" column="30" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Main.java" />
+      <jump line="59" column="27" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -726,34 +729,34 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f.get(i - 1)</text>
+        <text>importToMongo</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>f.get(i - 1)</text>
+        <text>importToMongo</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKENsYXNzTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBjb24uY2xvc2UoKTsKICAgICAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxpbmUpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmLmFkZChpLCBuZXcgRnVuY2lvbmFyaW8oKSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Im1vbmdvaW1wb3J0IC0tZGIgRW1wcmVzYUFncmljb2xhIC0tY29sbGVjdGlvbiBGdW5jaW9uYXJpb3NfQ29ycG9yYXRpdm9zIC0tZmlsZSBjb3Jwb3JhdGl2b3MuanNvbiAmJiAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEb2N1bWVudCBsID0gbmV3ICBGdW5jaW9uYXJpbygpOyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJvY2VzcyBwcm9jcyBzdGFuZGFyZCBlcnJvciBoZXJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJvY2VzcyBwcm9jcyBzdGFuZGFyZCBvdXRwdXQgaGVyZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYWluLndyaXRlQ29sbGVjdGlvbihGdW5jaW9uYXJpb3NDb3Jwb3JhdGl2b3NEQU8uZ2V0QWxsQ29ycG9yYXRpdm9zKCksICJjb3Jwb3JhdGl2b3MuanNvbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -762,16 +765,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nQnVpbGRlciB0b0pTT04gKERvY3VtZW50IGQsIFN0cmluZ0J1aWxkZXIgc3RyKSB7CiAgICAgICAgT2JqZWN0TWFwcGVyIG1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgICAgICBtYXBwZXIuc2V0RGF0ZUZvcm1hdChuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCIpKTsKCgogICAgICAgIGlmIChzdHIgPT0gbnVsbCkgewogICAgICAgICAgICBzdHIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgIH0KCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc3RyLmFwcGVuZChtYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKGQpKTsKICAgICAgICAgICAgc3RyLmFwcGVuZCgnXG4nKTsKICAgICAgICB9IGNhdGNoIChKc29uUHJvY2Vzc2luZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gc3RyOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5leGVjKCJtb25nb2ltcG9ydCAtLWRiIEVtcHJlc2FBZ3JpY29sYSAtLWNvbGxlY3Rpb24gRnVuY2lvbmFyaW9zX0NvcnBvcmF0aXZvcyAtLWZpbGUgY29ycG9yYXRpdm9zLmpzb24gJiYgIiArCiAgICAgICAgICAgICAgICAgICAgIm1vbmdvaW1wb3J0IC0tZGIgRW1wcmVzYUFncmljb2xhIC0tY29sbGVjdGlvbiBQcm9kdXRvcyAtLWZpbGUgcHJvZHV0b3MuanNvbiIpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB3cml0ZUNvbGxlY3Rpb24gKEFycmF5TGlzdDxEb2N1bWVudD4gZCwgZmluYWwgU3RyaW5nIGZpbGVuYW1lKSB7CiAgICAgICAgU3RyaW5nQnVpbGRlciBzdHIgPSBudWxsOwoKICAgICAgICBmb3IgKERvY3VtZW50IGRvYyA6IGQpIHsKICAgICAgICAgICAgc3RyID0gZG9jLnRvSlNPTihzdHIpOwogICAgICAgIH0KCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgRmlsZVdyaXRlciBmdyA9IG5ldyBGaWxlV3JpdGVyKGZpbGVuYW1lKTsKICAgICAgICAgICAgUHJpbnRXcml0ZXIgcHcgPSBuZXcgUHJpbnRXcml0ZXIoZncpOwogICAgICAgICAgICBwdy5wcmludGxuKHN0cik7CgogICAgICAgICAgICBwdy5jbG9zZSgpOwogICAgICAgICAgICBmdy5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5leGVjKCJtb25nb2ltcG9ydCAtLWRiIEVtcHJlc2FBZ3JpY29sYSAtLWNvbGxlY3Rpb24gRnVuY2lvbmFyaW9zX0NvcnBvcmF0aXZvcyAtLWZpbGUgY29ycG9yYXRpdm9zLmpzb24gJiYgIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJtb25nb2ltcG9ydCAtLWRiIEVtcHJlc2FBZ3JpY29sYSAtLWNvbGxlY3Rpb24gUHJvZHV0b3MgLS1maWxlIHByb2R1dG9zLmpzb24iKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgd3JpdGVDb2xsZWN0aW9uIChBcnJheUxpc3Q8RG9jdW1lbnQ+IGQsIGZpbmFsIFN0cmluZyBmaWxlbmFtZSkgewogICAgICAgIFN0cmluZ0J1aWxkZXIgc3RyID0gbnVsbDsKCiAgICAgICAgZm9yIChEb2N1bWVudCBkb2MgOiBkKSB7CiAgICAgICAgICAgIHN0ciA9IGRvYy50b0pTT04oc3RyKTsKICAgICAgICB9CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEZpbGVXcml0ZXIgZncgPSBuZXcgRmlsZVdyaXRlcihmaWxlbmFtZSk7CiAgICAgICAgICAgIFByaW50V3JpdGVyIHB3ID0gbmV3IFByaW50V3JpdGVyKGZ3KTsKICAgICAgICAgICAgcHcucHJpbnRsbihzdHIpOwoKICAgICAgICAgICAgcHcuY2xvc2UoKTsKICAgICAgICAgICAgZncuY2xvc2UoKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgd3JpdGVQcm9kdXRvcyAoQXJyYXlMaXN0PFByb2R1dG8+IHApIHsKCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKEFycmF5TGlzdDxEb2N1bWVudD4gcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
