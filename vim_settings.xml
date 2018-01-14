@@ -45,10 +45,11 @@
         <mark key="." line="46" column="30" />
         <mark key="^" line="46" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/corporativos.json" timestamp="1515867196421">
-        <mark key="[" line="0" column="75" />
-        <mark key="]" line="0" column="76" />
-        <mark key="." line="0" column="76" />
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Quinta.java" timestamp="1515887429066">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/project.java" timestamp="1506679655938">
         <mark key="[" line="11" column="113" />
@@ -213,11 +214,6 @@
         <mark key="." line="58" column="22" />
         <mark key="^" line="58" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/HeroSelection.java" timestamp="1514747657099">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512865376915">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="53" />
@@ -295,6 +291,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Endereco.java" timestamp="1515887330633">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Produto.java" timestamp="1515879707306">
         <mark key="'" line="7" column="15" />
         <mark key="[" line="2" column="21" />
@@ -352,11 +354,12 @@
         <mark key="." line="112" column="61" />
         <mark key="^" line="248" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Lote.java" timestamp="1515886011539">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Lote.java" timestamp="1515887236980">
+        <mark key="'" line="11" column="22" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" timestamp="1514732292617">
         <mark key="'" line="148" column="23" />
@@ -501,6 +504,12 @@
         <mark key="^" line="2" column="139" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Maquina.java" timestamp="1515887212395">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Checker.java" timestamp="1508860133103">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
@@ -627,7 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="307" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="226" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="246" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
@@ -727,6 +735,7 @@
       <jump line="59" column="27" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Main.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/PlantacoesDAO.java" />
       <jump line="19" column="47" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/PlantacoesDAO.java" />
+      <jump line="11" column="22" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Lote.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -748,7 +757,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgTnJQb3J0YTsKICAgIHB1YmxpYyBkb3VibGUgQ29kTG9jYWxpZGFkZTsKICAgIHB1YmxpYyBkb3VibGUgQ29kUnVhOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -763,19 +772,19 @@
         <text encoding="base64">ICAgIEBKc29uUmF3VmFsdWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgTnJQb3J0YTsKICAgIHB1YmxpYyBkb3VibGUgQ29kTG9jYWxpZGFkZTsKICAgIHB1YmxpYyBkb3VibGUgQ29kUnVhOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcC5RdWludGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnByaW50LkRvYzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAuRGF0YUZpbSA9IHJzLmdldERhdGUoViIiKQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcC5RdWludGEK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -783,17 +792,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAuRGF0YUZpbSA9IHJzLmdldERhdGUoViIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
