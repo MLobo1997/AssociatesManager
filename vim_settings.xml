@@ -3,17 +3,55 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/projetoPOO/Bike.java" timestamp="1496506497579">
+        <mark key="'" line="12" column="5" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Funcionario.java" timestamp="1516034666076">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="42" />
+        <mark key="." line="34" column="42" />
+        <mark key="^" line="34" column="42" />
+      </file>
+      <file name="/a.dummy" timestamp="1515876531661">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Barrier.java" timestamp="1512822281522">
+        <mark key="'" line="13" column="29" />
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="47" />
+        <mark key="." line="13" column="47" />
+        <mark key="^" line="13" column="48" />
+      </file>
       <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Collection.java" timestamp="1515874871252">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" timestamp="1515894387559">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="134" column="37" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Consumer.java" timestamp="1510178812228">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="14" column="4" />
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/PlantacoesDAO.java" timestamp="1516034100619">
+        <mark key="'" line="20" column="47" />
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="29" />
+        <mark key="." line="49" column="29" />
+        <mark key="^" line="49" column="29" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/matches.txt" timestamp="1516298776284">
         <mark key="'" line="422" column="73" />
@@ -24,11 +62,12 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" timestamp="1522168600116">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="17" column="13" />
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" timestamp="1522175520553">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="52" column="17" />
+        <mark key="." line="52" column="17" />
+        <mark key="^" line="52" column="17" />
       </file>
       <file name="$USER_HOME$/Development/net-computing/smartenergy/Producer/pom.xml" timestamp="1522148383542" />
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/project.java" timestamp="1506679655938">
@@ -37,14 +76,51 @@
         <mark key="^" line="11" column="98" />
         <mark key="." line="11" column="113" />
       </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Consumer5.java" timestamp="1510178905698">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Main.java" timestamp="1515892666595">
+        <mark key="'" line="61" column="27" />
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="66" column="25" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/Convidado.java" timestamp="1511831208707">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="6" column="33" />
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" timestamp="1522173960358">
+        <mark key="[" line="34" column="43" />
+        <mark key="]" line="35" column="31" />
+        <mark key="^" line="35" column="31" />
+        <mark key="." line="35" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" timestamp="1513431411907">
+        <mark key="'" line="19" column="22" />
+        <mark key="[" line="20" column="87" />
+        <mark key="]" line="20" column="77" />
+        <mark key="^" line="20" column="77" />
+        <mark key="." line="20" column="77" />
+      </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Plantacao.java" timestamp="1516033413644">
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/StorageBuffer.java" timestamp="1522143984596">
         <mark key="'" line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/grupo51/Ficha7/src/Hotel.java" timestamp="1496147095984">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="74" column="5" />
+        <mark key="]" line="75" column="3" />
+        <mark key="." line="75" column="3" />
+        <mark key="^" line="75" column="3" />
       </file>
       <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/pom.xml" timestamp="1522169063547">
         <mark key="'" line="33" column="33" />
@@ -63,17 +139,45 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/ProdutosDAO.java" timestamp="1515879691016">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="15" column="27" />
+      </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/MatchInfo.java" timestamp="1514825859781">
         <mark key="[" line="131" column="58" />
         <mark key="]" line="131" column="82" />
         <mark key="." line="131" column="82" />
         <mark key="^" line="131" column="82" />
       </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/PlayList.java" timestamp="1498611610615">
+        <mark key="'" line="55" column="3" />
+        <mark key="[" line="76" column="34" />
+        <mark key="]" line="76" column="31" />
+        <mark key="^" line="76" column="31" />
+        <mark key="." line="76" column="31" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/IncorrectValueQuoteException.java" timestamp="1506678593229">
         <mark key="[" line="3" column="61" />
         <mark key="]" line="4" column="41" />
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/LoopEcho.java" timestamp="1511190579633">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="62" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Quote.java" timestamp="1506680795034">
+        <mark key="'" line="68" column="16" />
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="45" column="22" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/tester.java" timestamp="1512223068367">
         <mark key="[" line="6" column="39" />
@@ -111,6 +215,27 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/lobbyBarrier.java" timestamp="1516401028806">
+        <mark key="'" line="104" column="23" />
+        <mark key="[" line="198" column="9" />
+        <mark key="]" line="199" column="7" />
+        <mark key="." line="199" column="7" />
+        <mark key="^" line="199" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Main.java" timestamp="1510178715440">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="78" column="4" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="24" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/ClientReader.java" timestamp="1512267871699">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/datalayer/Database.java" timestamp="1522146090519">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -147,11 +272,32 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" timestamp="1514977616618">
+        <mark key="'" line="98" column="79" />
+        <mark key="[" line="146" column="65" />
+        <mark key="]" line="146" column="65" />
+        <mark key="." line="146" column="65" />
+        <mark key="^" line="346" column="98" />
+      </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/Match.java" timestamp="1514977751556">
         <mark key="[" line="219" column="45" />
         <mark key="]" line="219" column="46" />
         <mark key="." line="219" column="46" />
         <mark key="^" line="219" column="46" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Main5.java" timestamp="1510185038314">
+        <mark key="'" line="39" column="16" />
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Hotel.java" timestamp="1498603638663">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="6" column="69" />
+        <mark key="^" line="6" column="69" />
+        <mark key="." line="6" column="69" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4SumThread.java" timestamp="1511795051541">
         <mark key="[" line="29" column="51" />
@@ -165,6 +311,20 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/MatchingPlayers.java" timestamp="1512826814451">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="51" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/AutomatedClient.java" timestamp="1513432484529">
+        <mark key="'" line="68" column="28" />
+        <mark key="[" line="65" column="7" />
+        <mark key="]" line="65" column="28" />
+        <mark key="^" line="65" column="28" />
+        <mark key="." line="65" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4Server.java" timestamp="1511795588820">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="0" />
@@ -176,6 +336,13 @@
         <mark key="]" line="2" column="37" />
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Produto.java" timestamp="1515879707306">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/NoSuchAssociateException.java" timestamp="1506419089260">
         <mark key="[" line="3" column="57" />
@@ -195,6 +362,13 @@
         <mark key="." line="36" column="10" />
         <mark key="^" line="36" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/FuncionariosDAO.java" timestamp="1515875436977">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Message.java" timestamp="1512229816527">
         <mark key="[" line="33" column="24" />
         <mark key="]" line="33" column="33" />
@@ -213,11 +387,25 @@
         <mark key="^" line="36" column="21" />
         <mark key="." line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Server.java" timestamp="1522168264957">
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="26" column="27" />
-        <mark key="^" line="26" column="27" />
-        <mark key="." line="26" column="27" />
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" timestamp="1514977594777">
+        <mark key="'" line="112" column="61" />
+        <mark key="[" line="112" column="61" />
+        <mark key="]" line="112" column="61" />
+        <mark key="." line="112" column="61" />
+        <mark key="^" line="248" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Server.java" timestamp="1522175761534">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" timestamp="1514732292617">
+        <mark key="'" line="148" column="23" />
+        <mark key="[" line="86" column="32" />
+        <mark key="]" line="86" column="32" />
+        <mark key="." line="86" column="32" />
+        <mark key="^" line="86" column="32" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" timestamp="1514846695583">
         <mark key="[" line="101" column="0" />
@@ -242,6 +430,27 @@
         <mark key="]" line="64" column="114" />
         <mark key="." line="64" column="114" />
         <mark key="^" line="64" column="114" />
+      </file>
+      <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/Funcionarios_CorporativosDAO.java" timestamp="1515854652189">
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="45" column="30" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Inserter.java" timestamp="1510178865462">
+        <mark key="'" line="5" column="27" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Inserter5.java" timestamp="1510178895432">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+        <mark key="^" line="4" column="41" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex3Client.java" timestamp="1511192350435">
         <mark key="[" line="1" column="23" />
@@ -315,6 +524,13 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/BoundedBuffer.java" timestamp="1508854363853">
+        <mark key="'" line="8" column="14" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Client.java" timestamp="1512267809447">
         <mark key="[" line="10" column="62" />
         <mark key="]" line="10" column="67" />
@@ -354,6 +570,13 @@
         <mark key="." line="14" column="89" />
         <mark key="^" line="14" column="89" />
       </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Server.java" timestamp="1515603547509">
+        <mark key="'" line="21" column="5" />
+        <mark key="[" line="53" column="18" />
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="53" column="19" />
+        <mark key="." line="53" column="19" />
+      </file>
       <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Collections/Funcionarios_Corporativos.java" timestamp="1515721211870">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="28" />
@@ -366,8 +589,36 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Main.java" timestamp="1507210242492">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="67" column="8" />
+        <mark key="." line="67" column="8" />
+        <mark key="^" line="64" column="49" />
+      </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/ClientGenerator.java" timestamp="1513787453473">
+        <mark key="'" line="23" column="6" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="33" column="52" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Worker.java" timestamp="1522171509197">
         <mark key="'" line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/JustHello.java" timestamp="1511188318455">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/Faixa.java" timestamp="1498602232541">
+        <mark key="'" line="8" column="18" />
+        <mark key="[" line="8" column="57" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Server.java" timestamp="1512932119225">
         <mark key="[" line="72" column="5" />
@@ -375,11 +626,46 @@
         <mark key="." line="73" column="3" />
         <mark key="^" line="73" column="3" />
       </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Chat.java" timestamp="1512268138671">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="18" column="64" />
+        <mark key="]" line="18" column="72" />
+        <mark key="." line="18" column="72" />
+        <mark key="^" line="18" column="72" />
+      </file>
+      <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ServerThread.java" timestamp="1514977404037">
+        <mark key="'" line="31" column="19" />
+        <mark key="[" line="393" column="59" />
+        <mark key="]" line="393" column="64" />
+        <mark key="^" line="393" column="64" />
+        <mark key="." line="393" column="64" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Client1.java" timestamp="1512261037025">
         <mark key="[" line="11" column="9" />
         <mark key="]" line="10" column="67" />
         <mark key="." line="10" column="67" />
         <mark key="^" line="10" column="67" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" timestamp="1506680733216">
+        <mark key="'" line="71" column="3" />
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="27" />
+        <mark key="^" line="54" column="28" />
+        <mark key="." line="51" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Associate.java" timestamp="1506680677298">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="51" column="73" />
+        <mark key="." line="51" column="73" />
+        <mark key="^" line="51" column="73" />
+      </file>
+      <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/BoundedBuffer5.java" timestamp="1510184401209">
+        <mark key="'" line="44" column="16" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="1" />
+        <mark key="^" line="53" column="1" />
+        <mark key="." line="53" column="1" />
       </file>
       <file name="$USER_HOME$/Development/grupo51/Ficha7/src/HotelsInc.java" timestamp="1496152081370">
         <mark key="[" line="18" column="31" />
@@ -402,14 +688,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
+      <file name="/fragment.java" timestamp="1522175955008">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="51" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="302" column="18" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="273" column="0" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="303" column="18" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="263" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="343" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="22" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="34" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
       <jump line="244" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
@@ -504,6 +787,12 @@
       <jump line="27" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Worker.java" />
       <jump line="26" column="14" filename="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/blocks/ProducerIdSender.java" />
       <jump line="0" column="38" filename="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/blocks/ProducerIdSender.java" />
+      <jump line="51" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
+      <jump line="54" column="16" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
+      <jump line="32" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -524,35 +813,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>5.1.28</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5ydWcubmV0Y29tcHV0aW5nLmRhdGFiYXNlLkRhdGFiYXNlOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>5.1.28</text>
+        <text>Float</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibG9ja3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHMgIT0gbnVsbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm15c3FsPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5teXNxbC1jb25uZWN0b3ItamF2YTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NS4xLjI4PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ydWcubmV0Y29tcHV0aW5nLmRhdGFiYXNlLkRhdGFiYXNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+LjEuMzk8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5naW5lLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3MuZm9yTmFtZSgiY29tLm15c3FsLmpkZGRiYy5Ecml2ZXIiKS5uZXdJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtLmV4ZWN1dGVVcGRhdGUoICAiSU5TRVJUIElOVE8gRW5lcmd5RmFjaWxpdGllcyAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlZBTFVFUyAoIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHAuZ2V0SWQoKSArICIgLCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -561,16 +850,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdG0gIT0gbnVsbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJzLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXN1bHRTZXQgcnMgPSBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
