@@ -69,7 +69,6 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Producer/pom.xml" timestamp="1522148383542" />
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/project.java" timestamp="1506679655938">
         <mark key="[" line="11" column="113" />
         <mark key="]" line="11" column="113" />
@@ -96,11 +95,11 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" timestamp="1522173960358">
-        <mark key="[" line="34" column="43" />
-        <mark key="]" line="35" column="31" />
-        <mark key="^" line="35" column="31" />
-        <mark key="." line="35" column="31" />
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" timestamp="1522216725455">
+        <mark key="'" line="16" column="53" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" timestamp="1513431411907">
         <mark key="'" line="19" column="22" />
@@ -181,11 +180,11 @@
         <mark key="." line="51" column="15" />
         <mark key="^" line="45" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" timestamp="1522193594224">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="61" column="69" />
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" timestamp="1522217057038">
+        <mark key="[" line="63" column="67" />
+        <mark key="]" line="72" column="38" />
+        <mark key="." line="72" column="38" />
+        <mark key="^" line="72" column="38" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/tester.java" timestamp="1512223068367">
         <mark key="[" line="6" column="39" />
@@ -402,12 +401,12 @@
         <mark key="." line="112" column="61" />
         <mark key="^" line="248" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Server.java" timestamp="1522189956257">
-        <mark key="'" line="26" column="12" />
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Server.java" timestamp="1522217148987">
+        <mark key="'" line="27" column="12" />
+        <mark key="[" line="28" column="66" />
+        <mark key="]" line="28" column="71" />
+        <mark key="." line="28" column="71" />
+        <mark key="^" line="28" column="71" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" timestamp="1514732292617">
         <mark key="'" line="148" column="23" />
@@ -573,6 +572,11 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/models/ProducerModel.java" timestamp="1522216303330">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex3Server.java" timestamp="1511794688383">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="30" column="18" />
@@ -702,11 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="12" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="244" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="279" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="342" column="13" filename="$USER_HOME$/Development/SD_Projeto/src/User_Executables/Client.java" />
-      <jump line="232" column="26" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="234" column="16" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="32" column="20" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
       <jump line="54" column="13" filename="$USER_HOME$/Development/SD_Projeto/src/Simulation/AutomatedClient.java" />
@@ -802,6 +801,11 @@
       <jump line="42" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
       <jump line="32" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
       <jump line="26" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Server.java" />
+      <jump line="28" column="13" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
+      <jump line="38" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
+      <jump line="70" column="41" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
+      <jump line="80" column="41" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
+      <jump line="16" column="53" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -822,35 +826,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0bSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Peoples</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>reso</text>
+        <text encoding="base64">XDxkdWFsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHMgIT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0bS5zZXRCb29sZWFuKDYsIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0bSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRiPSBuZXcgRGF0YWJhc2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUkwgPSAibG9jYWxob3N0IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBEQiA9ICJTbWFydEVuZXJneSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgVVNFUiA9ICJzbWFydGVuZXJneSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUEFTUyA9ICJwYXNzd29yZCI7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0YWJhc2UgZGI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5ydWcubmV0Y29tcHV0aW5nPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5EYXRhYmFzZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgPC9kZXBlbmRlbmNpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaW5nbGVzLmFkZChwbSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ydWcubmV0Y29tcHV0aW5nLmRhdGFiYXNlLkRhdGFiYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNpbmdsZXMgPSBuZXcgQ29uY3VycmVudFNraXBMaXN0U2V0PD4obmV3IFByb2R1Y2VyTW9kZWxDb21wYXJhdG9yKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5naW5lLgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29uY3VycmVudFNraXBMaXN0U2V0PFByb2R1Y2VyTW9kZWw+IHNpbmdsZXM7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -859,25 +863,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RtLmV4ZWN1dGVVcGRhdGUoICAiSU5TRVJUIElOVE8gRW5lcmd5RmFjaWxpdGllcyAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlZBTFVFUyAoIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHAuZ2V0SWQoKSArICIgLCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtLnNldERvdWJsZSg0LCAiV2luZG1pbGwiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtLnNldFN0cmluZyg1LCAiV2luZG1pbGwiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtLnNldERvdWJsZSg0LCAiV2luZG1pbGwiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdG0gIT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0bSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reso</last-search>
+      <last-search encoding="base64">XDxkdWFsc1w+</last-search>
       <last-offset />
-      <last-pattern>reso</last-pattern>
+      <last-pattern encoding="base64">XDxkdWFsc1w+</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -885,7 +889,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">JkZPVU5ER0FNRSY=</entry>
         <entry encoding="base64">XDxzaWduYWxSZWFkeVw+</entry>
         <entry encoding="base64">XDx3YWl0Rm9yR2FtZVRvU3RhcnRcPg==</entry>
         <entry encoding="base64">XDx3YWl0VW50aWxcPg==</entry>
@@ -905,6 +908,7 @@
         <entry encoding="base64">XDxibG9ja3NcPg==</entry>
         <entry encoding="base64">XDxEYXRhYmFzZVw+</entry>
         <entry>reso</entry>
+        <entry encoding="base64">XDxkdWFsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Integer/Long/gc</entry>
