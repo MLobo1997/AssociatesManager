@@ -181,12 +181,13 @@
         <mark key="." line="51" column="15" />
         <mark key="^" line="45" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" timestamp="1522508816488">
-        <mark key="'" line="20" column="33" />
-        <mark key="[" line="163" column="36" />
-        <mark key="]" line="165" column="11" />
-        <mark key="." line="165" column="11" />
-        <mark key="^" line="165" column="11" />
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" timestamp="1522538124532">
+        <mark key="'" line="103" column="12" />
+        <mark key="[" line="166" column="34" />
+        <mark key="]" line="166" column="35" />
+        <mark key="." line="166" column="35" />
+        <mark key="^" line="166" column="35" />
+        <mark key="n" line="166" column="105" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/tester.java" timestamp="1512223068367">
         <mark key="[" line="6" column="39" />
@@ -707,8 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/PlantacoesDAO.java" />
-      <jump line="19" column="47" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/PlantacoesDAO.java" />
       <jump line="11" column="22" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Lote.java" />
       <jump line="22" column="18" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
       <jump line="49" column="0" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
@@ -807,6 +806,8 @@
       <jump line="122" column="26" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
       <jump line="152" column="3" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="20" column="33" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
+      <jump line="166" column="132" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
+      <jump line="103" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -828,34 +829,34 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>oid</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>oid</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbm4gPSBudWxsOwogICAgICAgIFByZXBhcmVkU3RhdGVtZW50IHN0bSA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgY29ubiA9IGNvbm5lY3QoKTsK</text>
+      <register name="0" type="4">
+        <text>, rs.getDouble(&quot;prodRate&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJzLmdldEJvb2xlYW4oImR1YWwiKSkKICAgICAgICAgICAgICAgIHJldHVybiBEdWFsUHJvZHVjZXJNb2RlbChycy4pCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -864,16 +865,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBEQiBURVNUSU5HCiAgICAgICAgUHJvZHVjZXJNb2RlbCBwbTEgPSBuZXcgUHJvZHVjZXJNb2RlbCgxLCAyMCwgMTAsIDMwLCAxMCk7CiAgICAgICAgRHVhbFByb2R1Y2VyTW9kZWwgcG0yID0gbmV3IER1YWxQcm9kdWNlck1vZGVsKDIsIDIwLCAxMCwgbnVsbCk7CiAgICAgICAgU3RvcmFnZUJ1ZmZlck1vZGVsIHNiMSA9IG5ldyBTdG9yYWdlQnVmZmVyTW9kZWwoNCwgMTAsIDIwLCBudWxsKTsKCgogICAgICAgIC8vRGF0YWJhc2UuaW5zZXJ0UHJvZHVjZXIocG0xKTsKICAgICAgICAvL0RhdGFiYXNlLmluc2VydFByb2R1Y2VyKHBtMik7CiAgICAgICAgLy9EYXRhYmFzZS5pbnNlcnRTdG9yYWdlQnVmZmVyKHNiMSk7CgogICAgICAgIERhdGFiYXNlLnJlZ2lzdGVyU3RvcmFnZUJ1ZmZlckVuZXJneSg1MC4wLCA0LCBuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICAgICAgLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBEQiBURVNUSU5HCiAgICAgICAgUHJvZHVjZXJNb2RlbCBwbTEgPSBuZXcgUHJvZHVjZXJNb2RlbCgxLCAyMCwgMTAsIDMwLCAxMCk7CiAgICAgICAgRHVhbFByb2R1Y2VyTW9kZWwgcG0yID0gbmV3IER1YWxQcm9kdWNlck1vZGVsKDIsIDIwLCAxMCwgbnVsbCk7CiAgICAgICAgU3RvcmFnZUJ1ZmZlck1vZGVsIHNiMSA9IG5ldyBTdG9yYWdlQnVmZmVyTW9kZWwoNCwgMTAsIDIwLCBudWxsKTsKCgogICAgICAgIC8vRGF0YWJhc2UuaW5zZXJ0UHJvZHVjZXIocG0xKTsKICAgICAgICAvL0RhdGFiYXNlLmluc2VydFByb2R1Y2VyKHBtMik7CiAgICAgICAgLy9EYXRhYmFzZS5pbnNlcnRTdG9yYWdlQnVmZmVyKHNiMSk7CgogICAgICAgIERhdGFiYXNlLnJlZ2lzdGVyU3RvcmFnZUJ1ZmZlckVuZXJneSg1MC4wLCA0LCBuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICAgICAgLy8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
