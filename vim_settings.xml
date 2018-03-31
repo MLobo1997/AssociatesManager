@@ -181,12 +181,12 @@
         <mark key="." line="51" column="15" />
         <mark key="^" line="45" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" timestamp="1522498924362">
-        <mark key="'" line="66" column="77" />
-        <mark key="[" line="88" column="31" />
-        <mark key="]" line="94" column="71" />
-        <mark key="." line="94" column="71" />
-        <mark key="^" line="94" column="71" />
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" timestamp="1522505740935">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="74" column="12" />
+        <mark key="]" line="75" column="33" />
+        <mark key="^" line="75" column="33" />
+        <mark key="." line="75" column="33" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/tester.java" timestamp="1512223068367">
         <mark key="[" line="6" column="39" />
@@ -403,11 +403,12 @@
         <mark key="." line="112" column="61" />
         <mark key="^" line="248" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Server.java" timestamp="1522500377635">
-        <mark key="[" line="87" column="41" />
-        <mark key="]" line="88" column="38" />
-        <mark key="." line="88" column="38" />
-        <mark key="^" line="88" column="38" />
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Server.java" timestamp="1522505417631">
+        <mark key="'" line="75" column="7" />
+        <mark key="[" line="91" column="8" />
+        <mark key="]" line="91" column="8" />
+        <mark key="^" line="84" column="9" />
+        <mark key="." line="91" column="8" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/Player.java" timestamp="1514732292617">
         <mark key="'" line="148" column="23" />
@@ -707,9 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="20" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/FuncionariosDAO.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/FuncionariosDAO.java" />
-      <jump line="9" column="17" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/FuncionariosDAO.java" />
       <jump line="14" column="18" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/FuncionariosDAO.java" />
       <jump line="16" column="8" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/FuncionariosDAO.java" />
       <jump line="33" column="22" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Document.java" />
@@ -807,6 +805,9 @@
       <jump line="46" column="35" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
       <jump line="104" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
       <jump line="66" column="77" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
+      <jump line="65" column="23" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
+      <jump line="74" column="7" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Server.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -828,34 +829,34 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, 10</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, 10</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>?</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvZHVjZXJNb2RlbCBwbTEgPSBuZXcgUHJvZHVjZXJNb2RlbCgxLCAyMCwgMTAsIDMwLCAxMCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzeW5jaHJvbml6ZWQgc3RhdGljIHZvaWQgaW5zZXJ0UHJvZHVjZXIoUHJvZHVjZXJNb2RlbCBwKSB7CiAgICAgICAgQ29ubmVjdGlvbiBjb25uID0gbnVsbDsKICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBzdG0gPSBudWxsOwogICAgICAgIHRyeQogICAgICAgIHsKICAgICAgICAgICAgY29ubiA9IGNvbm5lY3QoKTsKICAgICAgICAgICAgc3RtID0gY29ubi5wcmVwYXJlU3RhdGVtZW50KCJDQUxMIGluc2VydFByb2R1Y2VyKD8gLCA/ICwgPyAsID8gLCA/ICwgPyk7Iik7CiAgICAgICAgICAgIHN0bS5zZXRJbnQoMSwgcC5nZXRJZCgpKTsKICAgICAgICAgICAgc3RtLnNldERvdWJsZSgyLCBwLmdldEdyZWVuUGVyY2VudGFnZSgpKTsKICAgICAgICAgICAgaWYgKHAgaW5zdGFuY2VvZiBEdWFsUHJvZHVjZXJNb2RlbCkKICAgICAgICAgICAgICAgIHN0bS5zZXRCb29sZWFuKDMsIHRydWUpOwogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICBzdG0uc2V0Qm9vbGVhbigzLCBmYWxzZSk7CiAgICAgICAgICAgIHN0bS5zZXREb3VibGUoNCwgcC5nZXRFbmVyZ3lQcm9kdWNlZCgpKTsKICAgICAgICAgICAgc3RtLnNldERvdWJsZSg1LCBwLmdldFByb2RSYXRlKCkpOwogICAgICAgICAgICBzdG0uc2V0RG91YmxlKDYsIHAuZ2V0TWF4UmF0ZSgpKTsKCiAgICAgICAgICAgIHN0bS5leGVjdXRlVXBkYXRlKCk7CgogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgY2xvc2UoY29ubik7CiAgICAgICAgICAgIGNsb3NlKHN0bSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGEK</text>
+        <text encoding="base64">ICAgICAgICBEYXRhYmFzZS5pbnNlcnRQcm9kdWNlcihwbTIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKgo=</text>
+        <text encoding="base64">ICAgICAgICBEYXRhYmFzZS5pbnNlcnRQcm9kdWNlcihwbTEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0bSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -864,16 +865,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubi5wcmVwYXJlU3RhdGVtZW50KCJVU0UgU21hcnRFbmVyZ3k7IikuZXhlY3V0ZVVwZGF0ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHAgaW5zdGFuY2VvZiBEdWFsUHJvZHVjZXJNb2RlbCkKICAgICAgICAgICAgICAgIHN0bS5zZXRCb29sZWFuKDYsIHRydWUpOwogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICBzdG0uc2V0Qm9vbGVhbig2LCBmYWxzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
