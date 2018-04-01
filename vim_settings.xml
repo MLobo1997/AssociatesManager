@@ -95,12 +95,12 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" timestamp="1522508267688">
-        <mark key="'" line="122" column="26" />
-        <mark key="[" line="108" column="116" />
-        <mark key="]" line="108" column="116" />
-        <mark key="^" line="108" column="112" />
-        <mark key="." line="108" column="116" />
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" timestamp="1522541223031">
+        <mark key="'" line="146" column="23" />
+        <mark key="[" line="139" column="16" />
+        <mark key="]" line="139" column="24" />
+        <mark key="." line="139" column="24" />
+        <mark key="^" line="139" column="24" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/PlayersRegister.java" timestamp="1513431411907">
         <mark key="'" line="19" column="22" />
@@ -140,6 +140,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="36" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/models/DualProducerModel.java" timestamp="1522539791642">
+        <mark key="[" line="19" column="109" />
+        <mark key="]" line="19" column="109" />
+        <mark key="." line="19" column="109" />
+        <mark key="^" line="19" column="109" />
       </file>
       <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/ProdutosDAO.java" timestamp="1515879691016">
         <mark key="'" line="17" column="0" />
@@ -181,13 +187,13 @@
         <mark key="." line="51" column="15" />
         <mark key="^" line="45" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" timestamp="1522538124532">
-        <mark key="'" line="103" column="12" />
-        <mark key="[" line="166" column="34" />
-        <mark key="]" line="166" column="35" />
-        <mark key="." line="166" column="35" />
-        <mark key="^" line="166" column="35" />
-        <mark key="n" line="166" column="105" />
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" timestamp="1522541236907">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="n" line="168" column="105" />
+        <mark key="." line="212" column="0" />
+        <mark key="^" line="210" column="71" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/tester.java" timestamp="1512223068367">
         <mark key="[" line="6" column="39" />
@@ -257,6 +263,11 @@
         <mark key="]" line="26" column="87" />
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/models/StorageBufferModel.java" timestamp="1522541342805">
+        <mark key="]" line="47" column="3" />
+        <mark key="." line="47" column="3" />
+        <mark key="^" line="47" column="3" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512865376915">
         <mark key="[" line="5" column="43" />
@@ -404,7 +415,7 @@
         <mark key="." line="112" column="61" />
         <mark key="^" line="248" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Server.java" timestamp="1522508111952">
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Server.java" timestamp="1522541364027">
         <mark key="'" line="71" column="7" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -574,10 +585,11 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/models/ProducerModel.java" timestamp="1522218700596">
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/models/ProducerModel.java" timestamp="1522540080573">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="3" />
+        <mark key="." line="52" column="3" />
+        <mark key="^" line="52" column="3" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex3Server.java" timestamp="1511794688383">
         <mark key="[" line="13" column="0" />
@@ -617,6 +629,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="33" column="52" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Worker.java" timestamp="1522541264251">
+        <mark key="[" line="63" column="59" />
+        <mark key="]" line="63" column="74" />
+        <mark key="^" line="63" column="74" />
+        <mark key="." line="63" column="74" />
       </file>
       <file name="$USER_HOME$/Development/net-computing/smartenergy/webServer/src/main/java/org/rug/netcomputing/webserver/WebSocketServer.java" timestamp="1522322361591">
         <mark key="'" line="7" column="37" />
@@ -708,10 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="22" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Lote.java" />
-      <jump line="22" column="18" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
-      <jump line="25" column="12" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
       <jump line="8" column="0" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
       <jump line="58" column="12" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/FuncionariosCorporativosDAO.java" />
       <jump line="35" column="61" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Funcionario.java" />
@@ -808,6 +822,10 @@
       <jump line="20" column="33" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="166" column="132" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="103" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
+      <jump line="155" column="26" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
+      <jump line="146" column="23" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -828,35 +846,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vREIgVEVTVAogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oRGF0YWJhc2UuZ2V0U3RvcmFnZUJ1ZmZlcig0KSk7Cgo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getProducer</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text encoding="base64">XDxMT0JPXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>, rs.getDouble(&quot;prodRate&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUHJvZHVjZXJNb2RlbCBnZXRQcm9kdWNlciAoSW50ZWdlciBpZCkgewogICAgICAgIENvbm5lY3Rpb24gY29ubiA9IG51bGw7CiAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgc3RtID0gbnVsbDsKICAgICAgICBSZXN1bHRTZXQgcnMgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNvbm4gPSBjb25uZWN0KCk7CiAgICAgICAgICAgIHN0bSA9IGNvbm4ucHJlcGFyZVN0YXRlbWVudCgiU0VMRUNUIEYuU2VyaWFsTlIsIFAuZW5lcmd5UHJvZHVjZWQsIFAucHJvZFJhdGUsIFAubWF4UmF0ZSwgUC5ncmVlblBlcmNlbnRhZ2UsIFAuZHVhbCBGUk9NIEVuZXJneUZhY2lsaXRpZXMgQVMgRiAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiSU5ORVIgSk9JTiBQcm9kdWNlcnMgQVMgUCBPTiBQLmZhY2lsaXR5ID0gRi5zZXJpYWxOUiAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiV0hFUkUgRi5zZXJpYWxOUiA9ID87Iik7CiAgICAgICAgICAgIHN0bS5zZXRJbnQoMSwgaWQpOwoKICAgICAgICAgICAgcnMgPSBzdG0uZXhlY3V0ZVF1ZXJ5KCk7CgogICAgICAgICAgICBycy5uZXh0KCk7CgogICAgICAgICAgICBpZiAoIXJzLmdldEJvb2xlYW4oImR1YWwiKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9kdWNlck1vZGVsKCAgIGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzLmdldERvdWJsZSgiZ3JlZW5QZXJjZW50YWdlIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnMuZ2V0RG91YmxlKCJlbmVyZ3lQcm9kdWNlZCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzLmdldERvdWJsZSgicHJvZFJhdGUiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBycy5nZXREb3VibGUoIm1heFJhdGUiKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IER1YWxQcm9kdWNlck1vZGVsKCAgIGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBycy5nZXREb3VibGUoImdyZWVuUGVyY2VudGFnZSIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBycy5nZXREb3VibGUoImVuZXJneVByb2R1Y2VkIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzLmdldERvdWJsZSgicHJvZFJhdGUiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnMuZ2V0RG91YmxlKCJtYXhSYXRlIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwpOwogICAgICAgICAgICB9CgogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgY2xvc2UoY29ubik7CiAgICAgICAgICAgIGNsb3NlKHN0bSk7CiAgICAgICAgICAgIGNsb3NlKHJzKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vREIgVEVTVAogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oRGF0YWJhc2UuZ2V0U3RvcmFnZUJ1ZmZlcig0KSk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJzLmdldEJvb2xlYW4oImR1YWwiKSkKICAgICAgICAgICAgICAgIHJldHVybiBEdWFsUHJvZHVjZXJNb2RlbChycy4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -865,25 +883,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFN0b3JlZEVuZXJneShkb3VibGUgc3RvcmVkRW5lcmd5KSB7VgogICAgICAgIHRoaXMuc3RvcmVkRW5lcmd5ID0gc3RvcmVkRW5lcmd5OwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jay51bmxvY2soKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBEQiBURVNUSU5HCiAgICAgICAgUHJvZHVjZXJNb2RlbCBwbTEgPSBuZXcgUHJvZHVjZXJNb2RlbCgxLCAyMCwgMTAsIDMwLCAxMCk7CiAgICAgICAgRHVhbFByb2R1Y2VyTW9kZWwgcG0yID0gbmV3IER1YWxQcm9kdWNlck1vZGVsKDIsIDIwLCAxMCwgbnVsbCk7CiAgICAgICAgU3RvcmFnZUJ1ZmZlck1vZGVsIHNiMSA9IG5ldyBTdG9yYWdlQnVmZmVyTW9kZWwoNCwgMTAsIDIwLCBudWxsKTsKCgogICAgICAgIC8vRGF0YWJhc2UuaW5zZXJ0UHJvZHVjZXIocG0xKTsKICAgICAgICAvL0RhdGFiYXNlLmluc2VydFByb2R1Y2VyKHBtMik7CiAgICAgICAgLy9EYXRhYmFzZS5pbnNlcnRTdG9yYWdlQnVmZmVyKHNiMSk7CgogICAgICAgIERhdGFiYXNlLnJlZ2lzdGVyU3RvcmFnZUJ1ZmZlckVuZXJneSg1MC4wLCA0LCBuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search encoding="base64">XDxMT0JPXD4=</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern encoding="base64">XDxMT0JPXD4=</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -891,7 +909,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
         <entry encoding="base64">XDxEdWFsUHJvZHVjZXJcPg==</entry>
         <entry encoding="base64">XDxjaGFyZ2VcPg==</entry>
         <entry>depe</entry>
@@ -909,8 +926,9 @@
         <entry encoding="base64">XDxidWZmZXJzXD4=</entry>
         <entry>?</entry>
         <entry>lobo</entry>
-        <entry>LOBO</entry>
         <entry>get</entry>
+        <entry>LOBO</entry>
+        <entry encoding="base64">XDxMT0JPXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Integer/Long/gc</entry>
