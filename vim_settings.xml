@@ -234,6 +234,10 @@
         <mark key="." line="199" column="7" />
         <mark key="^" line="199" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/net-computing/smartenergy/webServer/src/main/java/org/rug/netcomputing/webserver/WebServer.java" timestamp="1522693319596">
+        <mark key="'" line="110" column="8" />
+        <mark key="n" line="94" column="12" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Main.java" timestamp="1510178715440">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="6" column="0" />
@@ -720,10 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
-      <jump line="20" column="55" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
       <jump line="32" column="8" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
       <jump line="15" column="8" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
       <jump line="112" column="0" filename="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/QuintasDAO.java" />
@@ -820,6 +820,10 @@
       <jump line="27" column="40" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Updater.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
       <jump line="74" column="18" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
+      <jump line="14" column="18" filename="$USER_HOME$/Development/net-computing/smartenergy/webServer/src/main/java/org/rug/netcomputing/webserver/WebServer.java" />
+      <jump line="88" column="24" filename="$USER_HOME$/Development/net-computing/smartenergy/webServer/src/main/java/org/rug/netcomputing/webserver/WebServer.java" />
+      <jump line="94" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/webServer/src/main/java/org/rug/netcomputing/webserver/WebServer.java" />
+      <jump line="110" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/webServer/src/main/java/org/rug/netcomputing/webserver/WebServer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -850,7 +854,7 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text encoding="base64">XDx3c1NlcnZlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUHJvZHVjZXJNb2RlbCBnZXRQcm9kdWNlciAoSW50ZWdlciBpZCkgewogICAgICAgIENvbm5lY3Rpb24gY29ubiA9IG51bGw7CiAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgc3RtID0gbnVsbDsKICAgICAgICBSZXN1bHRTZXQgcnMgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNvbm4gPSBjb25uZWN0KCk7CiAgICAgICAgICAgIHN0bSA9IGNvbm4ucHJlcGFyZVN0YXRlbWVudCgiU0VMRUNUIEYuU2VyaWFsTlIsIFAuZW5lcmd5UHJvZHVjZWQsIFAucHJvZFJhdGUsIFAubWF4UmF0ZSwgUC5ncmVlblBlcmNlbnRhZ2UsIFAuZHVhbCBGUk9NIEVuZXJneUZhY2lsaXRpZXMgQVMgRiAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiSU5ORVIgSk9JTiBQcm9kdWNlcnMgQVMgUCBPTiBQLmZhY2lsaXR5ID0gRi5zZXJpYWxOUiAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiV0hFUkUgRi5zZXJpYWxOUiA9ID87Iik7CiAgICAgICAgICAgIHN0bS5zZXRJbnQoMSwgaWQpOwoKICAgICAgICAgICAgcnMgPSBzdG0uZXhlY3V0ZVF1ZXJ5KCk7CgogICAgICAgICAgICBycy5uZXh0KCk7CgogICAgICAgICAgICBpZiAoIXJzLmdldEJvb2xlYW4oImR1YWwiKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9kdWNlck1vZGVsKCAgIGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzLmdldERvdWJsZSgiZ3JlZW5QZXJjZW50YWdlIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnMuZ2V0RG91YmxlKCJlbmVyZ3lQcm9kdWNlZCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzLmdldERvdWJsZSgicHJvZFJhdGUiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBycy5nZXREb3VibGUoIm1heFJhdGUiKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IER1YWxQcm9kdWNlck1vZGVsKCAgIGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBycy5nZXREb3VibGUoImdyZWVuUGVyY2VudGFnZSIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBycy5nZXREb3VibGUoImVuZXJneVByb2R1Y2VkIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzLmdldERvdWJsZSgicHJvZFJhdGUiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnMuZ2V0RG91YmxlKCJtYXhSYXRlIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwpOwogICAgICAgICAgICB9CgogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgY2xvc2UoY29ubik7CiAgICAgICAgICAgIGNsb3NlKHN0bSk7CiAgICAgICAgICAgIGNsb3NlKHJzKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
@@ -893,9 +897,9 @@
       </register>
     </registers>
     <search>
-      <last-search>check</last-search>
+      <last-search encoding="base64">XDx3c1NlcnZlclw+</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
+      <last-pattern encoding="base64">XDx3c1NlcnZlclw+</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -903,8 +907,6 @@
     </search>
     <history>
       <history-search>
-        <entry>depend</entry>
-        <entry encoding="base64">XDxJZGVudGlmaWVyUGFja2FnZVw+</entry>
         <entry encoding="base64">XDxibG9ja3NcPg==</entry>
         <entry encoding="base64">XDxEYXRhYmFzZVw+</entry>
         <entry>reso</entry>
@@ -923,6 +925,8 @@
         <entry>getPro</entry>
         <entry encoding="base64">XDxjaGVja0VuZXJneVw+</entry>
         <entry>check</entry>
+        <entry>WebSocket</entry>
+        <entry encoding="base64">XDx3c1NlcnZlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Integer/Long/gc</entry>
