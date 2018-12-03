@@ -75,11 +75,11 @@
         <mark key="^" line="11" column="98" />
         <mark key="." line="11" column="113" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DateCount.java" timestamp="1543836422208">
+      <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DateCount.java" timestamp="1543845497777">
         <mark key="'" line="16" column="33" />
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
         <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Consumer5.java" timestamp="1510178905698">
@@ -603,12 +603,12 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" timestamp="1543836524609">
-        <mark key="'" line="12" column="73" />
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="35" column="12" />
+      <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" timestamp="1543846109292">
+        <mark key="'" line="61" column="39" />
+        <mark key="[" line="72" column="28" />
+        <mark key="]" line="73" column="27" />
+        <mark key="." line="73" column="27" />
+        <mark key="^" line="73" column="27" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Checker.java" timestamp="1508860133103">
         <mark key="[" line="10" column="28" />
@@ -764,8 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="37" filename="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/blocks/ProducerIdSender.java" />
-      <jump line="16" column="18" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/StorageBuffer.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
       <jump line="33" column="33" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/pom.xml" />
       <jump line="27" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Worker.java" />
@@ -864,34 +862,30 @@
       <jump line="65" column="0" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DatesList.java" />
       <jump line="16" column="33" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DateCount.java" />
       <jump line="12" column="73" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" />
+      <jump line="55" column="53" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" />
+      <jump line="58" column="39" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1SZWMuCg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>Record</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZXJcPg==</text>
@@ -900,19 +894,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIiAtLSAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZi5wYXJzZShyZWNvcmQuZ2V0KCJkZWFkbGluZSIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1SZWMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIiAtLSAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQobGF1bmNoZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1SZWMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1SZWMgPSByZWNvcmQuaXRlcmF0b3IoKTsKICAgICAgICAgICAgICAgIGVsZW1SZWMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGF0ZUNvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -920,19 +914,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text>&quot;Counter{&quot; +
-                &quot;nr=&quot; + nr +
-                '}'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZC47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZC5hCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUGFyc2VFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
