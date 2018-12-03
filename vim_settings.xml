@@ -75,6 +75,13 @@
         <mark key="^" line="11" column="98" />
         <mark key="." line="11" column="113" />
       </file>
+      <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DateCount.java" timestamp="1543836422208">
+        <mark key="'" line="16" column="33" />
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+        <mark key="^" line="24" column="3" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/Consumer5.java" timestamp="1510178905698">
         <mark key="'" line="3" column="12" />
         <mark key="[" line="2" column="23" />
@@ -149,6 +156,12 @@
         <mark key="]" line="12" column="24" />
         <mark key="." line="12" column="24" />
         <mark key="^" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Counter.java" timestamp="1543836076354">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Game_Information/MatchInfo.java" timestamp="1514825859781">
         <mark key="[" line="131" column="58" />
@@ -590,12 +603,12 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" timestamp="1543766954779">
-        <mark key="'" line="49" column="18" />
-        <mark key="[" line="52" column="27" />
-        <mark key="]" line="52" column="35" />
-        <mark key="^" line="52" column="35" />
-        <mark key="." line="52" column="35" />
+      <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" timestamp="1543836524609">
+        <mark key="'" line="12" column="73" />
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="12" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Checker.java" timestamp="1508860133103">
         <mark key="[" line="10" column="28" />
@@ -751,8 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/blocks/ProducerIdSender.java" />
-      <jump line="24" column="48" filename="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/blocks/ProducerIdSender.java" />
       <jump line="2" column="37" filename="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/blocks/ProducerIdSender.java" />
       <jump line="16" column="18" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/StorageBuffer.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
@@ -851,6 +862,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DatesList.java" />
       <jump line="70" column="0" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DatesList.java" />
       <jump line="65" column="0" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DatesList.java" />
+      <jump line="16" column="33" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DateCount.java" />
+      <jump line="12" column="73" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -872,34 +885,34 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>list.size()</text>
+        <text>int</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>list.size()</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiR2VuZXJhdGluZyBkYXRlTGlzdDogIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIiAtLSAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiR2VuZXJhdGluZyBkYXRlTGlzdDogIik7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigoKGZsb2F0KSBpKS9saXN0LnNpemUoKSAqIDEwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZi5wYXJzZShyZWNvcmQuZ2V0KCJkZWFkbGluZSIpKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIiAtLSAiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQobGF1bmNoZWQpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGF0ZUNvdW50KTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -907,17 +920,19 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGF0ZUNvdW50KTsK</text>
+      <register name="6" type="4">
+        <text>&quot;Counter{&quot; +
+                &quot;nr=&quot; + nr +
+                '}'</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0LmRlYWRsaW5lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUGFyc2VFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0Mi5oYXNOZXh0KCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
