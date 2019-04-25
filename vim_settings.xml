@@ -402,6 +402,13 @@
         <mark key="." line="36" column="10" />
         <mark key="^" line="36" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main.java" timestamp="1556189449893">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/FuncionariosDAO.java" timestamp="1515875436977">
         <mark key="'" line="17" column="8" />
         <mark key="[" line="17" column="18" />
@@ -764,8 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
-      <jump line="33" column="33" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/pom.xml" />
       <jump line="27" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Worker.java" />
       <jump line="26" column="14" filename="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/blocks/ProducerIdSender.java" />
       <jump line="0" column="38" filename="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/blocks/ProducerIdSender.java" />
@@ -864,6 +869,8 @@
       <jump line="12" column="73" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" />
       <jump line="55" column="53" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" />
       <jump line="58" column="39" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" />
+      <jump line="2" column="7" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -878,35 +885,35 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1SZWMuCg==</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Record</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIiAtLSAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmNsb3NlKCk7ICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1SZWMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXF1ZW5jZUZpbGUuUmVhZGVyLmJ1ZmZlclNpemUoYnVmZmVyX3NpemUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1SZWMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1SZWMgPSByZWNvcmQuaXRlcmF0b3IoKTsKICAgICAgICAgICAgICAgIGVsZW1SZWMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -915,16 +922,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZC47Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZC5hCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlcXVlbmNlRmlsZS5Xcml0ZXIuYXBwZW5kSWZFeGlzdHModHJ1ZSkK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBTZXF1ZW5jZUZpbGUuV3JpdGVyLmZpbGUo</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
