@@ -17,7 +17,7 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="34" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1543763586275">
+      <file name="/a.dummy" timestamp="1556191485485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Barrier.java" timestamp="1512822281522">
@@ -402,12 +402,11 @@
         <mark key="." line="36" column="10" />
         <mark key="^" line="36" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main.java" timestamp="1556189449893">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-        <mark key="^" line="10" column="28" />
+      <file name="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main.java" timestamp="1556191212325">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Data_Layer/FuncionariosDAO.java" timestamp="1515875436977">
         <mark key="'" line="17" column="8" />
@@ -576,6 +575,13 @@
         <mark key="." line="31" column="35" />
         <mark key="^" line="31" column="35" />
       </file>
+      <file name="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main2.java" timestamp="1556192379540">
+        <mark key="'" line="28" column="12" />
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="34" column="20" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/Socio.java" timestamp="1511829863786">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="20" />
@@ -622,6 +628,11 @@
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main1.java" timestamp="1556192155790">
+        <mark key="'" line="18" column="31" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="87" />
       </file>
       <file name="$USER_HOME$/Dropbox/U Minho/2017-18/1o_semestre/DSS/project_1/src/project_1.java" timestamp="1506029763292">
         <mark key="[" line="4" column="30" />
@@ -771,10 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Worker.java" />
-      <jump line="26" column="14" filename="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/blocks/ProducerIdSender.java" />
-      <jump line="0" column="38" filename="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/blocks/ProducerIdSender.java" />
-      <jump line="51" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
       <jump line="54" column="16" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Development/net-computing/smartenergy/Database/src/main/java/org/rug/netcomputing/database/Database.java" />
@@ -871,6 +878,10 @@
       <jump line="58" column="39" filename="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/Main.java" />
       <jump line="2" column="7" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main.java" />
+      <jump line="25" column="15" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main.java" />
+      <jump line="18" column="31" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main1.java" />
+      <jump line="17" column="12" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main2.java" />
+      <jump line="22" column="12" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/Main2.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -886,34 +897,34 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text encoding="base64">bG9uZyA=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text encoding="base64">bG9uZyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmNsb3NlKCk7ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgcG9zaXRpb24gPSByZWFkZXIuZ2V0UG9zaXRpb24oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXF1ZW5jZUZpbGUuUmVhZGVyLmJ1ZmZlclNpemUoYnVmZmVyX3NpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgcG9zaXRpb24gPSByZWFkZXIuZ2V0UG9zaXRpb24oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlU3lzdGVtIGZzID0gRmlsZVN5c3RlbS5nZXQoVVJJLmNyZWF0ZSh1cmkpLCBjb25maWd1cmF0aW9uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -922,16 +933,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlcXVlbmNlRmlsZS5Xcml0ZXIuYXBwZW5kSWZFeGlzdHModHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBTZXF1ZW5jZUZpbGUuV3JpdGVyLmZpbGUo</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXF1ZW5jZUZpbGUuUmVhZGVyLmJ1ZmZlclNpemUoYnVmZmVyX3NpemUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
