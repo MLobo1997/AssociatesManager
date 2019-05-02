@@ -283,11 +283,6 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/models/StorageBufferModel.java" timestamp="1522541342805">
-        <mark key="]" line="47" column="3" />
-        <mark key="." line="47" column="3" />
-        <mark key="^" line="47" column="3" />
-      </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512865376915">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="53" />
@@ -420,6 +415,12 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/OurHBaseClient.java" timestamp="1556816296725">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Message.java" timestamp="1512229816527">
         <mark key="[" line="33" column="24" />
@@ -567,6 +568,13 @@
         <mark key="]" line="3" column="50" />
         <mark key="^" line="3" column="50" />
         <mark key="." line="3" column="50" />
+      </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" timestamp="1556816423110">
+        <mark key="'" line="17" column="18" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Collections/Produto.java" timestamp="1515871358316">
         <mark key="[" line="5" column="16" />
@@ -797,7 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="13" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
       <jump line="38" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
       <jump line="70" column="41" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
       <jump line="80" column="41" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" />
@@ -897,6 +904,7 @@
       <jump line="99" column="87" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStoreWarmup.java" />
       <jump line="94" column="40" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStoreWarmup.java" />
       <jump line="45" column="13" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStoreWarmup.java" />
+      <jump line="17" column="18" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -912,13 +920,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>coiso</text>
+        <text encoding="base64">PC9kZXBlbmRlbmNpZXM+</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>coiso</text>
+        <text encoding="base64">PC9kZXBlbmRlbmNpZXM+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3Zlw+</text>
@@ -927,19 +935,19 @@
         <text>hdfs://localhost:9000</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRlcGVuZGVuY3k+Cjxncm91cElkPm9yZy5hcGFjaGUuaGJhc2U8L2dyb3VwSWQ+CjxhcnRpZmFjdElkPmhiYXNlPC9hcnRpZmFjdElkPgo8dmVyc2lvbj4zLjAuMC1TTkFQU0hPVDwvdmVyc2lvbj4KPHR5cGU+cG9tPC90eXBlPgo8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgcG9zaXRpb24gPSByZWFkZXIuZ2V0UG9zaXRpb24oKTsK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuaGJhc2U8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+aGJhc2U8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+My4wLjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPHR5cGU+cG9tPC90eXBlPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlU3lzdGVtIGZzID0gRmlsZVN5c3RlbS5nZXQoVVJJLmNyZWF0ZSh1cmkpLCBjb25maWd1cmF0aW9uKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmhiYXNlLkhCYXNlQ29uZmlndXJhdGlvbjtvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmhiYXNlLkhCYXNlQ29uZmlndXJhdGlvbjtvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -951,13 +959,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgcG9zaXRpb24gPSByZWFkZXIuZ2V0UG9zaXRpb24oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlU3lzdGVtIGZzID0gRmlsZVN5c3RlbS5nZXQoVVJJLmNyZWF0ZSh1cmkpLCBjb25maWd1cmF0aW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
