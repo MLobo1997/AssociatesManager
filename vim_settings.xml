@@ -414,12 +414,11 @@
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/OurHBaseClient.java" timestamp="1556826045955">
-        <mark key="'" line="13" column="5" />
-        <mark key="[" line="27" column="78" />
-        <mark key="]" line="27" column="84" />
-        <mark key="^" line="27" column="84" />
-        <mark key="." line="27" column="84" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/OurHBaseClient.java" timestamp="1556835366564">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao7/src/Message.java" timestamp="1512229816527">
         <mark key="[" line="33" column="24" />
@@ -568,11 +567,11 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" timestamp="1556834400273">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" timestamp="1556835004420">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
         <mark key="^" line="49" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Collections/Produto.java" timestamp="1515871358316">
         <mark key="[" line="5" column="16" />
@@ -613,11 +612,10 @@
         <mark key="." line="10" column="67" />
         <mark key="^" line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/EmulatorConnect.java" timestamp="1556832142136">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/EmulatorConnect.java" timestamp="1556834479732">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Exceptions/LevelUpException.java" timestamp="1514514100449">
         <mark key="[" line="10" column="0" />
@@ -755,6 +753,12 @@
         <mark key="." line="10" column="67" />
         <mark key="^" line="10" column="67" />
       </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" timestamp="1556835534332">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="15" column="13" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" timestamp="1506680733216">
         <mark key="'" line="71" column="3" />
         <mark key="[" line="51" column="27" />
@@ -809,10 +813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="33" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
-      <jump line="86" column="18" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
-      <jump line="92" column="82" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
-      <jump line="96" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="108" column="16" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="16" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="23" column="108" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
@@ -909,6 +909,10 @@
       <jump line="11" column="31" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/OurHBaseClient.java" />
       <jump line="43" column="16" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/OurHBaseClient.java" />
       <jump line="67" column="5" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/OurHBaseClient.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/EmulatorConnect.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/OurHBaseClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/OurHBaseClient.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -924,13 +928,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbi4K</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>BigtableEmulatorRule</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3Zlw+</text>
@@ -939,20 +943,19 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlNUQU5DRV9JRCA9ICJ0ZXN0IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z29vZ2xlLWNsb3VkLWJpZ3RhYmxlLWVtdWxhdG9yPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbi47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEluaXRpYWxpemUgdGhlIGVtdWxhdG9yIFJ1bGUKICAgIEBSdWxlCiAgICBwdWJsaWMgZmluYWwgQmlndGFibGVFbXVsYXRvclJ1bGUgYmlndGFibGVFbXVsYXRvciA9IEJpZ3RhYmxlRW11bGF0b3JSdWxlLmNyZWF0ZSgpOwoKICAgIC8vIENsaWVudHMgdGhhdCB3aWxsIGJlIGNvbm5lY3RlZCB0byB0aGUgZW11bGF0b3IKICAgIHByaXZhdGUgQmlndGFibGVUYWJsZUFkbWluQ2xpZW50IHRhYmxlQWRtaW5DbGllbnQ7CiAgICBwcml2YXRlIEJpZ3RhYmxlRGF0YUNsaWVudCBkYXRhQ2xpZW50OwoKICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIHNldFVwKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAvLyBJbml0aWFsaXplIHRoZSBjbGllbnRzIHRvIGNvbm5lY3QgdG8gdGhlIGVtdWxhdG9yCiAgICAgICAgQmlndGFibGVUYWJsZUFkbWluU2V0dGluZ3MuQnVpbGRlciB0YWJsZUFkbWluU2V0dGluZ3MgPSBCaWd0YWJsZVRhYmxlQWRtaW5TZXR0aW5ncy5uZXdCdWlsZGVyRm9yRW11bGF0b3IoYmlndGFibGVFbXVsYXRvci5nZXRQb3J0KCkpOwogICAgICAgIHRhYmxlQWRtaW5DbGllbnQgPSBCaWd0YWJsZVRhYmxlQWRtaW5DbGllbnQuY3JlYXRlKHRhYmxlQWRtaW5TZXR0aW5ncy5idWlsZCgpKTsKCiAgICAgICAgQmlndGFibGVEYXRhU2V0dGluZ3MuQnVpbGRlciBkYXRhU2V0dGluZ3MgPSBCaWd0YWJsZURhdGFTZXR0aW5ncy5uZXdCdWlsZGVyRm9yRW11bGF0b3IoYmlndGFibGVFbXVsYXRvci5nZXRQb3J0KCkpOwogICAgICAgIGRhdGFDbGllbnQgPSBCaWd0YWJsZURhdGFDbGllbnQuY3JlYXRlKGRhdGFTZXR0aW5ncy5idWlsZCgpKTsKCiAgICAgICAgLy8gQ3JlYXRlIGEgdGVzdCB0YWJsZSB0aGF0IGNhbiBiZSB1c2VkIGluIHRlc3RzCiAgICAgICAgdGFibGVBZG1pbkNsaWVudC5jcmVhdGVUYWJsZSgKICAgICAgICAgICAgICAgIENyZWF0ZVRhYmxlUmVxdWVzdC5vZigiZmFrZS10YWJsZSIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRGYW1pbHkoImNmIikKICAgICAgICApOwogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0V3JpdGVSZWFkKCkgdGhyb3dzIEV4ZWN1dGlvbkV4Y2VwdGlvbiwgSW50ZXJydXB0ZWRFeGNlcHRpb24gewogICAgICAgIEFwaUZ1dHVyZTxWb2lkPiBtdXRhdGVGdXR1cmUgPSBkYXRhQ2xpZW50Lm11dGF0ZVJvd0FzeW5jKAogICAgICAgICAgICAgICAgUm93TXV0YXRpb24uY3JlYXRlKCJmYWtlLXRhYmxlIiwgImZha2Uta2V5IikKICAgICAgICAgICAgICAgICAgICAgICAgLnNldENlbGwoImNmIiwgImNvbCIsICJ2YWx1ZSIpCiAgICAgICAgKTsKCiAgICAgICAgbXV0YXRlRnV0dXJlLmdldCgpOwoKICAgICAgICBBcGlGdXR1cmU8Um93PiByb3dGdXR1cmUgPSBkYXRhQ2xpZW50LnJlYWRSb3dBc3luYygiZmFrZS10YWJsZSIsICJmYWtlLWtleSIpOwoKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCJ2YWx1ZSIsIHJvd0Z1dHVyZS5nZXQoKS5nZXRDZWxscygpLmdldCgwKS5nZXRWYWx1ZSgpLnRvU3RyaW5nVXRmOCgpKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZ29vZ2xlLmNsb3VkLmJpZ3RhYmxlLmVtdWxhdG9yLnYyOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgYyA9IG5ldyBPdXJIQmFzZUNsaWVudCgpOwogICAgICAgIAogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFRhYmxlRGVzY3JpcHRvciB0YWJsZURlc2NyaXB0b3IgPSBUYWJsZURlc2NyaXB0b3JCdWlsZGVyLm5ld0J1aWxkZXIoVGFibGVOYW1lLnZhbHVlT2YoIlgiKSkuYnVpbGQoKTsKICAgICAgICAgICAgYWRtaW4uY3JlYXRlVGFibGUodGFibGVEZXNjcmlwdG9yKTsKICAgICAgICAgICAgVGFibGVOYW1lW10gdGFibGVOYW1lcyA9IGFkbWluLmxpc3RUYWJsZU5hbWVzKCk7CiAgICAgICAgICAgIGZvcihUYWJsZU5hbWUgbmFtZSA6IHRhYmxlTmFtZXMpewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5hbWUuZ2V0TmFtZUFzU3RyaW5nKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgYWRtaW4uY2xvc2UoKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJvayIpOwogICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>public class BigTableEmulatorRule {
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFVwKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -961,16 +964,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBZG1pbiBhZG1pbiA9IGNvbm5lY3Rpb24uZ2V0QWRtaW4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5raWNrc3RhcnRlci4K</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBjb25uZWN0aW9uLmNsb3NlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+CiAgICA8L2RlcGVuZGVuY2llcz4K</text>
+        <text encoding="base64">ICAgICAgICBDb25maWd1cmF0aW9uIGNvbmYgPSBCaWd0YWJsZUNvbmZpZ3VyYXRpb24uY29uZmlndXJlKFBST0pFQ1RfSUQsIElOU1RBTkNFX0lEKTsKCiAgICAgICAgQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gQmlndGFibGVDb25maWd1cmF0aW9uLmNvbm5lY3QoY29uZik7CgogICAgICAgIGlmKCFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoUFJPSkVDVF9JRCkpIHsKICAgICAgICAgICAgY29uZi5zZXQoQmlndGFibGVPcHRpb25zRmFjdG9yeS5CSUdUQUJMRV9IT1NUX0tFWSwgaG9zdCk7CiAgICAgICAgICAgIGNvbmYuc2V0KEJpZ3RhYmxlT3B0aW9uc0ZhY3RvcnkuQklHVEFCTEVfUE9SVF9LRVksIEludGVnZXIudG9TdHJpbmcocG9ydCkpOwogICAgICAgICAgICBjb25mLnNldChCaWd0YWJsZU9wdGlvbnNGYWN0b3J5LkJJR1RBQkxFX1VTRV9QTEFJTlRFWFRfTkVHT1RJQVRJT04sICJUcnVlIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
