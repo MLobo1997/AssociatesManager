@@ -251,10 +251,6 @@
         <mark key="." line="199" column="7" />
         <mark key="^" line="199" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/net-computing/smartenergy/webServer/src/main/java/org/rug/netcomputing/webserver/WebServer.java" timestamp="1522693319596">
-        <mark key="'" line="110" column="8" />
-        <mark key="n" line="94" column="12" />
-      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Main.java" timestamp="1510178715440">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="6" column="0" />
@@ -459,6 +455,12 @@
         <mark key="." line="86" column="32" />
         <mark key="^" line="86" column="32" />
       </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/TableManipulator.java" timestamp="1556897122984">
+        <mark key="[" line="21" column="60" />
+        <mark key="]" line="21" column="60" />
+        <mark key="." line="21" column="60" />
+        <mark key="^" line="21" column="60" />
+      </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Service_Threads/ClientDaemon.java" timestamp="1514846695583">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="110" column="16" />
@@ -555,6 +557,13 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" timestamp="1556897863541">
+        <mark key="'" line="39" column="42" />
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
+        <mark key="^" line="39" column="42" />
+      </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/APAGAR/src/Main.java" timestamp="1497144755096">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="43" />
@@ -567,8 +576,8 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" timestamp="1556892124952">
-        <mark key="[" line="16" column="21" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" timestamp="1556894679306">
+        <mark key="[" line="17" column="21" />
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="25" />
         <mark key="^" line="16" column="25" />
@@ -753,12 +762,11 @@
         <mark key="." line="10" column="67" />
         <mark key="^" line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" timestamp="1556892504998">
-        <mark key="'" line="22" column="42" />
-        <mark key="[" line="25" column="75" />
-        <mark key="]" line="25" column="75" />
-        <mark key="." line="25" column="75" />
-        <mark key="^" line="25" column="75" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" timestamp="1556897925402">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="76" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" timestamp="1506680733216">
         <mark key="'" line="71" column="3" />
@@ -803,6 +811,12 @@
       <file name="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/DualProducer.java" timestamp="1522142873115">
         <mark key="'" line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/CSVLoader.java" timestamp="1556896423841">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Documents/Document.java" timestamp="1515876966228">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="15" />
@@ -814,12 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="31" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
-      <jump line="40" column="43" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
-      <jump line="42" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
-      <jump line="46" column="31" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
-      <jump line="41" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
-      <jump line="45" column="31" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="50" column="35" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="52" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="56" column="31" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
@@ -914,6 +922,12 @@
       <jump line="10" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" />
       <jump line="57" column="14" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" />
       <jump line="21" column="42" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" />
+      <jump line="16" column="7" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
+      <jump line="18" column="8" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" />
+      <jump line="36" column="36" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
+      <jump line="39" column="42" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -928,32 +942,32 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGVsZXRlZCB0YWJsZSAiICsgdGFibGVOYW1lLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3Zlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXQoQmlndGFibGVPcHRpb25zRmFjdG9yeS5CSUdUQUJMRV9IT1NUX0tFWSwgSE9TVCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQWRtaW4gYWRtaW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZG1pbi5jcmVhdGVUYWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGVsZXRlZCB0YWJsZSAiICsgdGFibGVOYW1lLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg4oCZCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvbm5lY3Rpb24uaXNDbG9zZWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRhYmxlTmFtZXMubGVuZ3RoID09IDApewogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUYWJsZSAiICsgdGFibGVOYW1lc1swXS50b1N0cmluZygpICsgIiBhbHJlYWR5IHdhcyBpbnNlcnRlZCIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuY2xvdWQuYmlndGFibGU8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5iaWd0YWJsZS1lbXVsYXRvci1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjAuMC1wcmUyPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+c3RhcnQ8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5zdG9wPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwcm9wZXJ0eU5hbWU+YmlndGFibGUuZW11bGF0b3IuZW5kcG9pbnQ8L3Byb3BlcnR5TmFtZT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWZhaWxzYWZlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMTkuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmludGVncmF0aW9uLXRlc3Q8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD52ZXJpZnk8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGVudmlyb25tZW50VmFyaWFibGVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCSUdUQUJMRV9FTVVMQVRPUl9IT1NUPmxvY2FsaG9zdDo4MDg2PC9CSUdUQUJMRV9FTVVMQVRPUl9IT1NUPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9lbnZpcm9ubWVudFZhcmlhYmxlcz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRhYmxlTWFuaXB1bGF0b3IuY3JlYXRlVGFibGUoYWRtaW4pOwogICAgICAgICAgICAgICAgaEJhc2VNYW5hZ2VyLmFkZFRhYmxlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -965,16 +979,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVOYW1lcyA9IGFkbWluLmxpc3RUYWJsZU5hbWVzKCk7CiAgICAgICAgICAgIGZvcihUYWJsZU5hbWUgdGFibGVOYW1lIDogdGFibGVOYW1lcyl7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGFibGVOYW1lKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN1bi50b29scy5qY29uc29sZS5UYWI7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
