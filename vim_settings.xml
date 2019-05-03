@@ -567,11 +567,11 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" timestamp="1556889402499">
-        <mark key="[" line="64" column="19" />
-        <mark key="]" line="65" column="3" />
-        <mark key="." line="65" column="3" />
-        <mark key="^" line="65" column="3" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" timestamp="1556892124952">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/Development/EmpresaAgricola_RDB_to_json/src/Collections/Produto.java" timestamp="1515871358316">
         <mark key="[" line="5" column="16" />
@@ -753,10 +753,12 @@
         <mark key="." line="10" column="67" />
         <mark key="^" line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" timestamp="1556889350203">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" timestamp="1556892504998">
+        <mark key="'" line="22" column="42" />
+        <mark key="[" line="25" column="75" />
+        <mark key="]" line="25" column="75" />
+        <mark key="." line="25" column="75" />
+        <mark key="^" line="25" column="75" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/AssociatesManager.java" timestamp="1506680733216">
         <mark key="'" line="71" column="3" />
@@ -812,7 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="12" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="35" column="31" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="40" column="43" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
       <jump line="42" column="8" filename="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/Database/Database.java" />
@@ -912,6 +913,7 @@
       <jump line="50" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" />
       <jump line="10" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" />
       <jump line="57" column="14" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" />
+      <jump line="21" column="42" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -926,8 +928,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -942,16 +944,16 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXQoQmlndGFibGVPcHRpb25zRmFjdG9yeS5CSUdUQUJMRV9IT1NUX0tFWSwgSE9TVCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZG1pbi5jcmVhdGVUYWJsZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg4oCZCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvbm5lY3Rpb24uaXNDbG9zZWQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuY2xvdWQuYmlndGFibGU8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5iaWd0YWJsZS1lbXVsYXRvci1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjAuMC1wcmUyPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+c3RhcnQ8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5zdG9wPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwcm9wZXJ0eU5hbWU+YmlndGFibGUuZW11bGF0b3IuZW5kcG9pbnQ8L3Byb3BlcnR5TmFtZT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWZhaWxzYWZlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMTkuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmludGVncmF0aW9uLXRlc3Q8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD52ZXJpZnk8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGVudmlyb25tZW50VmFyaWFibGVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCSUdUQUJMRV9FTVVMQVRPUl9IT1NUPmxvY2FsaG9zdDo4MDg2PC9CSUdUQUJMRV9FTVVMQVRPUl9IT1NUPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9lbnZpcm9ubWVudFZhcmlhYmxlcz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -963,16 +965,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5TWFuYWdlbWVudD4KICAgICAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuY2xvdWQ8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5nb29nbGUtY2xvdWQtYm9tPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MC45MC4wLWFscGhhPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPHR5cGU+cG9tPC90eXBlPgogICAgICAgICAgICAgICAgPHNjb3BlPmltcG9ydDwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8L2RlcGVuZGVuY2llcz4KICAgIDwvZGVwZW5kZW5jeU1hbmFnZW1lbnQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCaWd0YWJsZU9wdGlvbnMgb3B0cyA9IG5ldyBCaWd0YWJsZU9wdGlvbnMuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0VXNlckFnZW50KCJmYWtlIikKICAgICAgICAgICAgICAgIC5zZXRQcm9qZWN0SWQoImZha2Vwcm9qZWN0IikKICAgICAgICAgICAgICAgIC5zZXRJbnN0YW5jZUlkKCJmYWtlaW5zdGFuY2UiKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CgogICAgICAgIG9wdHMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuVmJpZ3RhYmxlLnJlcGFja2FnZWQuY29tLmdvb2dsZS5jbG91ZC5iaWd0YWJsZS5jb25maWcuQmlndGFibGVPcHRpb25zOwppbXBvcnQgY29tLmdvb2dsZS5jbG91ZC5iaWd0YWJsZS5oYmFzZS5CaWd0YWJsZUNvbmZpZ3VyYXRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z29vZ2xlLWNsb3VkLWJpZ3RhYmxlPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbS5nb29nbGUuY2xvdWQvZ29vZ2xlLWNsb3VkLWJpZ3RhYmxlLWVtdWxhdG9yIC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmNsb3VkPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5nb29nbGUtY2xvdWQtYmlndGFibGUtZW11bGF0b3I8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuODkuMC1hbHBoYTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CgoKCiAgICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2p1bml0L2p1bml0IC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjQuMTI8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
