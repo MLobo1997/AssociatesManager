@@ -560,12 +560,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" timestamp="1557686116030">
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" timestamp="1557696894936">
         <mark key="'" line="29" column="13" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="113" column="38" />
-        <mark key="." line="118" column="0" />
+        <mark key="[" line="112" column="32" />
+        <mark key="]" line="112" column="37" />
+        <mark key="^" line="112" column="37" />
+        <mark key="." line="112" column="37" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/APAGAR/src/Main.java" timestamp="1497144755096">
         <mark key="[" line="14" column="43" />
@@ -698,11 +698,11 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" timestamp="1557318351019">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
-        <mark key="^" line="103" column="76" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" timestamp="1557696867579">
+        <mark key="[" line="136" column="11" />
+        <mark key="]" line="136" column="16" />
+        <mark key="." line="136" column="16" />
+        <mark key="^" line="136" column="16" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4.java" timestamp="1511793096306">
         <mark key="[" line="2" column="18" />
@@ -817,12 +817,12 @@
         <mark key="." line="23" column="39" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/CSVWorker.java" timestamp="1557335133866">
-        <mark key="'" line="17" column="19" />
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/CSVWorker.java" timestamp="1557696908717">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="0" column="40" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/Development/net-computing/smartenergy/Producer/src/main/java/org/rug/netcomputing/producer/DualProducer.java" timestamp="1522142873115">
         <mark key="'" line="9" column="13" />
@@ -955,14 +955,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
