@@ -560,12 +560,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" timestamp="1557317352770">
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" timestamp="1557686116030">
         <mark key="'" line="29" column="13" />
-        <mark key="[" line="113" column="37" />
-        <mark key="]" line="113" column="38" />
-        <mark key="." line="113" column="38" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
         <mark key="^" line="113" column="38" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/APAGAR/src/Main.java" timestamp="1497144755096">
         <mark key="[" line="14" column="43" />
@@ -955,8 +955,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -971,19 +971,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZERhdGEoSXRlcmF0b3I8Q1NWUmVjb3JkPiByZWNvcmRzKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIENTVlJlY29yZCBjc3ZSZWNvcmQ7CiAgICAgICAgd2hpbGUocmVjb3Jkcy5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgY3N2UmVjb3JkID0gcmVjb3Jkcy5uZXh0KCk7CiAgICAgICAgICAgIGFkZFJlY29yZChuZXcgUmVjb3JkKGNzdlJlY29yZCkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZEl0ZXJhdG9yID0gY3N2V29ya2VyLmxvYWRDU1YoIi9raWNrc3RhcnRlcl9jb25jbHVkZWQuY3N2Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -995,13 +995,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZEl0ZXJhdG9yLmNsbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZEl0ZXJhdG9yID0gY3N2V29ya2VyLmxvYWRDU1YoIi9raWNrc3RhcnRlcl9jb25jbHVkZWQuY3N2Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KFN0cmluZy5mb3JtYXQoIiVkXHQiLCBpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZEl0ZXJhdG9yLmNsbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
