@@ -343,6 +343,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/cloud-bigtable-examples/java/dataproc-wordcount/src/main/java/com/example/bigtable/sample/WordCountHBase.java" timestamp="1557743285547">
+        <mark key="[" line="50" column="50" />
+        <mark key="]" line="50" column="54" />
+        <mark key="." line="50" column="54" />
+        <mark key="^" line="50" column="54" />
+      </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/MatchingPlayers.java" timestamp="1512826814451">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="10" column="31" />
@@ -956,13 +962,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>count</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
