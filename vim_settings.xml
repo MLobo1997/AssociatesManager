@@ -108,6 +108,13 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" timestamp="1557830109323">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="30" column="5" />
+        <mark key="." line="30" column="5" />
+        <mark key="^" line="30" column="5" />
+      </file>
       <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" timestamp="1522690364947">
         <mark key="'" line="74" column="18" />
       </file>
@@ -217,11 +224,11 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounterMapper.java" timestamp="1557828395956">
-        <mark key="[" line="8" column="78" />
-        <mark key="]" line="8" column="76" />
-        <mark key="." line="8" column="76" />
-        <mark key="^" line="8" column="76" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounterMapper.java" timestamp="1557829632999">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao4/Blocker.java" timestamp="1509847136700">
         <mark key="[" line="33" column="19" />
@@ -247,9 +254,9 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/pom.xml" timestamp="1557828222747">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/pom.xml" timestamp="1557829211097">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="38" />
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/RWLock.java" timestamp="1510188763846">
@@ -622,11 +629,12 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" timestamp="1557827803312">
-        <mark key="[" line="7" column="48" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="47" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" timestamp="1557830890204">
+        <mark key="'" line="14" column="41" />
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/Socio.java" timestamp="1511829863786">
         <mark key="[" line="8" column="19" />
@@ -865,8 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="40" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStoreWarmup.java" />
-      <jump line="99" column="87" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStoreWarmup.java" />
       <jump line="94" column="40" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStoreWarmup.java" />
       <jump line="45" column="13" filename="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStoreWarmup.java" />
       <jump line="17" column="18" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/pom.xml" />
@@ -965,6 +971,8 @@
       <jump line="36" column="10" filename="$USER_HOME$/Development/Kickstarter_Big_Data/cloud-bigtable-examples/java/dataproc-wordcount/src/main/java/com/example/bigtable/sample/WordCountHBase.java" />
       <jump line="112" column="7" filename="$USER_HOME$/Development/Kickstarter_Big_Data/cloud-bigtable-examples/java/dataproc-wordcount/src/main/java/com/example/bigtable/sample/WordCountHBase.java" />
       <jump line="106" column="6" filename="$USER_HOME$/Development/Kickstarter_Big_Data/cloud-bigtable-examples/java/dataproc-wordcount/src/main/java/com/example/bigtable/sample/WordCountHBase.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" />
+      <jump line="9" column="41" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -979,26 +987,26 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUYWJsZU1hcFJlZHVjZVV0aWwuaW5pdFRhYmxlUmVkdWNlckpvYigKCiAgICAgICAgKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDcmVhdGVUYWJsZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7Cg==</text>
+      <register name="0" type="4">
+        <text>hbase-mapreduce</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmhiYXNlLm1hcHJlZHVjZTsK</text>
+        <text encoding="base64">ICAgICAgICBUYWJsZU1hcFJlZHVjZVV0aWwuaW5pdFRhYmxlUmVkdWNlckpvYigKCiAgICAgICAgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmhiYXNlLm1hcHJlZHVjZTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1016,10 +1024,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZERhdGEoSXRlcmF0b3I8Q1NWUmVjb3JkPiByZWNvcmRzKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIENTVlJlY29yZCBjc3ZSZWNvcmQ7CiAgICAgICAgd2hpbGUocmVjb3Jkcy5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgY3N2UmVjb3JkID0gcmVjb3Jkcy5uZXh0KCk7CiAgICAgICAgICAgIGFkZFJlY29yZChuZXcgUmVjb3JkKGNzdlJlY29yZCkpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZERhdGEoSXRlcmF0b3I8Q1NWUmVjb3JkPiByZWNvcmRzKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIENTVlJlY29yZCBjc3ZSZWNvcmQ7CiAgICAgICAgd2hpbGUocmVjb3Jkcy5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgY3N2UmVjb3JkID0gcmVjb3Jkcy5uZXh0KCk7CiAgICAgICAgICAgIGFkZFJlY29yZChuZXcgUmVjb3JkKGNzdlJlY29yZCkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLmNsb3NlKCk7Cg==</text>
