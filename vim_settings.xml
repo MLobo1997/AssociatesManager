@@ -108,12 +108,12 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" timestamp="1557830109323">
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" timestamp="1557832287173">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="30" column="5" />
-        <mark key="." line="30" column="5" />
-        <mark key="^" line="30" column="5" />
+        <mark key="[" line="15" column="80" />
+        <mark key="]" line="15" column="85" />
+        <mark key="." line="15" column="85" />
+        <mark key="^" line="15" column="85" />
       </file>
       <file name="$USER_HOME$/Development/net-computing/smartenergy/Server/src/main/java/org/rug/netcomputing/server/engine/Engine.java" timestamp="1522690364947">
         <mark key="'" line="74" column="18" />
@@ -629,12 +629,12 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" timestamp="1557830890204">
-        <mark key="'" line="14" column="41" />
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="28" column="30" />
-        <mark key="." line="28" column="30" />
-        <mark key="^" line="28" column="30" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" timestamp="1557831828694">
+        <mark key="'" line="17" column="41" />
+        <mark key="[" line="39" column="109" />
+        <mark key="]" line="40" column="44" />
+        <mark key="." line="40" column="44" />
+        <mark key="^" line="40" column="44" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/Socio.java" timestamp="1511829863786">
         <mark key="[" line="8" column="19" />
@@ -987,14 +987,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUYWJsZU1hcFJlZHVjZVV0aWwuaW5pdFRhYmxlUmVkdWNlckpvYigKCiAgICAgICAgKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Text</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>Text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDcmVhdGVUYWJsZVw+</text>
