@@ -17,10 +17,12 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="34" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounter.java" timestamp="1557842588430">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounter.java" timestamp="1557847825371">
+        <mark key="'" line="244" column="33" />
+        <mark key="[" line="244" column="37" />
+        <mark key="]" line="244" column="91" />
+        <mark key="." line="244" column="91" />
+        <mark key="^" line="244" column="91" />
       </file>
       <file name="/a.dummy" timestamp="1557134808902">
         <mark key="[" line="0" column="0" />
@@ -661,7 +663,6 @@
         <mark key="^" line="2" column="139" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-mapreduce/2.1.4/hbase-mapreduce-2.1.4-sources.jar!/org/apache/hadoop/hbase/mapreduce/TableMapReduceUtil.java" timestamp="1557843299161" />
       <file name="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStore.java" timestamp="1556193045881">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="4" column="7" />
@@ -852,8 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
-      <jump line="39" column="42" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
       <jump line="34" column="12" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
       <jump line="61" column="8" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
       <jump line="66" column="12" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
@@ -952,6 +951,8 @@
       <jump line="45" column="17" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" />
       <jump line="144" column="16" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" />
+      <jump line="13" column="31" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounter.java" />
+      <jump line="243" column="33" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -966,17 +967,17 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5oYmFzZS9oYmFzZS1zaGFkZWQtY2xpZW50IC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmhiYXNlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5oYmFzZS1zaGFkZWQtY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjEuNDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>HBaseConfiguration.create()</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>HBaseConfiguration.create()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNeVJvd0NvdW50ZXJNYXBwZXJcPg==</text>
+        <text encoding="base64">XDxydW5cPg==</text>
       </register>
       <register name="0" type="4">
         <text>hbase-mapreduce</text>
@@ -1019,9 +1020,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNeVJvd0NvdW50ZXJNYXBwZXJcPg==</last-search>
+      <last-search encoding="base64">XDxydW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNeVJvd0NvdW50ZXJNYXBwZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxydW5cPg==</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -1029,8 +1030,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
-        <entry encoding="base64">XDxUQUJMRU5BTUVcPg==</entry>
         <entry encoding="base64">XDxicmVha1w+</entry>
         <entry encoding="base64">XDxqc29uR2V0dGVyXD4=</entry>
         <entry encoding="base64">XDxmbGFnXD4=</entry>
@@ -1049,6 +1048,8 @@
         <entry encoding="base64">XDxleHBlY3RlZENvdW50XD4=</entry>
         <entry encoding="base64">XDxzY2FuXD4=</entry>
         <entry encoding="base64">XDxNeVJvd0NvdW50ZXJNYXBwZXJcPg==</entry>
+        <entry encoding="base64">XDxIQmFzZUNvbmZpZ3VyYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxydW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Integer/Long/gc</entry>
