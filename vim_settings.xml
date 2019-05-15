@@ -17,6 +17,9 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="34" column="42" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-shaded-client/2.1.4/hbase-shaded-client-2.1.4.jar!/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.class" timestamp="1557930136829">
+        <mark key="'" line="194" column="45" />
+      </file>
       <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounter.java" timestamp="1557847825371">
         <mark key="'" line="243" column="33" />
         <mark key="[" line="243" column="37" />
@@ -851,7 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="12" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
       <jump line="61" column="8" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
       <jump line="66" column="12" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
       <jump line="85" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
@@ -951,6 +953,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" />
       <jump line="13" column="31" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounter.java" />
       <jump line="243" column="33" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounter.java" />
+      <jump line="194" column="45" filename="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-shaded-client/2.1.4/hbase-shaded-client-2.1.4.jar!/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
