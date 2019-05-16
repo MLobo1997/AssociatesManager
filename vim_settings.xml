@@ -20,7 +20,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-shaded-client/2.1.4/hbase-shaded-client-2.1.4.jar!/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.class" timestamp="1557934527719">
         <mark key="'" line="1111" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounter.java" timestamp="1557933942174">
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/RowCounter.java" timestamp="1558018610984">
         <mark key="'" line="243" column="33" />
         <mark key="[" line="247" column="0" />
         <mark key="]" line="250" column="5" />
@@ -75,6 +75,12 @@
         <mark key="]" line="52" column="17" />
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="17" />
+      </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReadWriteJob.java" timestamp="1558021291923">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/project.java" timestamp="1506679655938">
         <mark key="[" line="11" column="113" />
@@ -254,11 +260,10 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/pom.xml" timestamp="1557933372480">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-        <mark key="^" line="29" column="20" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/pom.xml" timestamp="1558019631434">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Sandbox/src/Guiao5/RWLock.java" timestamp="1510188763846">
         <mark key="[" line="35" column="58" />
@@ -628,11 +633,12 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" timestamp="1557933940039">
-        <mark key="'" line="17" column="41" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" timestamp="1558020683928">
+        <mark key="'" line="39" column="8" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/SociosMatcher/src/Socio.java" timestamp="1511829863786">
         <mark key="[" line="8" column="19" />
@@ -725,6 +731,11 @@
         <mark key="]" line="136" column="16" />
         <mark key="." line="136" column="16" />
         <mark key="^" line="136" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReducer.java" timestamp="1558020295512">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/SD/Guiao6/src/Ex4.java" timestamp="1511793096306">
         <mark key="[" line="2" column="18" />
@@ -854,9 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="12" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="16" column="45" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
-      <jump line="24" column="62" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
       <jump line="81" column="12" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
       <jump line="102" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
       <jump line="10" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
@@ -954,6 +962,9 @@
       <jump line="859" column="30" filename="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-shaded-client/2.1.4/hbase-shaded-client-2.1.4.jar!/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.class" />
       <jump line="854" column="13" filename="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-shaded-client/2.1.4/hbase-shaded-client-2.1.4.jar!/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.class" />
       <jump line="1111" column="12" filename="$MAVEN_REPOSITORY$/org/apache/hbase/hbase-shaded-client/2.1.4/hbase-shaded-client-2.1.4.jar!/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.class" />
+      <jump line="19" column="23" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" />
+      <jump line="24" column="30" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" />
+      <jump line="38" column="8" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -968,35 +979,35 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoKXsKICAgICAgICBTY2FuIHMgPSBuZXcgU2NhbigpOwogICAgICAgIHMuZ2V0Q29sdW1uRmFtaWx5VGltZVJhbmdlKCk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getColumnFamilyTimeRange</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb2x1bW5GYW1pbHlUaW1lUmFuZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4xLjQ8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmhiYXNlLktleVZhbHVlOwppbXBvcnQgb3JnLmFwYWNoZS5oYWRvb3AuaGJhc2UuY2xpZW50LlB1dDsKaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmhiYXNlLmNsaWVudC5SZXN1bHQ7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5oYmFzZS5pby5JbW11dGFibGVCeXRlc1dyaXRhYmxlOwppbXBvcnQgb3JnLmFwYWNoZS5oYWRvb3AuaGJhc2UubWFwcmVkdWNlLlRhYmxlTWFwcGVyOwppbXBvcnQgb3JnLmFwYWNoZS5oYWRvb3AuaW8uSW50V3JpdGFibGU7CmltcG9ydCBvcmcuYXBhY2hlLmhhZG9vcC5pby5UZXh0OwppbXBvcnQgb3JnLmFwYWNoZS5oYWRvb3AubWFwcmVkdWNlLlJlZHVjZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoKXsKICAgICAgICBTY2FuIHMgPSBuZXcgU2NhbigpOwogICAgICAgIHMuZ2V0Q29sdW1uRmFtaWx5VGltZVJhbmdlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGJ5dGVbXSBBVFRSMSA9ICJhdHRyMSIuZ2V0Qnl0ZXMoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoKXsKICAgICAgICBTY2FuIHMgPSBuZXcgU2NhbigpOwogICAgICAgIHMuZ2V0Q29sdW1uRmFtaWx5VGltZVJhbmdlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBRdWVyeSBxID0gbmV3IFF1ZXJ5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmhiYXNlLmNsaWVudC5RdWVyeTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgTXlNYXBwZXIgZXh0ZW5kcyBUYWJsZU1hcHBlcjxJbW11dGFibGVCeXRlc1dyaXRhYmxlLCBQdXQ+IHsKCiAgICAgICAgcHVibGljIHZvaWQgbWFwKEltbXV0YWJsZUJ5dGVzV3JpdGFibGUgcm93LCBSZXN1bHQgdmFsdWUsIENvbnRleHQgY29udGV4dCkgdGhyb3dzIElPRXhjZXB0aW9uLCBJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB7CiAgICAgICAgICAgIC8vIHRoaXMgZXhhbXBsZSBpcyBqdXN0IGNvcHlpbmcgdGhlIGRhdGEgZnJvbSB0aGUgc291cmNlIHRhYmxlLi4uCiAgICAgICAgICAgIGNvbnRleHQud3JpdGUocm93LCByZXN1bHRUb1B1dChyb3csdmFsdWUpKTsKICAgICAgICB9CgogICAgICAgIHByaXZhdGUgc3RhdGljIFB1dCByZXN1bHRUb1B1dChJbW11dGFibGVCeXRlc1dyaXRhYmxlIGtleSwgUmVzdWx0IHJlc3VsdCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAgICAgUHV0IHB1dCA9IG5ldyBQdXQoa2V5LmdldCgpKTsKICAgICAgICAgICAgZm9yIChLZXlWYWx1ZSBrdiA6IHJlc3VsdC5yYXcoKSkgewogICAgICAgICAgICAgICAgcHV0LmFkZChrdik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHB1dDsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1005,16 +1016,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC4qOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5Kb2I7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xLjc8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5Kb2I7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5oYmFzZS9oYmFzZS1zaGFkZWQtY2xpZW50IC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmhiYXNlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5oYmFzZS1zaGFkZWQtY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjEuNDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5Db3VudGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
