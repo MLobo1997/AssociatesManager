@@ -76,11 +76,11 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Map_Reduce_Jobs.java" timestamp="1558129779833">
-        <mark key="[" line="20" column="112" />
-        <mark key="]" line="20" column="121" />
-        <mark key="." line="20" column="121" />
-        <mark key="^" line="20" column="121" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Map_Reduce_Jobs.java" timestamp="1558133992121">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="9" />
       </file>
       <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReadWriteJob.java" timestamp="1558118584297">
         <mark key="[" line="49" column="0" />
@@ -94,11 +94,11 @@
         <mark key="^" line="11" column="98" />
         <mark key="." line="11" column="113" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" timestamp="1558129862438">
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="35" column="36" />
-        <mark key="." line="35" column="36" />
-        <mark key="^" line="35" column="36" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" timestamp="1558133954209">
+        <mark key="[" line="50" column="27" />
+        <mark key="]" line="50" column="38" />
+        <mark key="." line="50" column="38" />
+        <mark key="^" line="50" column="38" />
       </file>
       <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DateCount.java" timestamp="1543845497777">
         <mark key="'" line="16" column="33" />
@@ -318,11 +318,11 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558129802250">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="22" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558134430227">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="52" />
+        <mark key="." line="37" column="52" />
+        <mark key="^" line="37" column="52" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512865376915">
         <mark key="[" line="5" column="43" />
@@ -1003,13 +1003,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>Backers count done</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>Backers count done</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb2x1bW5GYW1pbHlUaW1lUmFuZ2VcPg==</text>
@@ -1018,19 +1018,19 @@
         <text encoding="base64">ICAgICAgICBDb25maWd1cmF0aW9uIGNvbmZpZyA9IEhCYXNlQ29uZmlndXJhdGlvbi5jcmVhdGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldCgidGltZXN0YW1wIiwgKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIExvbmdXcml0YWJsZSBrZXkgPSBuZXcgTG9uZ1dyaXRhYmxlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqZHcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldCgidGltZXN0YW1wIiwgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuc2UK</text>
+        <text encoding="base64">ICAgICAgICBqZHcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlZGRjdXJpdHkuYXV0aC5sb2dpbi5Db25maWd1cmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNlZGRjdXJpdHkuYXV0aC5sb2dpbi5Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1039,16 +1039,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBkZWFkbGluZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEludGVnZXIgY3JlYXRlZF9hdDsKICAgICAgICBwcml2YXRlIEludGVnZXIgZGVhZGxpbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBkZWFkbGluZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmhhZG9vcC5oYmFzZS5tYXByZWR1Y2UuSW1wb3J0LlRBQkxFX05BTUU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEludGVnZXIgY3JlYXRlZF9hdDsKICAgICAgICBwcml2YXRlIEludGVnZXIgZGVhZGxpbmU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmhhZG9vcC5oYmFzZS5tYXByZWR1Y2UuSW1wb3J0LlRBQkxFX05BTUU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
