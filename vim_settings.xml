@@ -882,6 +882,9 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
+      <file name="/fragment.java" timestamp="1558125338222">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
