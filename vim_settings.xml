@@ -140,11 +140,12 @@
         <mark key="^" line="20" column="77" />
         <mark key="." line="20" column="77" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/backers_value_count/Backers_Count_Run.java" timestamp="1558121701878">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/backers_value_count/Backers_Count_Run.java" timestamp="1558122888532">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Development/grupo51/Ficha7/src/Hotel.java" timestamp="1496147095984">
         <mark key="'" line="63" column="0" />
@@ -316,6 +317,11 @@
         <mark key="]" line="26" column="87" />
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558122891064">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="40" column="5" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512865376915">
         <mark key="[" line="5" column="43" />
@@ -878,7 +884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
       <jump line="16" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
       <jump line="17" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
       <jump line="19" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
@@ -978,6 +983,7 @@
       <jump line="6" column="19" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReducer.java" />
       <jump line="37" column="25" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReadWriteJob.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReducer.java" />
+      <jump line="14" column="28" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/backers_value_count/Backers_Count_Run.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -992,20 +998,20 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Map_Reduce_Job.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBydW4oQ29uZmlndXJhdGlvbiBjb25maWcsIFN0cmluZyB0YWJsZV9uYW1lKSB0aHJvd3MgSU9FeGNlcHRpb24sIENsYXNzTm90Rm91bmRFeGNlcHRpb24sIEludGVycnVwdGVkRXhjZXB0aW9uIHsKICAgICAgICBKb2Igam9iID0gbmV3IEpvYihjb25maWcsIkV4YW1wbGVSZWFkV3JpdGUiKTsKICAgICAgICBqb2Iuc2V0SmFyQnlDbGFzcyhNeVJlYWRXcml0ZUpvYi5jbGFzcyk7ICAgIC8vIGNsYXNzIHRoYXQgY29udGFpbnMgbWFwcGVyCgogICAgICAgIFNjYW4gc2NhbiA9IG5ldyBTY2FuKCk7CiAgICAgICAgc2Nhbi5zZXRDYWNoaW5nKDUwMCk7ICAgICAgICAvLyAxIGlzIHRoZSBkZWZhdWx0IGluIFNjYW4sIHdoaWNoIHdpbGwgYmUgYmFkIGZvciBNYXBSZWR1Y2Ugam9icwogICAgICAgIHNjYW4uc2V0Q2FjaGVCbG9ja3MoZmFsc2UpOyAgLy8gZG9uJ3Qgc2V0IHRvIHRydWUgZm9yIE1SIGpvYnMKLy8gc2V0IG90aGVyIHNjYW4gYXR0cnMKCiAgICAgICAgVGFibGVNYXBSZWR1Y2VVdGlsLmluaXRUYWJsZU1hcHBlckpvYigKICAgICAgICAgICAgICAgIHRhYmxlX25hbWUsICAgICAgICAvLyBpbnB1dCB0YWJsZQogICAgICAgICAgICAgICAgc2NhbiwgICAgICAgICAgICAgICAvLyBTY2FuIGluc3RhbmNlIHRvIGNvbnRyb2wgQ0YgYW5kIGF0dHJpYnV0ZSBzZWxlY3Rpb24KICAgICAgICAgICAgICAgIE15UmVhZFdyaXRlSm9iLk15TWFwcGVyLmNsYXNzLCAgICAgLy8gbWFwcGVyIGNsYXNzCiAgICAgICAgICAgICAgICBJbnRXcml0YWJsZS5jbGFzcywgICAgICAgICAvLyBtYXBwZXIgb3V0cHV0IGtleQogICAgICAgICAgICAgICAgSW50V3JpdGFibGUuY2xhc3MsICAvLyBtYXBwZXIgb3V0cHV0IHZhbHVlCiAgICAgICAgICAgICAgICBqb2IpOwogICAgICAgIGpvYi5zZXRSZWR1Y2VyQ2xhc3MoTXlSZWFkV3JpdGVKb2IuTXlSZWR1Y2VyLmNsYXNzKTsgICAgLy8gcmVkdWNlciBjbGFzcwogICAgICAgIGpvYi5zZXROdW1SZWR1Y2VUYXNrcygxKTsgICAgLy8gYXQgbGVhc3Qgb25lLCBhZGp1c3QgYXMgcmVxdWlyZWQKICAgICAgICBGaWxlT3V0cHV0Rm9ybWF0LnNldE91dHB1dFBhdGgoam9iLCBuZXcgUGF0aCgiL3RtcC9tci9teVN1bW1hcnlGaWxlIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7ICAvLyBhZGp1c3QgZGlyZWN0b3JpZXMgYXMgcmVxdWlyZWQKCiAgICAgICAgYm9vbGVhbiBiID0gam9iLndhaXRGb3JDb21wbGV0aW9uKHRydWUpOwogICAgICAgIGlmIChiKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmFja2VycyBjb3VudCBkb25lLiIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigiZXJyb3Igd2l0aCBqb2IhIik7CgogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Map_Reduce_Job.</text>
+        <text>onf.Configuration;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb2x1bW5GYW1pbHlUaW1lUmFuZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE15UmVkdWNlciBleHRlbmRzIFJlZHVjZXI8SW50V3JpdGFibGUsIEludFdyaXRhYmxlLCBJbnRXcml0YWJsZSwgSW50V3JpdGFibGU+IHsKICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlci5nZXRMb2dnZXIoTXlSZWR1Y2VyLmNsYXNzKTsKCiAgICBwdWJsaWMgdm9pZCByZWR1Y2UoSW50V3JpdGFibGUga2V5LCBJdGVyYWJsZTxJbnRXcml0YWJsZT4gdmFsdWVzLCBDb250ZXh0IGNvbnRleHQpICB7CiAgICAgICAgdHJ5IHsKCiAgICAgICAgICAgIGludCBpID0gMDsKICAgICAgICAgICAgZm9yIChJbnRXcml0YWJsZSB2YWwgOiB2YWx1ZXMpIHsKICAgICAgICAgICAgICAgIGkgKz0gdmFsLmdldCgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbnRleHQud3JpdGUoa2V5LCBuZXcgSW50V3JpdGFibGUoaSkpOwoKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoZS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBydW4oQ29uZmlndXJhdGlvbiBjb25maWcsIFN0cmluZyB0YWJsZV9uYW1lKSB0aHJvd3MgSU9FeGNlcHRpb24sIENsYXNzTm90Rm91bmRFeGNlcHRpb24sIEludGVycnVwdGVkRXhjZXB0aW9uIHsKICAgICAgICBKb2Igam9iID0gbmV3IEpvYihjb25maWcsIkV4YW1wbGVSZWFkV3JpdGUiKTsKICAgICAgICBqb2Iuc2V0SmFyQnlDbGFzcyhNeVJlYWRXcml0ZUpvYi5jbGFzcyk7ICAgIC8vIGNsYXNzIHRoYXQgY29udGFpbnMgbWFwcGVyCgogICAgICAgIFNjYW4gc2NhbiA9IG5ldyBTY2FuKCk7CiAgICAgICAgc2Nhbi5zZXRDYWNoaW5nKDUwMCk7ICAgICAgICAvLyAxIGlzIHRoZSBkZWZhdWx0IGluIFNjYW4sIHdoaWNoIHdpbGwgYmUgYmFkIGZvciBNYXBSZWR1Y2Ugam9icwogICAgICAgIHNjYW4uc2V0Q2FjaGVCbG9ja3MoZmFsc2UpOyAgLy8gZG9uJ3Qgc2V0IHRvIHRydWUgZm9yIE1SIGpvYnMKLy8gc2V0IG90aGVyIHNjYW4gYXR0cnMKCiAgICAgICAgVGFibGVNYXBSZWR1Y2VVdGlsLmluaXRUYWJsZU1hcHBlckpvYigKICAgICAgICAgICAgICAgIHRhYmxlX25hbWUsICAgICAgICAvLyBpbnB1dCB0YWJsZQogICAgICAgICAgICAgICAgc2NhbiwgICAgICAgICAgICAgICAvLyBTY2FuIGluc3RhbmNlIHRvIGNvbnRyb2wgQ0YgYW5kIGF0dHJpYnV0ZSBzZWxlY3Rpb24KICAgICAgICAgICAgICAgIE15UmVhZFdyaXRlSm9iLk15TWFwcGVyLmNsYXNzLCAgICAgLy8gbWFwcGVyIGNsYXNzCiAgICAgICAgICAgICAgICBJbnRXcml0YWJsZS5jbGFzcywgICAgICAgICAvLyBtYXBwZXIgb3V0cHV0IGtleQogICAgICAgICAgICAgICAgSW50V3JpdGFibGUuY2xhc3MsICAvLyBtYXBwZXIgb3V0cHV0IHZhbHVlCiAgICAgICAgICAgICAgICBqb2IpOwogICAgICAgIGpvYi5zZXRSZWR1Y2VyQ2xhc3MoTXlSZWFkV3JpdGVKb2IuTXlSZWR1Y2VyLmNsYXNzKTsgICAgLy8gcmVkdWNlciBjbGFzcwogICAgICAgIGpvYi5zZXROdW1SZWR1Y2VUYXNrcygxKTsgICAgLy8gYXQgbGVhc3Qgb25lLCBhZGp1c3QgYXMgcmVxdWlyZWQKICAgICAgICBGaWxlT3V0cHV0Rm9ybWF0LnNldE91dHB1dFBhdGgoam9iLCBuZXcgUGF0aCgiL3RtcC9tci9teVN1bW1hcnlGaWxlIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7ICAvLyBhZGp1c3QgZGlyZWN0b3JpZXMgYXMgcmVxdWlyZWQKCiAgICAgICAgYm9vbGVhbiBiID0gam9iLndhaXRGb3JDb21wbGV0aW9uKHRydWUpOwogICAgICAgIGlmIChiKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmFja2VycyBjb3VudCBkb25lLiIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigiZXJyb3Igd2l0aCBqb2IhIik7CgogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmhhZG9vcC5oYmFzZS5tYXByZWR1Y2UuSW1wb3J0LlRBQkxFX05BTUU7Cg==</text>
