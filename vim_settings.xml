@@ -76,11 +76,11 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Map_Reduce_Jobs.java" timestamp="1558121709193">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="47" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Map_Reduce_Jobs.java" timestamp="1558129779833">
+        <mark key="[" line="20" column="112" />
+        <mark key="]" line="20" column="121" />
+        <mark key="." line="20" column="121" />
+        <mark key="^" line="20" column="121" />
       </file>
       <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReadWriteJob.java" timestamp="1558118584297">
         <mark key="[" line="49" column="0" />
@@ -94,11 +94,11 @@
         <mark key="^" line="11" column="98" />
         <mark key="." line="11" column="113" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" timestamp="1558127295570">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="15" />
-        <mark key="^" line="29" column="15" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" timestamp="1558129862438">
+        <mark key="[" line="35" column="37" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="36" />
+        <mark key="^" line="35" column="36" />
       </file>
       <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DateCount.java" timestamp="1543845497777">
         <mark key="'" line="16" column="33" />
@@ -318,10 +318,11 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558122891064">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="40" column="5" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558129802250">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512865376915">
         <mark key="[" line="5" column="43" />
@@ -1001,35 +1002,35 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Bytes.toInt(value.getValue(CF, ATTR_CREATED_AT))</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb2x1bW5GYW1pbHlUaW1lUmFuZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEludGVnZXIgY3JlYXRlZF9hdDsK</text>
+        <text encoding="base64">ICAgICAgICBDb25maWd1cmF0aW9uIGNvbmZpZyA9IEhCYXNlQ29uZmlndXJhdGlvbi5jcmVhdGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldCgidGltZXN0YW1wIiwgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBkZWFkbGluZTsK</text>
+        <text encoding="base64">ICAgICAgICBqZHcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEludGVnZXIgY3JlYXRlZF9hdDsKICAgICAgICBwcml2YXRlIEludGVnZXIgZGVhZGxpbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmhhZG9vcC5oYmFzZS5tYXByZWR1Y2UuSW1wb3J0LlRBQkxFX05BTUU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNlZGRjdXJpdHkuYXV0aC5sb2dpbi5Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1038,16 +1039,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBkZWFkbGluZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEludGVnZXIgY3JlYXRlZF9hdDsKICAgICAgICBwcml2YXRlIEludGVnZXIgZGVhZGxpbmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBKb2Igam9iID0gbmV3IEpvYihjb25maWcsIkV4YW1wbGVSZWFkV3JpdGUiKTsKICAgICAgICBqb2Iuc2V0SmFyQnlDbGFzcyhNeVJlYWRXcml0ZUpvYi5jbGFzcyk7ICAgIC8vIGNsYXNzIHRoYXQgY29udGFpbnMgbWFwcGVyCgogICAgICAgIFNjYW4gc2NhbiA9IG5ldyBTY2FuKCk7CiAgICAgICAgc2Nhbi5zZXRDYWNoaW5nKDUwMCk7ICAgICAgICAvLyAxIGlzIHRoZSBkZWZhdWx0IGluIFNjYW4sIHdoaWNoIHdpbGwgYmUgYmFkIGZvciBNYXBSZWR1Y2Ugam9icwogICAgICAgIHNjYW4uc2V0Q2FjaGVCbG9ja3MoZmFsc2UpOyAgLy8gZG9uJ3Qgc2V0IHRvIHRydWUgZm9yIE1SIGpvYnMKLy8gc2V0IG90aGVyIHNjYW4gYXR0cnMKCiAgICAgICAgVGFibGVNYXBSZWR1Y2VVdGlsLmluaXRUYWJsZU1hcHBlckpvYigKICAgICAgICAgICAgICAgIFRBQkxFX05BTUUsICAgICAgICAvLyBpbnB1dCB0YWJsZQogICAgICAgICAgICAgICAgc2NhbiwgICAgICAgICAgICAgICAvLyBTY2FuIGluc3RhbmNlIHRvIGNvbnRyb2wgQ0YgYW5kIGF0dHJpYnV0ZSBzZWxlY3Rpb24KICAgICAgICAgICAgICAgIE15UmVhZFdyaXRlSm9iLk15TWFwcGVyLmNsYXNzLCAgICAgLy8gbWFwcGVyIGNsYXNzCiAgICAgICAgICAgICAgICBJbnRXcml0YWJsZS5jbGFzcywgICAgICAgICAvLyBtYXBwZXIgb3V0cHV0IGtleQogICAgICAgICAgICAgICAgSW50V3JpdGFibGUuY2xhc3MsICAvLyBtYXBwZXIgb3V0cHV0IHZhbHVlCiAgICAgICAgICAgICAgICBqb2IpOwogICAgICAgIGpvYi5zZXRSZWR1Y2VyQ2xhc3MoTXlSZWFkV3JpdGVKb2IuTXlSZWR1Y2VyLmNsYXNzKTsgICAgLy8gcmVkdWNlciBjbGFzcwogICAgICAgIGpvYi5zZXROdW1SZWR1Y2VUYXNrcygxKTsgICAgLy8gYXQgbGVhc3Qgb25lLCBhZGp1c3QgYXMgcmVxdWlyZWQKICAgICAgICBGaWxlT3V0cHV0Rm9ybWF0LnNldE91dHB1dFBhdGgoam9iLCBuZXcgUGF0aCgiL3RtcC9tci9teVN1bW1hcnlGaWxlIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7ICAvLyBhZGp1c3QgZGlyZWN0b3JpZXMgYXMgcmVxdWlyZWQKCiAgICAgICAgYm9vbGVhbiBiID0gam9iLndhaXRGb3JDb21wbGV0aW9uKHRydWUpOwogICAgICAgIGlmIChiKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmFja2VycyBjb3VudCBkb25lLiIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigiZXJyb3Igd2l0aCBqb2IhIik7CgogICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmhhZG9vcC5oYmFzZS5tYXByZWR1Y2UuSW1wb3J0LlRBQkxFX05BTUU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElPRXhjZXB0aW9uKCJlcnJvciB3aXRoIGpvYiEiKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
