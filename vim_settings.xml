@@ -76,11 +76,11 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Map_Reduce_Jobs.java" timestamp="1558260237568">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Map_Reduce_Jobs.java" timestamp="1558261619671">
+        <mark key="[" line="20" column="96" />
+        <mark key="]" line="20" column="96" />
+        <mark key="." line="20" column="96" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReadWriteJob.java" timestamp="1558118584297">
         <mark key="[" line="49" column="0" />
@@ -1003,13 +1003,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Nanos</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Nanos</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb2x1bW5GYW1pbHlUaW1lUmFuZ2VcPg==</text>
