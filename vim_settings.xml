@@ -76,11 +76,11 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Map_Reduce_Jobs.java" timestamp="1558219227313">
-        <mark key="[" line="20" column="88" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="21" column="28" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Map_Reduce_Jobs.java" timestamp="1558260237568">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReadWriteJob.java" timestamp="1558118584297">
         <mark key="[" line="49" column="0" />
@@ -94,11 +94,11 @@
         <mark key="^" line="11" column="98" />
         <mark key="." line="11" column="113" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" timestamp="1558218963228">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="65" />
-        <mark key="^" line="26" column="37" />
-        <mark key="." line="26" column="37" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" timestamp="1558260046361">
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="28" column="45" />
+        <mark key="^" line="28" column="45" />
+        <mark key="." line="28" column="45" />
       </file>
       <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DateCount.java" timestamp="1543845497777">
         <mark key="'" line="16" column="33" />
@@ -318,10 +318,11 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558219119264">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558260028049">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512865376915">
         <mark key="[" line="5" column="43" />
@@ -1002,13 +1003,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Timestamp</text>
+        <text>Nanos</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Timestamp</text>
+        <text>Nanos</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb2x1bW5GYW1pbHlUaW1lUmFuZ2VcPg==</text>
