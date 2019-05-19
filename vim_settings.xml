@@ -704,11 +704,12 @@
         <mark key="^" line="2" column="139" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/User_Success_Run.java" timestamp="1558277224386">
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/User_Success_Run.java" timestamp="1558297124573">
         <mark key="'" line="42" column="33" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="41" />
+        <mark key="." line="30" column="41" />
+        <mark key="^" line="30" column="41" />
       </file>
       <file name="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStore.java" timestamp="1556193045881">
         <mark key="[" line="0" column="44" />
@@ -853,11 +854,11 @@
         <mark key="^" line="54" column="28" />
         <mark key="." line="51" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" timestamp="1558275009348">
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" timestamp="1558297173140">
         <mark key="'" line="36" column="12" />
-        <mark key="[" line="48" column="18" />
-        <mark key="]" line="48" column="20" />
-        <mark key="." line="48" column="20" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
         <mark key="^" line="48" column="20" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Associate.java" timestamp="1506680677298">
@@ -1031,14 +1032,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>MyReducer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MyReducer</text>
+        <text>Map_Reduce</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3dcPg==</text>
@@ -1047,19 +1048,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGhpcyBoYXBwZW5zISEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiT2khIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvdW50LnNldChjb3VudCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKCJUaGlzIGhhcHBlbnMhISIpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENvdW50KEludGVnZXIgY291bnQpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmlvLkludFdyaXRhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihrZXkgKyAiICIgKyBpbmZvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiT2khIik7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1068,16 +1069,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3VjY2VzczogIiArIHN1Y2Nlc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKCJUaGlzIGhhcHBlbnMhISIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmlvLkludFdyaXRhYmxlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHN1Y2Nlc3Mpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihrZXkgKyAiICIgKyBpbmZvKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHN1Y2Nlc3MpewogICAgICAgICAgICAgICAgICAgIGluZm8uc2V0U3VjY2Vzc19jb3VudCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3VjY2VzczogIiArIHN1Y2Nlc3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
