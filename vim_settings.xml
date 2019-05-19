@@ -27,7 +27,7 @@
         <mark key="." line="247" column="0" />
         <mark key="^" line="243" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1558126331363">
+      <file name="/a.dummy" timestamp="1558263720302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Barrier.java" timestamp="1512822281522">
@@ -76,11 +76,11 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Map_Reduce_Jobs.java" timestamp="1558261619671">
-        <mark key="[" line="20" column="96" />
-        <mark key="]" line="20" column="96" />
-        <mark key="." line="20" column="96" />
-        <mark key="^" line="21" column="32" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Map_Reduce_Jobs.java" timestamp="1558265761659">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="27" column="36" />
       </file>
       <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReadWriteJob.java" timestamp="1558118584297">
         <mark key="[" line="49" column="0" />
@@ -94,11 +94,12 @@
         <mark key="^" line="11" column="98" />
         <mark key="." line="11" column="113" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" timestamp="1558260046361">
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="28" column="45" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="28" column="45" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" timestamp="1558263988778">
+        <mark key="'" line="18" column="40" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="64" column="4" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="14" column="55" />
       </file>
       <file name="$USER_HOME$/Development/Kickstarter_predictor/Nr_Of_Active_Projects/src/DateCount.java" timestamp="1543845497777">
         <mark key="'" line="16" column="33" />
@@ -318,11 +319,18 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558260028049">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-        <mark key="^" line="16" column="21" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/TupleWritable.java" timestamp="1558263591554">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="37" />
+        <mark key="^" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558266386551">
+        <mark key="'" line="17" column="12" />
+        <mark key="[" line="44" column="33" />
+        <mark key="]" line="44" column="33" />
+        <mark key="." line="44" column="33" />
+        <mark key="^" line="44" column="33" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512865376915">
         <mark key="[" line="5" column="43" />
@@ -587,6 +595,13 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/Map_Reduce.java" timestamp="1558267019346">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="19" column="48" />
+        <mark key="^" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+      </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/MusicaComVideo.java" timestamp="1498601377788">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="15" column="34" />
@@ -688,6 +703,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="2" column="139" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/User_Success_Run.java" timestamp="1558266997468">
+        <mark key="'" line="44" column="33" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStore.java" timestamp="1556193045881">
         <mark key="[" line="0" column="44" />
@@ -831,6 +852,13 @@
         <mark key="^" line="54" column="28" />
         <mark key="." line="51" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" timestamp="1558265618273">
+        <mark key="'" line="36" column="12" />
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Associate.java" timestamp="1506680677298">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="51" column="42" />
@@ -888,31 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="17" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="19" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="20" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="21" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="22" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="23" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="24" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="25" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="26" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="28" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="29" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="53" column="82" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
-      <jump line="22" column="63" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
-      <jump line="36" column="16" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/CSVWorker.java" />
-      <jump line="47" column="17" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="54" column="17" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="64" column="31" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="102" column="12" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
-      <jump line="90" column="20" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
-      <jump line="35" column="53" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="71" column="15" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="82" column="22" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/Record.java" />
-      <jump line="80" column="41" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
       <jump line="81" column="42" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
       <jump line="82" column="41" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
       <jump line="87" column="44" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
@@ -988,6 +991,31 @@
       <jump line="37" column="25" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReadWriteJob.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReducer.java" />
       <jump line="14" column="28" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/backers_value_count/Backers_Count_Run.java" />
+      <jump line="49" column="77" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
+      <jump line="52" column="27" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
+      <jump line="29" column="18" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" />
+      <jump line="7" column="28" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" />
+      <jump line="12" column="26" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
+      <jump line="22" column="16" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
+      <jump line="15" column="53" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
+      <jump line="14" column="55" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
+      <jump line="21" column="40" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
+      <jump line="48" column="78" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
+      <jump line="18" column="40" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
+      <jump line="3" column="4" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/Map_Reduce.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/Map_Reduce.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/Map_Reduce.java" />
+      <jump line="13" column="37" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" />
+      <jump line="14" column="27" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" />
+      <jump line="19" column="19" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" />
+      <jump line="26" column="35" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" />
+      <jump line="27" column="27" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" />
+      <jump line="36" column="12" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" />
+      <jump line="42" column="33" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/User_Success_Run.java" />
+      <jump line="17" column="12" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" />
+      <jump line="8" column="39" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/Map_Reduce.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/Map_Reduce.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1003,34 +1031,34 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>details</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>details</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRDb2x1bW5GYW1pbHlUaW1lUmFuZ2VcPg==</text>
+        <text encoding="base64">XDxmc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIuZ2V0TG9nZ2VyKE15TWFwcGVyLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGpvYi5nZXRIaXN0b3J5VXJsKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIuZ2V0TG9nZ2VyKFByb2plY3RzX0J5X0RhdGVfUnVuLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZU91dHB1dEZvcm1hdC5zZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoIkJPT09PT0kiKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmNvbmYuQ29uZmlndXJhdGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uZmlndXJhdGlvbiBjb25maWcgPSBjb250ZXh0LmdldENvbmZpZ3VyYXRpb24oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIuZ2V0TG9nZ2VyKE15TWFwcGVyLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGpvYi5nZXRIaXN0b3J5VXJsKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiVGhlIHRpbWVzdGFtcCB3ZSBhcmUgbG9va2luZyBmb3IgaXM6XHQiICsgdGltZXN0YW1wKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdHIpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1039,25 +1067,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgc3RyIDogam9iLmdldCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGpvYi5nZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iLmdldAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRDb2x1bW5GYW1pbHlUaW1lUmFuZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxmc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRDb2x1bW5GYW1pbHlUaW1lUmFuZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmc3RcPg==</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -1065,8 +1093,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqc29uR2V0dGVyXD4=</entry>
-        <entry encoding="base64">XDxmbGFnXD4=</entry>
         <entry encoding="base64">XDxiYWNrZXJzX2NvdW50XD4=</entry>
         <entry encoding="base64">XDxyXD4=</entry>
         <entry encoding="base64">XDxIQmFzZU1hbmFnZXJcPg==</entry>
@@ -1085,6 +1111,8 @@
         <entry encoding="base64">XDxIQmFzZUNvbmZpZ3VyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxydW5cPg==</entry>
         <entry encoding="base64">XDxnZXRDb2x1bW5GYW1pbHlUaW1lUmFuZ2VcPg==</entry>
+        <entry encoding="base64">XDxMb25nV3JpdGFibGVcPg==</entry>
+        <entry encoding="base64">XDxmc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Integer/Long/gc</entry>
