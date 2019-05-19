@@ -325,12 +325,12 @@
         <mark key="^" line="29" column="37" />
         <mark key="." line="29" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558266386551">
-        <mark key="'" line="17" column="12" />
-        <mark key="[" line="44" column="33" />
-        <mark key="]" line="44" column="33" />
-        <mark key="." line="44" column="33" />
-        <mark key="^" line="44" column="33" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Projects_By_Date_Run.java" timestamp="1558303779449">
+        <mark key="'" line="16" column="12" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="68" />
+        <mark key="." line="19" column="68" />
+        <mark key="^" line="19" column="68" />
       </file>
       <file name="$USER_HOME$/Development/SD_Projeto/src/Player.java" timestamp="1512865376915">
         <mark key="[" line="5" column="43" />
@@ -852,12 +852,12 @@
         <mark key="^" line="54" column="28" />
         <mark key="." line="51" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" timestamp="1558301718450">
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/TupleWritable.java" timestamp="1558304305103">
         <mark key="'" line="36" column="12" />
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="9" column="45" />
-        <mark key="^" line="9" column="45" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="40" column="30" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Development/UM/3o_ano/1o_semestre/DSS/AssociatesManager/src/Associate.java" timestamp="1506680677298">
         <mark key="'" line="36" column="0" />
@@ -1031,34 +1031,34 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Writable</text>
+        <text>org.apache.hadoop.io</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Writable</text>
+        <text>dataOutput</text>
       </register>
       <register name="/" type="4">
         <text>Tuple</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGhpcyBoYXBwZW5zISEiKTsK</text>
+      <register name="0" type="4">
+        <text>org.apache.hadoop.io</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmlvLkludFdyaXRhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmlvLkludFdyaXRhYmxlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmlvLkludFdyaXRhYmxlOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1067,16 +1067,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ3JlYXRvcjogIiArIGtleSArICIgIiArIGNvdW50ICsgIiAiICsgc3VjY2Vzc19jb3VudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudCArPSB2YWwuZ2V0Q291bnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ3JlYXRvcjogIiArIGtleSArICIgIiArIGNvdW50ICsgIiAiICsgc3VjY2Vzc19jb3VudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudCArPSB2YWwuZ2V0Q291bnQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIyMjIyMjIyMjIyMjIyMjIyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
