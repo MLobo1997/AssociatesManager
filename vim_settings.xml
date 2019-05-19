@@ -595,11 +595,11 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/Map_Reduce.java" timestamp="1558298354132">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/Map_Reduce.java" timestamp="1558300285236">
+        <mark key="[" line="50" column="53" />
+        <mark key="]" line="50" column="59" />
+        <mark key="." line="50" column="59" />
+        <mark key="^" line="50" column="59" />
       </file>
       <file name="$USER_HOME$/Development/UM/2o_ano/2oSemestre/POO/2017_teste/src/MusicaComVideo.java" timestamp="1498601377788">
         <mark key="[" line="14" column="23" />
@@ -703,12 +703,12 @@
         <mark key="^" line="2" column="139" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/User_Success_Run.java" timestamp="1558297124573">
-        <mark key="'" line="42" column="33" />
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="41" />
-        <mark key="." line="30" column="41" />
-        <mark key="^" line="30" column="41" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/User_Success_Run.java" timestamp="1558300144846">
+        <mark key="'" line="30" column="13" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="28" column="32" />
       </file>
       <file name="$USER_HOME$/Development/hadoop-learn/codebase/hdfskv/src/main/java/KVStore.java" timestamp="1556193045881">
         <mark key="[" line="0" column="44" />
@@ -917,9 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="44" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
-      <jump line="100" column="44" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
-      <jump line="103" column="36" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
       <jump line="79" column="31" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
       <jump line="86" column="31" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
       <jump line="93" column="31" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
@@ -1017,6 +1014,9 @@
       <jump line="24" column="47" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/Map_Reduce.java" />
       <jump line="24" column="47" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/projects_by_date/Map_Reduce.java" />
       <jump line="48" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/Map_Reduce.java" />
+      <jump line="30" column="11" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/User_Success_Run.java" />
+      <jump line="29" column="30" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/User_Success_Run.java" />
+      <jump line="31" column="13" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/user_success/User_Success_Run.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1031,35 +1031,35 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleS4K</text>
+      <register name="&quot;" type="4">
+        <text>IntWritable</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Map_Reduce</text>
+        <text>IntWritable</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3dcPg==</text>
+        <text>Tuple</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGhpcyBoYXBwZW5zISEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmlvLkludFdyaXRhYmxlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvdW50LnNldChjb3VudCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmlvLkludFdyaXRhYmxlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENvdW50KEludGVnZXIgY291bnQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ3JlYXRvcjogIiArIGtleSArICIgIiArIGNvdW50ICsgIiAiICsgc3VjY2Vzc19jb3VudCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1068,25 +1068,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiT2khIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudCArPSB2YWwuZ2V0Q291bnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKCJUaGlzIGhhcHBlbnMhISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmlvLkludFdyaXRhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIyMjIyMjIyMjIyMjIyMjIyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihrZXkgKyAiICIgKyBpbmZvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3dcPg==</last-search>
+      <last-search>Tuple</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3dcPg==</last-pattern>
+      <last-pattern>Tuple</last-pattern>
       <last-replace>rank</last-replace>
       <last-substitute>ranking\c</last-substitute>
       <last-dir>1</last-dir>
@@ -1094,7 +1094,6 @@
     </search>
     <history>
       <history-search>
-        <entry>created</entry>
         <entry encoding="base64">XDxjcmVhdGVkX2F0XD4=</entry>
         <entry>id</entry>
         <entry encoding="base64">XDxyZWR1Y2VcPg==</entry>
@@ -1114,6 +1113,7 @@
         <entry>Int</entry>
         <entry>IntWri</entry>
         <entry encoding="base64">XDxyb3dcPg==</entry>
+        <entry>Tuple</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Integer/Long/gc</entry>
