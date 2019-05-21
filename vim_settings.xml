@@ -80,9 +80,10 @@
         <mark key="." line="20" column="114" />
         <mark key="^" line="20" column="114" />
       </file>
-      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/backers_value_count/Map_Reduce.java" timestamp="1558340239598">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="66" />
+      <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/backers_value_count/Map_Reduce.java" timestamp="1558459725178">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="46" column="54" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyReadWriteJob.java" timestamp="1558118584297">
@@ -921,8 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="6" filename="$USER_HOME$/Development/Kickstarter_Big_Data/cloud-bigtable-examples/java/dataproc-wordcount/src/main/java/com/example/bigtable/sample/WordCountHBase.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" />
       <jump line="9" column="41" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/Main.java" />
       <jump line="40" column="53" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" />
       <jump line="124" column="27" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/MyRowCounter.java" />
@@ -1021,6 +1020,8 @@
       <jump line="61" column="64" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
       <jump line="3" column="31" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
       <jump line="30" column="36" filename="$USER_HOME$/Development/Kickstarter_Big_Data/hbase_client/src/main/java/HBaseManager.java" />
+      <jump line="33" column="8" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/backers_value_count/Map_Reduce.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/Development/Kickstarter_Big_Data/map-reduce-jobs/src/main/java/backers_value_count/Map_Reduce.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1036,7 +1037,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsKICAgICAgICAgICAgICAgIGZvciAoSW50V3JpdGFibGUgdmFsIDogdmFsdWVzKSB7CiAgICAgICAgICAgICAgICAgICAgaSArPSB2YWwuZ2V0KCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb250ZXh0LndyaXRlKGtleSwgbmV3IEludFdyaXRhYmxlKGkpKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1048,7 +1049,7 @@
         <text encoding="base64">XDxUYWJsZU5hbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBKb2Igam9iID0gbmV3IEpvYihjb25maWcsIkV4YW1wbGVSZWFkV3JpdGUiKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBqb2Iuc2V0SmFyQnlDbGFzcyhNYXBfUmVkdWNlLmNsYXNzKTsgICAgLy8gY2xhc3MgdGhhdCBjb250YWlucyBtYXBwZXIKCiAgICAgICAgICAgIFNjYW4gc2NhbiA9IG5ldyBTY2FuKCk7CiAgICAgICAgICAgIHNjYW4uc2V0Q2FjaGluZyg1MDApOyAgICAgICAgLy8gMSBpcyB0aGUgZGVmYXVsdCBpbiBTY2FuLCB3aGljaCB3aWxsIGJlIGJhZCBmb3IgTWFwUmVkdWNlIGpvYnMKICAgICAgICAgICAgc2Nhbi5zZXRDYWNoZUJsb2NrcyhmYWxzZSk7ICAvLyBkb24ndCBzZXQgdG8gdHJ1ZSBmb3IgTVIgam9icwogICAgICAgICAgICBzY2FuLmFkZEZhbWlseShNYXBfUmVkdWNlLkNGKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsKICAgICAgICAgICAgICAgIGZvciAoSW50V3JpdGFibGUgdmFsIDogdmFsdWVzKSB7CiAgICAgICAgICAgICAgICAgICAgaSArPSB2YWwuZ2V0KCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb250ZXh0LndyaXRlKGtleSwgbmV3IEludFdyaXRhYmxlKGkpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
